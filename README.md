@@ -68,7 +68,7 @@ python predict.py --config='path/to/config/file/get/from/training/stage' --weigh
 ```
 
 ## 4. Save model
-File .pth contains state_dict, optimizer, and other parameters, to export only model to use Kaggle notebook, use file "save_model.py" (change paths inside this file)
+File .pth contains state_dict, optimizer, and other parameters, to export only model to use [Kaggle notebook](https://www.kaggle.com/code/ntdat02092002/kalapa-submit-private), use file `save_model.py` (change paths inside this file)
 
 
 
