@@ -1,0 +1,25 @@
+params:
+  batch_size: 24
+  epochs: 150
+  iters_per_epoch: 375 # (num_samples of training data) / batch_size
+  print_every: 100 # show train loss at every n steps (recommend same as iters_per_epoch for print every epoch)
+  valid_every: 100
+
+dataset_params:
+  name: kalapa_finetune_with_empty # dataset name
+  data_root: /workplace/datasets/ # rootdir
+  train_annotation: labels_train_gt_3.txt # path to train annotation (inside rootdir)
+  valid_annotation: labels_val_gt_3.txt # path to valid annotation (inside rootdir)
+  image_height: 48
+  image_min_width: 48
+  image_max_width: 960
+
+dataloader:
+    num_workers: 6
+    pin_memory: True
+
+seed: 0
+model: seq2seq # transformer or seq2seq
+backbone: vgg11_bn
+vocab: 0123456789aàảãáạăằẳẵắặâầẩẫấậbcdđeèẻẽéẹêềểễếệfghiìỉĩíịjklmnoòỏõóọôồổỗốộơờởỡớợpqrstuùủũúụưừửữứựvwxyỳỷỹýỵzAÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZ !"#$%&'()*+,-./:;<=>?@[\]_`~
+save_path: ./output/kalapa_vgg11_finetune_with_empty_new/checkpoints/ # Leave this field blank, the default will be checkpoints/vietocr/${now:%Y-%m-%d}_${now:%H-%M-%S}/

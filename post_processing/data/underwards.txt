@@ -1,0 +1,3605 @@
+bùi xương trạch|bxt	khương đình|kđ	thanh xuân	hà nội|hn
+khương hạ	khương đình|kđ	thanh xuân	hà nội|hn
+khương trung|kt	khương đình|kđ	thanh xuân	hà nội|hn
+vũ tông phan|vtp	khương đình|kđ	thanh xuân	hà nội|hn
+giáp nhất|gn	thượng đình|tđ	thanh xuân	hà nội|hn
+quan nhân|qn	thượng đình|tđ	thanh xuân	hà nội|hn
+cự lộc|cl	thượng đình|tđ	thanh xuân	hà nội|hn
+khương đình|kđ	thượng đình|tđ	thanh xuân	hà nội|hn
+nguyễn trãi|nt	thượng đình|tđ	thanh xuân	hà nội|hn
+nguyễn viết xuân|nvx	khương mai|km	thanh xuân	hà nội|hn
+tô vĩnh diện|tvd	khương mai|km	thanh xuân	hà nội|hn
+trần điền|tđ	khương mai|km	thanh xuân	hà nội|hn
+lê trọng tấn|ltt	khương mai|km	thanh xuân	hà nội|hn
+nguyễn trãi|nt	khương trung|kt	đống đa	hà nội|hn
+vương thừa vũ|vtv	khương trung|kt	thanh xuân	hà nội|hn
+tân hồng|th	khương trung|kt	thanh xuân	hà nội|hn
+lạc hồng|lh	khương trung|kt	thanh xuân	hà nội|hn
+vũ tông phan|vtp	khương trung|kt	thanh xuân	hà nội|hn
+trường chinh|tc	khương trung|kt	thanh xuân	hà nội|hn
+hoàng văn thái|hvt	khương trung|kt	thanh xuân	hà nội|hn
+xuân hồng|xh	khương trung|kt	thanh xuân	hà nội|hn
+nguỵ như kon tum|nnkt	thanh xuân trung|txt	thanh xuân	hà nội|hn
+lê văn thiêm|lvt	thanh xuân trung|txt	thanh xuân	hà nội|hn
+quan nhân|qn	thanh xuân trung|txt	thanh xuân	hà nội|hn
+nguyễn huy tưởng|nht	thanh xuân trung|txt	thanh xuân	hà nội|hn
+nguyễn trãi|nt	thanh xuân trung|txt	thanh xuân	hà nội|hn
+nguyễn xiển|nx	thanh xuân trung|txt	thanh xuân	hà nội|hn
+nguyễn xiển|nx	kim giang|kg	thanh xuân	hà nội|hn
+nguyễn quý đức|nqđ	thanh xuân bắc|txb	thanh xuân	hà nội|hn
+nguyễn trãi|nt	thanh xuân bắc|txb	thanh xuân	hà nội|hn
+nguyễn xiển|nx	thanh xuân bắc|txb	thanh xuân	hà nội|hn
+giải phóng|gp	phương liệt|pl	thanh xuân	hà nội|hn
+định công|đc	phương liệt|pl	thanh xuân	hà nội|hn
+phố vọng|pv	phương liệt|pl	thanh xuân	hà nội|hn
+lê trọng tấn|ltt	phương liệt|pl	thanh xuân	hà nội|hn
+phan đình giót|pđg	phương liệt|pl	thanh xuân	hà nội|hn
+nguyễn văn trỗi|nvt	phương liệt|pl	thanh xuân	hà nội|hn
+trường chinh|tc	phương liệt|pl	thanh xuân	hà nội|hn
+nguyễn lân|nl	phương liệt|pl	thanh xuân	hà nội|hn
+nguyễn ngọc vũ|nnv	nhân chính|nc	thanh xuân	hà nội|hn
+vũ hữu|vh	nhân chính|nc	thanh xuân	hà nội|hn
+nguyễn thị định|ntđ	nhân chính|nc	thanh xuân	hà nội|hn
+hồ mễ trì|hmt	nhân chính|nc	thanh xuân	hà nội|hn
+lê văn lương|lvl	nhân chính|nc	thanh xuân	hà nội|hn
+giáp nhất|gn	nhân chính|nc	thanh xuân	hà nội|hn
+nguyễn tuân|nt	nhân chính|nc	thanh xuân	hà nội|hn
+hoàng đạo thuý|hđt	nhân chính|nc	thanh xuân	hà nội|hn
+tố hữu|th	nhân chính|nc	thanh xuân	hà nội|hn
+nguyễn thị thập|ntt	nhân chính|nc	thanh xuân	hà nội|hn
+phùng khắc khoan|pkk	ngô thì nhậm|ntn	hai bà trưng	hà nội|hn
+hoà mã|hm	ngô thì nhậm|ntn	hai bà trưng	hà nội|hn
+ngõ huế|nh	ngô thì nhậm|ntn	hai bà trưng	hà nội|hn
+huế	ngô thì nhậm|ntn	hai bà trưng	hà nội|hn
+tuệ tĩnh|tt	ngô thì nhậm|ntn	hai bà trưng	hà nội|hn
+nguyễn công trứ|nct	ngô thì nhậm|ntn	hai bà trưng	hà nội|hn
+trần xuân soạn|txs	ngô thì nhậm|ntn	hai bà trưng	hà nội|hn
+phù đổng thiên vương|pđtv	ngô thì nhậm|ntn	hai bà trưng	hà nội|hn
+thi sách|ts	ngô thì nhậm|ntn	hai bà trưng	hà nội|hn
+triều khúc|tk	thanh xuân nam|txn	thanh xuân	hà nội|hn
+nguyễn quý đức|nqđ	thanh xuân nam|txn	thanh xuân	hà nội|hn
+nguyễn trãi|nt	thanh xuân nam|txn	thanh xuân	hà nội|hn
+nguyễn xiển|nx	thanh xuân nam|txn	thanh xuân	hà nội|hn
+tạ quang bửu|tqb	bách khoa|bk	hai bà trưng	hà nội|hn
+trần đại nghĩa|tđn	bách khoa|bk	hai bà trưng	hà nội|hn
+lê thanh nghị|ltn	bách khoa|bk	hai bà trưng	hà nội|hn
+nguyễn hiền|nh	bách khoa|bk	hai bà trưng	hà nội|hn
+đại cồ việt|đcv	bách khoa|bk	hai bà trưng	hà nội|hn
+ngõ mai hương|nmh	bạch mai|bm	hai bà trưng	hà nội|hn
+ngõ thái lợi|ntl	bạch mai|bm	hai bà trưng	hà nội|hn
+ngõ hậu khuông|nhk	bạch mai|bm	hai bà trưng	hà nội|hn
+tạ quang bửu|tqb	bạch mai|bm	hai bà trưng	hà nội|hn
+hồng mai|hm	bạch mai|bm	hai bà trưng	hà nội|hn
+lê thanh nghị|ltn	bạch mai|bm	hai bà trưng	hà nội|hn
+bùi ngọc dương|bnd	bạch mai|bm	hai bà trưng	hà nội|hn
+thanh nhàn|tn	bạch mai|bm	hai bà trưng	hà nội|hn
+bà triệu|bt	bùi thị xuân|btx	hai bà trưng	hà nội|hn
+ngõ tràng an|nta	bùi thị xuân|btx	hai bà trưng	hà nội|hn
+huế	bùi thị xuân|btx	hai bà trưng	hà nội|hn
+tuệ tĩnh|tt	bùi thị xuân|btx	hai bà trưng	hà nội|hn
+mai hắc đế|mhđ	bùi thị xuân|btx	hai bà trưng	hà nội|hn
+tô hiến thành|tht	bùi thị xuân|btx	hai bà trưng	hà nội|hn
+nguyễn du|nd	bùi thị xuân|btx	hai bà trưng	hà nội|hn
+trần nhân tông|tnt	bùi thị xuân|btx	hai bà trưng	hà nội|hn
+trần thánh tông|ttt	bạch đằng|bđ	hai bà trưng	hà nội|hn
+đầm trấu|đt	bạch đằng|bđ	hai bà trưng	hà nội|hn
+lê quý đôn|lqđ	bạch đằng|bđ	hai bà trưng	hà nội|hn
+trần khánh dư|tkd	bạch đằng|bđ	hai bà trưng	hà nội|hn
+tây kết|tk	bạch đằng|bđ	hai bà trưng	hà nội|hn
+lương yên|ly	bạch đằng|bđ	hai bà trưng	hà nội|hn
+vân đồn|vđ	bạch đằng|bđ	hai bà trưng	hà nội|hn
+trần hưng đạo|thđ	bạch đằng|bđ	hai bà trưng	hà nội|hn
+lãng yên|ly	bạch đằng|bđ	hai bà trưng	hà nội|hn
+đê tô hoàng|đth	cầu dền|cd	hai bà trưng	hà nội|hn
+đại cồ việt|đcv	cầu dền|cd	hai bà trưng	hà nội|hn
+lê thanh nghị|ltn	cầu dền|cd	hai bà trưng	hà nội|hn
+hoa lư|hl	lê đại hành|lđh	hai bà trưng	hà nội|hn
+nguyễn bỉnh khiêm|nbk	lê đại hành|lđh	hai bà trưng	hà nội|hn
+cao đạt|cđ	lê đại hành|lđh	hai bà trưng	hà nội|hn
+bà triệu|bt	lê đại hành|lđh	hai bà trưng	hà nội|hn
+đội cung|đc	lê đại hành|lđh	hai bà trưng	hà nội|hn
+đoàn trần nghiệp|đtn	lê đại hành|lđh	hai bà trưng	hà nội|hn
+mai hắc đế|mhđ	lê đại hành|lđh	hai bà trưng	hà nội|hn
+tô hiến thành|tht	lê đại hành|lđh	hai bà trưng	hà nội|hn
+đại cồ việt|đcv	lê đại hành|lđh	hai bà trưng	hà nội|hn
+hồ xuân hương|hxh	nguyễn du|nd	hai bà trưng	hà nội|hn
+quang trung|qt	nguyễn du|nd	hai bà trưng	hà nội|hn
+nguyễn bỉnh khiêm|nbk	nguyễn du|nd	hai bà trưng	hà nội|hn
+lê duẩn|ld	nguyễn du|nd	hai bà trưng	hà nội|hn
+bà triệu|bt	nguyễn du|nd	hai bà trưng	hà nội|hn
+tuệ tĩnh|tt	nguyễn du|nd	hai bà trưng	hà nội|hn
+nguyễn đình chiểu|nđc	nguyễn du|nd	hai bà trưng	hà nội|hn
+thể giao|tg	nguyễn du|nd	hai bà trưng	hà nội|hn
+hồ thiền quang|htq	nguyễn du|nd	hai bà trưng	hà nội|hn
+trần bình trọng|tbt	nguyễn du|nd	hai bà trưng	hà nội|hn
+trần nhân tông|tnt	nguyễn du|nd	hai bà trưng	hà nội|hn
+yết kiêu|yk	nguyễn du|nd	hai bà trưng	hà nội|hn
+kim ngưu|kn	minh khai|mk	hai bà trưng	hà nội|hn
+ngõ gốc đề|ngđ	minh khai|mk	hai bà trưng	hà nội|hn
+lò đúc|lđ	phạm đình hổ|pđh	hai bà trưng	hà nội|hn
+hàn thuyên|ht	phạm đình hổ|pđh	hai bà trưng	hà nội|hn
+lê quý đôn|lqđ	phạm đình hổ|pđh	hai bà trưng	hà nội|hn
+tăng bạt hổ|tbh	phạm đình hổ|pđh	hai bà trưng	hà nội|hn
+hoà mã|hm	phạm đình hổ|pđh	hai bà trưng	hà nội|hn
+nguyễn trung ngạn|ntn	phạm đình hổ|pđh	hai bà trưng	hà nội|hn
+nguyễn công trứ|nct	phạm đình hổ|pđh	hai bà trưng	hà nội|hn
+thịnh yên|ty	phố huế	hai bà trưng	hà nội|hn
+yên bái|yb	phố huế	hai bà trưng	hà nội|hn
+trần cao vân|tcv	phố huế	hai bà trưng	hà nội|hn
+nguyễn công trứ|nct	phố huế	hai bà trưng	hà nội|hn
+trần khát chân|tkc	phố huế	hai bà trưng	hà nội|hn
+yên bái ii|ybi	phố huế	hai bà trưng	hà nội|hn
+ngõ tân lập|ntl	quỳnh lôi|ql	hai bà trưng	hà nội|hn
+ngõ quỳnh|nq	quỳnh lôi|ql	hai bà trưng	hà nội|hn
+hồng mai|hm	quỳnh lôi|ql	hai bà trưng	hà nội|hn
+thanh nhàn|tn	quỳnh lôi|ql	hai bà trưng	hà nội|hn
+kim ngưu|kn	quỳnh mai|qm	hai bà trưng	hà nội|hn
+thanh nhàn|tn	quỳnh mai|qm	hai bà trưng	hà nội|hn
+minh khai|mk	thanh lương|tl	hai bà trưng	hà nội|hn
+trần khát chân|tkc	thanh lương|tl	hai bà trưng	hà nội|hn
+kim ngưu|kn	thanh lương|tl	hai bà trưng	hà nội|hn
+bạch đằng|bđ	thanh lương|tl	hai bà trưng	hà nội|hn
+ngõ quỳnh|nq	thanh nhàn|tn	hai bà trưng	hà nội|hn
+lạc nghiệp|ln	thanh nhàn|tn	hai bà trưng	hà nội|hn
+kim ngưu|kn	thanh nhàn|tn	hai bà trưng	hà nội|hn
+ngõ đình đông|nđđ	thanh nhàn|tn	hai bà trưng	hà nội|hn
+trần khát chân|tkc	thanh nhàn|tn	hai bà trưng	hà nội|hn
+ngõ tân lập|ntl	thanh nhàn|tn	hai bà trưng	hà nội|hn
+võ thị sáu|vts	thanh nhàn|tn	hai bà trưng	hà nội|hn
+trại găng|tg	thanh nhàn|tn	hai bà trưng	hà nội|hn
+ngõ giếng mứt|ngm	trương định|tđ	hai bà trưng	hà nội|hn
+minh khai|mk	trương định|tđ	hai bà trưng	hà nội|hn
+ngõ thống nhất|ntn	trương định|tđ	hai bà trưng	hà nội|hn
+đại la|đl	trương định|tđ	hai bà trưng	hà nội|hn
+trại cá|tc	trương định|tđ	hai bà trưng	hà nội|hn
+hoàng mai|hm	trương định|tđ	hai bà trưng	hà nội|hn
+bạch mai|bm	trương định|tđ	hai bà trưng	hà nội|hn
+minh khai|mk	vĩnh tuy|vt	hai bà trưng	hà nội|hn
+lạc trung|lt	vĩnh tuy|vt	hai bà trưng	hà nội|hn
+dương văn bé|dvb	vĩnh tuy|vt	hai bà trưng	hà nội|hn
+yên lạc|yl	vĩnh tuy|vt	hai bà trưng	hà nội|hn
+nguyễn khoái|nk	vĩnh tuy|vt	hai bà trưng	hà nội|hn
+kim ngưu|kn	vĩnh tuy|vt	hai bà trưng	hà nội|hn
+mạc thị bưởi|mtb	vĩnh tuy|vt	hai bà trưng	hà nội|hn
+hương viên|hv	đống mác|đm	hai bà trưng	hà nội|hn
+nguyễn cao|nc	đống mác|đm	hai bà trưng	hà nội|hn
+lò đúc|lđ	đống mác|đm	hai bà trưng	hà nội|hn
+thọ lão|tl	đống mác|đm	hai bà trưng	hà nội|hn
+nguyễn công trứ|nct	đống mác|đm	hai bà trưng	hà nội|hn
+trần khát chân|tkc	đống mác|đm	hai bà trưng	hà nội|hn
+đồng nhân|đn	đồng xuân|đx	hai bà trưng	hà nội|hn
+đại la|đl	đồng tâm|đt	hai bà trưng	hà nội|hn
+giải phóng|gp	đồng tâm|đt	hai bà trưng	hà nội|hn
+lê thanh nghị|ltn	đồng tâm|đt	hai bà trưng	hà nội|hn
+bình sơn|bs	chúc sơn|cs	chương mỹ	hà nội|hn
+đình xóm nội|đxn	chúc sơn|cs	chương mỹ	hà nội|hn
+hoà sơn|hs	chúc sơn|cs	chương mỹ	hà nội|hn
+núi linh sơn|nls	chúc sơn|cs	chương mỹ	hà nội|hn
+giáp ngọ|gn	chúc sơn|cs	chương mỹ	hà nội|hn
+đình xóm xá|đxx	chúc sơn|cs	chương mỹ	hà nội|hn
+yên sơn|ys	chúc sơn|cs	chương mỹ	hà nội|hn
+đình ngọc giả|đng	ngọc hoà|nh	chương mỹ	hà nội|hn
+chúc lý|cl	ngọc hoà|nh	chương mỹ	hà nội|hn
+cốc thượng|ct	hoàng diệu|hd	chương mỹ	hà nội|hn
+cốc hạ|ch	hoàng diệu|hd	chương mỹ	hà nội|hn
+văn sơn|vs	hoàng văn thụ|hvt	chương mỹ	hà nội|hn
+thuần lương|tl	hoàng văn thụ|hvt	chương mỹ	hà nội|hn
+yên trinh|yt	hoàng văn thụ|hvt	chương mỹ	hà nội|hn
+đồng lệ|đl	hợp đồng|hđ	chương mỹ	hà nội|hn
+thái hoà	hợp đồng|hđ	chương mỹ	hà nội|hn
+đồng du|đd	hợp đồng|hđ	chương mỹ	hà nội|hn
+đại từ|đt	lam điền|lđ	chương mỹ	hà nội|hn
+đình làng ứng hoà|đlứh	lam điền|lđ	chương mỹ	hà nội|hn
+nhân lý|nl	nam phương tiến a|npta	chương mỹ	hà nội|hn
+mỗ xá|mx	phú nam an|pna	chương mỹ	hà nội|hn
+nghĩa hảo|nh	phú nghĩa|pn	chương mỹ	hà nội|hn
+ngãi cầu|nc	an khánh|ak	hoài đức	hà nội|hn
+an thọ|at	an khánh|ak	hoài đức	hà nội|hn
+vân lũng|vl	an khánh|ak	hoài đức	hà nội|hn
+phú vinh|pv	an khánh|ak	hoài đức	hà nội|hn
+yên lũng|yl	an khánh|ak	hoài đức	hà nội|hn
+long châu|lc	phụng châu|pc	chương mỹ	hà nội|hn
+phương bản|pb	phụng châu|pc	chương mỹ	hà nội|hn
+phụng nghĩa|pn	phụng châu|pc	chương mỹ	hà nội|hn
+xóm đồng|xđ	phụng châu|pc	chương mỹ	hà nội|hn
+nguyễn thái học|nth	yết kiêu|yk	hà đông|hđ	hà nội|hn
+phan huy chú|phc	yết kiêu|yk	hà đông|hđ	hà nội|hn
+trần văn chuông|tvc	yết kiêu|yk	hà đông|hđ	hà nội|hn
+quang trung|qt	yết kiêu|yk	hà đông|hđ	hà nội|hn
+tây sơn|ts	yết kiêu|yk	hà đông|hđ	hà nội|hn
+trương công định|tcđ	yết kiêu|yk	hà đông|hđ	hà nội|hn
+nguyễn thượng hiền|nth	yết kiêu|yk	hà đông|hđ	hà nội|hn
+ngô gia khảm|ngk	yết kiêu|yk	hà đông|hđ	hà nội|hn
+phan chu trinh|pct	yết kiêu|yk	hà đông|hđ	hà nội|hn
+cao thắng|ct	yết kiêu|yk	hà đông|hđ	hà nội|hn
+huỳnh thúc kháng|htk	yết kiêu|yk	hà đông|hđ	hà nội|hn
+kim nê|kn	thanh bình|tb	chương mỹ	hà nội|hn
+phù yên|py	trường yên|ty	chương mỹ	hà nội|hn
+trung tiến|tt	thuỵ hương	chương mỹ	hà nội|hn
+phúc cầu|pc	thuỵ hương	chương mỹ	hà nội|hn
+tiên an|ta	thuỷ xuân tiên|txt	chương mỹ	hà nội|hn
+xuân trung|xt	thuỷ xuân tiên|txt	chương mỹ	hà nội|hn
+tri thuỷ|tt	thuỷ xuân tiên|txt	chương mỹ	hà nội|hn
+cao sơn|cs	tiên phương|tp	chương mỹ	hà nội|hn
+trung tiến|tt	trần phú|tp	chương mỹ	hà nội|hn
+tân hội|th	tân tiến|tt	chương mỹ	hà nội|hn
+ang phao|ap	cao dương|cd	thanh oai	hà nội|hn
+xóm bến|xb	cao dương|cd	thanh oai	hà nội|hn
+thị nguyên|tn	cao dương|cd	thanh oai	hà nội|hn
+đa ngư|đn	cao dương|cd	thanh oai	hà nội|hn
+xóm mới|xm	tốt động|tđ	chương mỹ	hà nội|hn
+võ lao|vl	văn võ|vv	chương mỹ	hà nội|hn
+đồi hai|đh	đông phương yên|đpy	chương mỹ	hà nội|hn
+yên kiện|yk	đông phương yên|đpy	chương mỹ	hà nội|hn
+lũng vi|lv	đông phương yên|đpy	chương mỹ	hà nội|hn
+quyết hạ|qh	đông sơn|đs	chương mỹ	hà nội|hn
+quyết thượng|qt	đông sơn|đs	chương mỹ	hà nội|hn
+xóm dẫy|xd	đại yên|đy	chương mỹ	hà nội|hn
+đình yên lạc|đyl	đồng lạc|đl	chương mỹ	hà nội|hn
+hạ dục|hd	đồng phú|đp	chương mỹ	hà nội|hn
+chùa làng thượng phúc|cltp	đồng phú|đp	chương mỹ	hà nội|hn
+cầu giấy|cg	láng thượng|lt	đống đa	hà nội|hn
+đường láng|đl	láng thượng|lt	đống đa	hà nội|hn
+la thành|lt	láng thượng|lt	đống đa	hà nội|hn
+nguyễn chí thanh|nct	láng thượng|lt	đống đa	hà nội|hn
+ngõ chùa nền|ncn	láng thượng|lt	đống đa	hà nội|hn
+ngõ láng trung|nlt	láng thượng|lt	đống đa	hà nội|hn
+chùa láng|cl	láng thượng|lt	đống đa	hà nội|hn
+pháo đài láng|pđl	láng thượng|lt	đống đa	hà nội|hn
+nguyễn thái học|nth	cát linh|cl	đống đa	hà nội|hn
+hào nam|hn	cát linh|cl	đống đa	hà nội|hn
+giảng võ|gv	cát linh|cl	đống đa	hà nội|hn
+la thành|lt	cát linh|cl	đống đa	hà nội|hn
+tôn đức thắng|tđt	cát linh|cl	đống đa	hà nội|hn
+hoàng ngọc phách|hnp	láng hạ|lh	đống đa	hà nội|hn
+trúc khê|tk	láng hạ|lh	đống đa	hà nội|hn
+đường láng|đl	láng hạ|lh	đống đa	hà nội|hn
+nguyên hồng|nh	láng hạ|lh	đống đa	hà nội|hn
+yên lãng|yl	láng hạ|lh	đống đa	hà nội|hn
+thái hà	láng hạ|lh	đống đa	hà nội|hn
+thái thịnh|tt	láng hạ|lh	đống đa	hà nội|hn
+nguyễn chí thanh|nct	láng hạ|lh	đống đa	hà nội|hn
+vũ ngọc phan|vnp	láng hạ|lh	đống đa	hà nội|hn
+chùa láng|cl	láng hạ|lh	đống đa	hà nội|hn
+tôn đức thắng|tđt	hàng bột|hb	đống đa	hà nội|hn
+ngõ văn hương|nvh	hàng bột|hb	đống đa	hà nội|hn
+hồ giám|hg	quốc tử giám|qtg	đống đa	hà nội|hn
+đoàn thị điểm|đtđ	quốc tử giám|qtg	đống đa	hà nội|hn
+an trạch|at	quốc tử giám|qtg	đống đa	hà nội|hn
+cát linh|cl	quốc tử giám|qtg	đống đa	hà nội|hn
+tôn đức thắng|tđt	quốc tử giám|qtg	đống đa	hà nội|hn
+ngõ thông phong|ntp	quốc tử giám|qtg	đống đa	hà nội|hn
+ngõ đình tương thuận|nđtt	khâm thiên|kt	đống đa	hà nội|hn
+ngõ đại đồng|nđđ	khâm thiên|kt	đống đa	hà nội|hn
+ngõ chùa liên hoa|nclh	khâm thiên|kt	đống đa	hà nội|hn
+lê duẩn|ld	khâm thiên|kt	đống đa	hà nội|hn
+ngõ hồ bãi cát|nhbc	khâm thiên|kt	đống đa	hà nội|hn
+ngõ sân quần|nsq	khâm thiên|kt	đống đa	hà nội|hn
+ngõ chợ khâm thiên|nckt	khâm thiên|kt	đống đa	hà nội|hn
+hồ ba mẫu|hbm	trung phụng|tp	đống đa	hà nội|hn
+lê duẩn|ld	trung phụng|tp	đống đa	hà nội|hn
+ngõ gia tụ b|ngtb	trung phụng|tp	đống đa	hà nội|hn
+khâm thiên|kt	trung phụng|tp	đống đa	hà nội|hn
+ngõ cống trắng|nct	trung phụng|tp	đống đa	hà nội|hn
+ngõ lan bá|nlb	trung phụng|tp	đống đa	hà nội|hn
+ngõ khâm đức|nkđ	trung phụng|tp	đống đa	hà nội|hn
+ngõ chợ khâm thiên|nckt	trung phụng|tp	đống đa	hà nội|hn
+ngõ hoàng an|nha	trung phụng|tp	đống đa	hà nội|hn
+tôn thất tùng|ttt	khương thượng|kt	đống đa	hà nội|hn
+trường chinh|tc	khương thượng|kt	đống đa	hà nội|hn
+hồ hố mẻ|hhm	khương thượng|kt	đống đa	hà nội|hn
+kim hoa|kh	phương liên|pl	đống đa	hà nội|hn
+lê duẩn|ld	phương liên|pl	đống đa	hà nội|hn
+phạm ngọc thạch|pnt	phương liên|pl	đống đa	hà nội|hn
+đặng văn ngữ|đvn	phương liên|pl	đống đa	hà nội|hn
+đê la thành|đlt	phương liên|pl	đống đa	hà nội|hn
+ngõ chợ khâm thiên|nckt	phương liên|pl	đống đa	hà nội|hn
+xã đàn|xđ	phương liên|pl	đống đa	hà nội|hn
+phương mai|pm	kim liên|kl	đống đa	hà nội|hn
+đào duy anh|đda	kim liên|kl	đống đa	hà nội|hn
+phạm ngọc thạch|pnt	kim liên|kl	đống đa	hà nội|hn
+đông tác|đt	kim liên|kl	đống đa	hà nội|hn
+đặng văn ngữ|đvn	kim liên|kl	đống đa	hà nội|hn
+lương định của|lđc	kim liên|kl	đống đa	hà nội|hn
+xã đàn|xđ	kim liên|kl	đống đa	hà nội|hn
+hoàng tích trí|htt	kim liên|kl	đống đa	hà nội|hn
+ngõ lương sử a|nlsa	văn chương|vc	đống đa	hà nội|hn
+ngõ lương sử c|nlsc	văn chương|vc	đống đa	hà nội|hn
+ngõ trung tả|ntt	văn chương|vc	đống đa	hà nội|hn
+tôn đức thắng|tđt	văn chương|vc	đống đa	hà nội|hn
+trần quý cap|tqc	văn chương|vc	đống đa	hà nội|hn
+linh quang a|lqa	văn chương|vc	đống đa	hà nội|hn
+tây sơn|ts	nam đồng|nđ	đống đa	hà nội|hn
+trần hữu tước|tht	nam đồng|nđ	đống đa	hà nội|hn
+nguyễn lương bằng|nlb	nam đồng|nđ	đống đa	hà nội|hn
+đê la thành|đlt	nam đồng|nđ	đống đa	hà nội|hn
+nguyễn thái học|nth	văn miếu|vm	đống đa	hà nội|hn
+nguyễn như đổ|nnđ	văn miếu|vm	đống đa	hà nội|hn
+lê duẩn|ld	văn miếu|vm	đống đa	hà nội|hn
+quốc tử giám|qtg	văn miếu|vm	đống đa	hà nội|hn
+trần quý cap|tqc	văn miếu|vm	đống đa	hà nội|hn
+ngô tất tố|ntt	văn miếu|vm	đống đa	hà nội|hn
+nguyễn khuyến|nk	văn miếu|vm	đống đa	hà nội|hn
+tây sơn|ts	ngã tư sở|nts	đống đa	hà nội|hn
+trường chinh|tc	ngã tư sở|nts	đống đa	hà nội|hn
+đường láng|đl	ngã tư sở|nts	đống đa	hà nội|hn
+thái thịnh|tt	ngã tư sở|nts	đống đa	hà nội|hn
+ngõ trung tả|ntt	thổ quan|tq	đống đa	hà nội|hn
+khâm thiên|kt	thổ quan|tq	đống đa	hà nội|hn
+tôn đức thắng|tđt	thổ quan|tq	đống đa	hà nội|hn
+đê la thành|đlt	thổ quan|tq	đống đa	hà nội|hn
+ngõ hoà bình|nhb	thổ quan|tq	đống đa	hà nội|hn
+xã đàn|xđ	thổ quan|tq	đống đa	hà nội|hn
+trường chinh|tc	phương mai|pm	đống đa	hà nội|hn
+giải phóng|gp	phương mai|pm	đống đa	hà nội|hn
+phố vọng|pv	phương mai|pm	đống đa	hà nội|hn
+đào duy anh|đda	phương mai|pm	đống đa	hà nội|hn
+an đào b|ađb	trâu quỳ|tq	gia lâm	hà nội|hn
+đường t|đt	trâu quỳ|tq	gia lâm	hà nội|hn
+ngô xuân quảng|nxq	trâu quỳ|tq	gia lâm	hà nội|hn
+chính trung|ct	trâu quỳ|tq	gia lâm	hà nội|hn
+kiên thành|kt	trâu quỳ|tq	gia lâm	hà nội|hn
+đào nguyên|đn	trâu quỳ|tq	gia lâm	hà nội|hn
+bình minh|bm	trâu quỳ|tq	gia lâm	hà nội|hn
+đường n|đn	trâu quỳ|tq	gia lâm	hà nội|hn
+cửu việt|cv	trâu quỳ|tq	gia lâm	hà nội|hn
+an đào|ađ	trâu quỳ|tq	gia lâm	hà nội|hn
+trần quang diệu|tqd	quang trung|qt	đống đa	hà nội|hn
+tây sơn|ts	quang trung|qt	đống đa	hà nội|hn
+nguyễn lương bằng|nlb	quang trung|qt	đống đa	hà nội|hn
+chùa bộc|cb	quang trung|qt	đống đa	hà nội|hn
+đặng tiến đông|đtđ	quang trung|qt	đống đa	hà nội|hn
+mai anh tuấn|mat	thành công|tc	ba đình	hà nội|hn
+huỳnh thúc kháng|htk	thành công|tc	ba đình	hà nội|hn
+láng hạ|lh	thành công|tc	ba đình	hà nội|hn
+tây sơn|ts	thịnh quang|tq	đống đa	hà nội|hn
+đường láng|đl	thịnh quang|tq	đống đa	hà nội|hn
+thái thịnh|tt	thịnh quang|tq	đống đa	hà nội|hn
+yên lãng|yl	thịnh quang|tq	đống đa	hà nội|hn
+ngõ chiến thắng|nct	ô chợ dừa|ôcd	đống đa	hà nội|hn
+đông các|đc	ô chợ dừa|ôcd	đống đa	hà nội|hn
+trần quang diệu|tqd	trung liệt|tl	đống đa	hà nội|hn
+hoàng cầu|hc	trung liệt|tl	đống đa	hà nội|hn
+yên lãng|yl	trung liệt|tl	đống đa	hà nội|hn
+thái hà	trung liệt|tl	đống đa	hà nội|hn
+tây sơn|ts	trung liệt|tl	đống đa	hà nội|hn
+thái thịnh|tt	trung liệt|tl	đống đa	hà nội|hn
+chùa bộc|cb	trung liệt|tl	đống đa	hà nội|hn
+đặng tiến đông|đtđ	trung liệt|tl	đống đa	hà nội|hn
+tôn thất tùng|ttt	trung tự|tt	đống đa	hà nội|hn
+phạm ngọc thạch|pnt	trung tự|tt	đống đa	hà nội|hn
+đặng văn ngữ|đvn	trung tự|tt	đống đa	hà nội|hn
+chùa bộc|cb	trung tự|tt	đống đa	hà nội|hn
+hồ đắc di|hđd	trung tự|tt	đống đa	hà nội|hn
+phạm thận duật|ptd	mai dịch|md	cầu giấy	hà nội|hn
+phạm văn đồng|pvđ	mai dịch|md	cầu giấy	hà nội|hn
+doãn kế thiện|dkt	mai dịch|md	cầu giấy	hà nội|hn
+ngõ văn minh|nvm	mai dịch|md	cầu giấy	hà nội|hn
+trần bình|tb	mai dịch|md	cầu giấy	hà nội|hn
+trần vỹ|tv	mai dịch|md	cầu giấy	hà nội|hn
+phạm hùng	mai dịch|md	cầu giấy	hà nội|hn
+hồ tùng mậu|htm	mai dịch|md	cầu giấy	hà nội|hn
+chợ đồng xa|cđx	mai dịch|md	cầu giấy	hà nội|hn
+nguyễn khả trạc|nkt	mai dịch|md	cầu giấy	hà nội|hn
+lê đức thọ|lđt	mai dịch|md	cầu giấy	hà nội|hn
+nguyễn văn huyên|nvh	quan hoa|qh	cầu giấy	hà nội|hn
+nguyễn khánh toàn|nkt	quan hoa|qh	cầu giấy	hà nội|hn
+dương quảng hàm|dqh	quan hoa|qh	cầu giấy	hà nội|hn
+nguyễn khang|nk	quan hoa|qh	cầu giấy	hà nội|hn
+chùa hà	quan hoa|qh	cầu giấy	hà nội|hn
+nguyễn văn huyên|nvh	dịch vọng|dv	cầu giấy	hà nội|hn
+thọ tháp|tt	dịch vọng|dv	cầu giấy	hà nội|hn
+nguyễn khánh toàn|nkt	dịch vọng|dv	cầu giấy	hà nội|hn
+tô hiệu|th	dịch vọng|dv	cầu giấy	hà nội|hn
+trương công giai|tcg	dịch vọng|dv	cầu giấy	hà nội|hn
+thành thái|tt	dịch vọng|dv	cầu giấy	hà nội|hn
+trần quý kiên|tqk	dịch vọng|dv	cầu giấy	hà nội|hn
+nguyễn phong sắc|nps	dịch vọng|dv	cầu giấy	hà nội|hn
+trần thái tông|ttt	dịch vọng|dv	cầu giấy	hà nội|hn
+xuân thuỷ|xt	dịch vọng|dv	cầu giấy	hà nội|hn
+đồng bông|đb	dịch vọng hậu|dvh	cầu giấy	hà nội|hn
+thọ tháp|tt	dịch vọng hậu|dvh	cầu giấy	hà nội|hn
+phạm văn đồng|pvđ	dịch vọng hậu|dvh	cầu giấy	hà nội|hn
+phan văn trường|pvt	dịch vọng hậu|dvh	cầu giấy	hà nội|hn
+cốm vòng|cv	dịch vọng hậu|dvh	cầu giấy	hà nội|hn
+tôn thất thuyết|ttt	dịch vọng hậu|dvh	cầu giấy	hà nội|hn
+tô hiệu|th	dịch vọng hậu|dvh	cầu giấy	hà nội|hn
+nguyễn phong sắc|nps	dịch vọng hậu|dvh	cầu giấy	hà nội|hn
+phạm hùng	dịch vọng hậu|dvh	cầu giấy	hà nội|hn
+trần quốc vượng|tqv	dịch vọng hậu|dvh	cầu giấy	hà nội|hn
+phạm tuấn tài|ptt	dịch vọng hậu|dvh	cầu giấy	hà nội|hn
+nguyễn đình hoàn|nđh	nghĩa đô|nđ	cầu giấy	hà nội|hn
+lạc long quân|llq	nghĩa đô|nđ	cầu giấy	hà nội|hn
+hoàng quốc việt|hqv	nghĩa đô|nđ	cầu giấy	hà nội|hn
+đông quan|đq	nghĩa đô|nđ	cầu giấy	hà nội|hn
+hoàng sâm|hs	nghĩa đô|nđ	cầu giấy	hà nội|hn
+phùng chí kiên|pck	nghĩa đô|nđ	cầu giấy	hà nội|hn
+hoa bằng|hb	yên hoà|yh	cầu giấy	hà nội|hn
+vũ phạm hàm|vph	yên hoà|yh	cầu giấy	hà nội|hn
+hạ yên|hy	yên hoà|yh	cầu giấy	hà nội|hn
+trung hoà|th	yên hoà|yh	cầu giấy	hà nội|hn
+nguyễn chánh|nc	yên hoà|yh	cầu giấy	hà nội|hn
+trần kim xuyến|tkx	yên hoà|yh	cầu giấy	hà nội|hn
+trung kính|tk	yên hoà|yh	cầu giấy	hà nội|hn
+yên hoà|yh	yên hoà|yh	cầu giấy	hà nội|hn
+dương đình nghệ|dđn	yên hoà|yh	cầu giấy	hà nội|hn
+nguyễn ngọc vũ|nnv	trung hoà|th	cầu giấy	hà nội|hn
+trần duy hưng|tdh	trung hoà|th	cầu giấy	hà nội|hn
+khuất duy tiến|kdt	trung hoà|th	cầu giấy	hà nội|hn
+vũ phạm hàm|vph	trung hoà|th	cầu giấy	hà nội|hn
+lê văn lương|lvl	trung hoà|th	cầu giấy	hà nội|hn
+quan nhân|qn	trung hoà|th	cầu giấy	hà nội|hn
+nguyễn chánh|nc	trung hoà|th	cầu giấy	hà nội|hn
+phạm hùng	trung hoà|th	cầu giấy	hà nội|hn
+trung kính|tk	trung hoà|th	cầu giấy	hà nội|hn
+đỗ quang|đq	trung hoà|th	cầu giấy	hà nội|hn
+mạc thái tông|mtt	trung hoà|th	cầu giấy	hà nội|hn
+hoàng ngân|hn	trung hoà|th	cầu giấy	hà nội|hn
+trần tử bình|ttb	nghĩa tân|nt	cầu giấy	hà nội|hn
+tô hiệu|th	nghĩa tân|nt	cầu giấy	hà nội|hn
+đặng thuỳ trâm|đtt	nghĩa tân|nt	cầu giấy	hà nội|hn
+hoàng quốc việt|hqv	nghĩa tân|nt	cầu giấy	hà nội|hn
+nguyễn phong sắc|nps	nghĩa tân|nt	cầu giấy	hà nội|hn
+ngõ tân đô|ntđ	nghĩa tân|nt	cầu giấy	hà nội|hn
+trần cung|tc	nghĩa tân|nt	cầu giấy	hà nội|hn
+quảng khánh|qk	quảng an|qa	tây hồ	hà nội|hn
+xóm chùa|xc	quảng an|qa	tây hồ	hà nội|hn
+đặng thai mai|đtm	quảng an|qa	tây hồ	hà nội|hn
+từ hoa|th	quảng an|qa	tây hồ	hà nội|hn
+âu cơ|âc	quảng an|qa	tây hồ	hà nội|hn
+đường hoa|đh	quảng an|qa	tây hồ	hà nội|hn
+xuân diệu|xd	quảng an|qa	tây hồ	hà nội|hn
+nghi tàm|nt	quảng an|qa	tây hồ	hà nội|hn
+liên cơ|lc	cầu diễn|cd	nam từ liêm	hà nội|hn
+hoàng công chất|hcc	phú diễn|pd	nam từ liêm	hà nội|hn
+hồ tùng mậu|htm	cầu diễn|cd	từ liêm	hà nội|hn
+mễ trì thượng|mtt	mễ trì|mt	nam từ liêm	hà nội|hn
+lê quang đạo|lqđ	mễ trì|mt	nam từ liêm	hà nội|hn
+đỗ đức dục|đđd	mễ trì|mt	nam từ liêm	hà nội|hn
+mễ trì hạ|mth	mễ trì|mt	từ liêm	hà nội|hn
+phương nhị|pn	liên ninh|ln	thanh trì	hà nội|hn
+nội am|na	liên ninh|ln	thanh trì	hà nội|hn
+yên phú|yp	liên ninh|ln	thanh trì	hà nội|hn
+thọ am|ta	liên ninh|ln	thanh trì	hà nội|hn
+đầm quang lai|đql	văn điển|vđ	thanh trì	hà nội|hn
+liên thôn|lt	ngũ hiệp|nh	thanh trì	hà nội|hn
+đông trạch|đt	ngũ hiệp|nh	thanh trì	hà nội|hn
+tương trúc|tt	ngũ hiệp|nh	thanh trì	hà nội|hn
+tự khoát|tk	ngũ hiệp|nh	thanh trì	hà nội|hn
+lạc thị|lt	ngọc hồi|nh	thanh trì	hà nội|hn
+yên kiện|yk	ngọc hồi|nh	thanh trì	hà nội|hn
+đại từ|đt	hoàng liệt|hl	hoàng mai	hà nội|hn
+giải phóng|gp	hoàng liệt|hl	hoàng mai	hà nội|hn
+trần thủ độ|ttđ	hoàng liệt|hl	hoàng mai	hà nội|hn
+bùi huy bích|bhb	hoàng liệt|hl	hoàng mai	hà nội|hn
+pháp vân|pv	hoàng liệt|hl	hoàng mai	hà nội|hn
+bằng b|bb	hoàng liệt|hl	hoàng mai	hà nội|hn
+bằng a|ba	hoàng liệt|hl	hoàng mai	hà nội|hn
+tựu liệt|tl	tam hiệp|th	thanh trì	hà nội|hn
+huỳnh cung|hc	tam hiệp|th	thanh trì	hà nội|hn
+phan trọng tuệ|ptt	tam hiệp|th	thanh trì	hà nội|hn
+yên ngưu|yn	tam hiệp|th	thanh trì	hà nội|hn
+triều khúc|tk	tân triều|tt	thanh trì	hà nội|hn
+tân triều mới|ttm	tân triều|tt	thanh trì	hà nội|hn
+yên xá|yx	tân triều|tt	thanh trì	hà nội|hn
+nghĩa trang thôn thượng|nttt	định công thượng|đct	hoàng mai	hà nội|hn
+thôn vực|tv	thanh liệt|tl	thanh trì	hà nội|hn
+nhân hoà	tả thanh oai|tto	thanh trì	hà nội|hn
+thượng phúc|tp	tả thanh oai|tto	thanh trì	hà nội|hn
+siêu quần|sq	tả thanh oai|tto	thanh trì	hà nội|hn
+cổ điển b|cđb	tứ hiệp|th	thanh trì	hà nội|hn
+mới tứ hiệp|mth	tứ hiệp|th	thanh trì	hà nội|hn
+đồng trì|đt	tứ hiệp|th	thanh trì	hà nội|hn
+cổ điển a|cđa	tứ hiệp|th	thanh trì	hà nội|hn
+ích vinh|ív	vĩnh quỳnh|vq	thanh trì	hà nội|hn
+quỳnh đô|qđ	vĩnh quỳnh|vq	thanh trì	hà nội|hn
+vĩnh ninh|vn	vĩnh quỳnh|vq	thanh trì	hà nội|hn
+tân dân|td	đông mỹ|đm	thanh trì	hà nội|hn
+vĩnh trung|vt	đại áng|đá	thanh trì	hà nội|hn
+vĩnh thịnh|vt	đại áng|đá	thanh trì	hà nội|hn
+phú mỹ|pm	biên giang|bg	hà đông|hđ	hà nội|hn
+phượng bãi|pb	biên giang|bg	hà đông|hđ	hà nội|hn
+tân xa|tx	phúc la|pl	hà đông|hđ	hà nội|hn
+yên phúc|yp	phúc la|pl	hà đông|hđ	hà nội|hn
+lê hữu trác|lht	phúc la|pl	hà đông|hđ	hà nội|hn
+bạch thái bưởi|btb	phúc la|pl	hà đông|hđ	hà nội|hn
+tô hiến thành|tht	phúc la|pl	hà đông|hđ	hà nội|hn
+phùng hưng	phúc la|pl	hà đông|hđ	hà nội|hn
+yên bình|yb	phúc la|pl	hà đông|hđ	hà nội|hn
+nguyễn khuyến|nk	phúc la|pl	hà đông|hđ	hà nội|hn
+hoàng văn thụ|hvt	nguyễn trãi|nt	hà đông|hđ	hà nội|hn
+minh khai|mk	nguyễn trãi|nt	hà đông|hđ	hà nội|hn
+tản đà|tđ	nguyễn trãi|nt	hà đông|hđ	hà nội|hn
+lê quý đôn|lqđ	nguyễn trãi|nt	hà đông|hđ	hà nội|hn
+hoàng diệu|hd	nguyễn trãi|nt	hà đông|hđ	hà nội|hn
+nhuệ giang	nguyễn trãi|nt	hà đông|hđ	hà nội|hn
+tô hiệu|th	nguyễn trãi|nt	hà đông|hđ	hà nội|hn
+trần hưng đạo|thđ	nguyễn trãi|nt	hà đông|hđ	hà nội|hn
+lê hồng phong|lhp	nguyễn trãi|nt	hà đông|hđ	hà nội|hn
+lương văn can|lvc	nguyễn trãi|nt	hà đông|hđ	hà nội|hn
+hoàng hoa thám|hht	nguyễn trãi|nt	hà đông|hđ	hà nội|hn
+lê lợi|ll	nguyễn trãi|nt	hà đông|hđ	hà nội|hn
+bùi bằng đoàn|bbđ	nguyễn trãi|nt	hà đông|hđ	hà nội|hn
+trưng trắc|tt	nguyễn trãi|nt	hà đông|hđ	hà nội|hn
+lê lai|ll	nguyễn trãi|nt	hà đông|hđ	hà nội|hn
+ngô quyền|nq	quang trung|qt	hà đông|hđ	hà nội|hn
+lý thường kiệt|ltk	quang trung|qt	hà đông|hđ	hà nội|hn
+ngô gia tự|ngt	quang trung|qt	hà đông|hđ	hà nội|hn
+bế văn đàn|bvđ	quang trung|qt	hà đông|hđ	hà nội|hn
+tô hiệu|th	quang trung|qt	hà đông|hđ	hà nội|hn
+lê trọng tấn|ltt	quang trung|qt	hà đông|hđ	hà nội|hn
+lê hồng phong|lhp	quang trung|qt	hà đông|hđ	hà nội|hn
+trần nhật duật|tnd	quang trung|qt	hà đông|hđ	hà nội|hn
+tiến thành|tt	dương nội|dn	hà đông|hđ	hà nội|hn
+lê trọng tấn|ltt	dương nội|dn	hà đông|hđ	hà nội|hn
+quyết tiến|qt	yên sở|ys	hoài đức	hà nội|hn
+hà trì|ht	hà cầu|hc	hà đông|hđ	hà nội|hn
+lê lợi|ll	hà cầu|hc	hà đông|hđ	hà nội|hn
+tô hiệu|th	hà cầu|hc	hà đông|hđ	hà nội|hn
+lê xuân điệp|lxđ	kiến hưng|kh	hà đông|hđ	hà nội|hn
+mậu lương|ml	kiến hưng|kh	hà đông|hđ	hà nội|hn
+đa sỹ|đs	kiến hưng|kh	hà đông|hđ	hà nội|hn
+phùng hưng	kiến hưng|kh	hà đông|hđ	hà nội|hn
+ngô quyền|nq	la khê|lk	hà đông|hđ	hà nội|hn
+tố hữu|th	la khê|lk	hà đông|hđ	hà nội|hn
+giếng sen|gs	la khê|lk	hà đông|hđ	hà nội|hn
+xóm lẻ|xl	mộ lao|ml	hà đông|hđ	hà nội|hn
+trần phú|tp	mộ lao|ml	hà đông|hđ	hà nội|hn
+thanh bình|tb	mộ lao|ml	hà đông|hđ	hà nội|hn
+an hoà|ah	mộ lao|ml	hà đông|hđ	hà nội|hn
+đại an|đa	văn quán|vq	hà đông|hđ	hà nội|hn
+trần phú|tp	văn quán|vq	hà đông|hđ	hà nội|hn
+lương ngọc quyến|lnq	văn quán|vq	hà đông|hđ	hà nội|hn
+phùng hưng	văn quán|vq	hà đông|hđ	hà nội|hn
+nguyễn trãi|nt	văn quán|vq	hà đông|hđ	hà nội|hn
+nguyễn khuyến|nk	văn quán|vq	hà đông|hđ	hà nội|hn
+nguyễn trực|nt	phú lãm|pl	hà đông|hđ	hà nội|hn
+ba la|bl	phú lãm|pl	hà đông|hđ	hà nội|hn
+trinh lương|tl	phú lãm|pl	hà đông|hđ	hà nội|hn
+quang lãm|ql	phú lãm|pl	hà đông|hđ	hà nội|hn
+phú lương|pl	phú lãm|pl	hà đông|hđ	hà nội|hn
+trần đăng ninh|tđn	phú la|pl	hà đông|hđ	hà nội|hn
+quang trung|qt	phú la|pl	hà đông|hđ	hà nội|hn
+lê trọng tấn|ltt	phú la|pl	hà đông|hđ	hà nội|hn
+phú cường|pc	phú lương|pl	hà đông|hđ	hà nội|hn
+bắc lãm|bl	phú lương|pl	hà đông|hđ	hà nội|hn
+trinh lương|tl	phú lương|pl	hà đông|hđ	hà nội|hn
+nhân trạch|nt	phú lương|pl	hà đông|hđ	hà nội|hn
+văn nội|vn	phú lương|pl	hà đông|hđ	hà nội|hn
+quang lãm|ql	phú lương|pl	hà đông|hđ	hà nội|hn
+thượng mạo|tm	phú lương|pl	hà đông|hđ	hà nội|hn
+ngô quyền|nq	vạn phúc|vp	hà đông|hđ	hà nội|hn
+tố hữu|th	vạn phúc|vp	hà đông|hđ	hà nội|hn
+phố lụa|pl	vạn phúc|vp	hà đông|hđ	hà nội|hn
+yên lộ|yl	yên nghĩa|yn	hà đông|hđ	hà nội|hn
+do lộ|dl	yên nghĩa|yn	hà đông|hđ	hà nội|hn
+hoà bình|hb	yên nghĩa|yn	hà đông|hđ	hà nội|hn
+nghĩa lộ|nl	yên nghĩa|yn	hà đông|hđ	hà nội|hn
+cầu mai lĩnh|cml	mai lĩnh|ml	hà đông|hđ	hà nội|hn
+cổ bản|cb	đồng mai|đm	hà đông|hđ	hà nội|hn
+chi đông	chi đông	phúc yên	vĩnh phúc
+thôn đồng|tđ	quang minh|qm	mê linh	hà nội|hn
+gia thượng|gt	quang minh|qm	mê linh	hà nội|hn
+long việt|lv	quang minh|qm	mê linh	hà nội|hn
+gia trung|gt	quang minh|qm	mê linh	hà nội|hn
+tây xá|tx	hoàng kim|hk	mê linh	hà nội|hn
+bạch đa|bđ	kim hoa|kh	mê linh	hà nội|hn
+ngọc trí|nt	kim hoa|kh	mê linh	hà nội|hn
+bảo tháp|bt	kim hoa|kh	mê linh	hà nội|hn
+yên phú|yp	kim hoa|kh	mê linh	hà nội|hn
+kim tiến|kt	kim hoa|kh	mê linh	hà nội|hn
+bồng mạc|bm	liên mạc|lm	mê linh	hà nội|hn
+xa mạc|xm	liên mạc|lm	mê linh	hà nội|hn
+yên mạc|ym	liên mạc|lm	mê linh	hà nội|hn
+đồng cao|đc	văn khê|vk	mê linh	hà nội|hn
+xóm trại|xt	văn khê|vk	mê linh	hà nội|hn
+hạ lôi|hl	văn khê|vk	mê linh	hà nội|hn
+chùa liễu trì|clt	thường lệ|tl	mê linh	hà nội|hn
+ấp đồng vỡ	thanh lâm	phúc yên	vĩnh phúc
+ấp tre	quang minh	phúc yên	vĩnh phúc
+cư an|ca	tam đồng|tđ	mê linh	hà nội|hn
+văn lôi|vl	tam đồng|tđ	mê linh	hà nội|hn
+thanh vân|tv	thanh lâm|tl	mê linh	hà nội|hn
+phú nhi|pn	thanh lâm|tl	mê linh	hà nội|hn
+thon lâm hộ|tlh	thanh lâm|tl	mê linh	hà nội|hn
+thanh tước|tt	thanh lâm|tl	mê linh	hà nội|hn
+yên vinh|yv	thanh lâm|tl	mê linh	hà nội|hn
+bạch trữ|bt	tiến thắng|tt	mê linh	hà nội|hn
+kim giao	tiến thắng	mê linh	vĩnh phúc
+thái lai	tiến thắng	mê linh	vĩnh phúc
+ấp trung|ất	tiền phong|tp	mê linh	hà nội|hn
+yên nhân|yn	tiền phong|tp	mê linh	hà nội|hn
+do hạ|dh	tiền phong|tp	mê linh	hà nội|hn
+trung hậu đông|thđ	tiền phong|tp	mê linh	hà nội|hn
+trung hậu đoài|thđ	tiền phong|tp	mê linh	hà nội|hn
+do thượng|dt	tiền phong|tp	mê linh	hà nội|hn
+phố yên	tiền phong	mê linh	vĩnh phúc
+yên bài|yb	tự lập|tl	mê linh	hà nội|hn
+phú mỹ|pm	tự lập|tl	mê linh	hà nội|hn
+tiên đài|tđ	vạn yên|vy	mê linh	hà nội|hn
+yên nội|yn	vạn yên|vy	mê linh	hà nội|hn
+thượng thôn|tt	đại thịnh|đt	mê linh	hà nội|hn
+nội đồng|nđ	đại thịnh|đt	mê linh	hà nội|hn
+phú tàng|pt	bắc phú|bp	sóc sơn	hà nội|hn
+bắc vọng|bv	bắc phú|bp	sóc sơn	hà nội|hn
+yên tàng|yt	bắc phú|bp	sóc sơn	hà nội|hn
+phuc xuan|px	bắc sơn|bs	sóc sơn	hà nội|hn
+yên ninh|yn	hiền ninh|hn	sóc sơn	hà nội|hn
+trung lương|tl	hiền ninh|hn	sóc sơn	hà nội|hn
+ninh môn|nm	hiền ninh|hn	sóc sơn	hà nội|hn
+nam cương|nc	hiền ninh|hn	sóc sơn	hà nội|hn
+tân an|ta	hiền ninh|hn	sóc sơn	hà nội|hn
+thái đường|tđ	hiền ninh|hn	sóc sơn	hà nội|hn
+tân lương|tl	hiền ninh|hn	sóc sơn	hà nội|hn
+bốt tép|bt	hiền ninh|hn	sóc sơn	hà nội|hn
+đình hiền lương|đhl	hiền ninh|hn	sóc sơn	hà nội|hn
+đồng thô|đt	hồng kỳ|hk	sóc sơn	hà nội|hn
+kim sơn|ks	hồng kỳ|hk	sóc sơn	hà nội|hn
+ninh liệt|nl	hồng kỳ|hk	sóc sơn	hà nội|hn
+tân phúc|tp	hồng kỳ|hk	sóc sơn	hà nội|hn
+an lạc|al	trung giã|tg	sóc sơn	hà nội|hn
+phong mỹ|pm	trung giã|tg	sóc sơn	hà nội|hn
+đình thông|đt	trung giã|tg	sóc sơn	hà nội|hn
+phố nỉ|pn	trung giã|tg	sóc sơn	hà nội|hn
+xuân sơn|xs	trung giã|tg	sóc sơn	hà nội|hn
+mai nội|mn	mai đình|mđ	sóc sơn	hà nội|hn
+thế trạch|tt	mai đình|mđ	sóc sơn	hà nội|hn
+hoàng dương|hd	mai đình|mđ	sóc sơn	hà nội|hn
+thái phù|tp	mai đình|mđ	sóc sơn	hà nội|hn
+đạc tài|đt	mai đình|mđ	sóc sơn	hà nội|hn
+song mai đoài|smđ	mai đình|mđ	sóc sơn	hà nội|hn
+đông bài|đb	mai đình|mđ	sóc sơn	hà nội|hn
+hương đình|hđ	mai đình|mđ	sóc sơn	hà nội|hn
+ấp cút|ấc	mai đình|mđ	sóc sơn	hà nội|hn
+lạc nông|ln	mai đình|mđ	sóc sơn	hà nội|hn
+phú cường|pc	minh phú|mp	sóc sơn	hà nội|hn
+phú nghĩa|pn	minh phú|mp	sóc sơn	hà nội|hn
+phú thịnh|pt	minh phú|mp	sóc sơn	hà nội|hn
+thanh sơn|ts	minh phú|mp	sóc sơn	hà nội|hn
+thanh trí|tt	minh phú|mp	sóc sơn	hà nội|hn
+phú hữu	minh phú|mp	sóc sơn	hà nội|hn
+thắng lợi|tl	phú minh|pm	sóc sơn	hà nội|hn
+thôn đoài|tđ	phú minh|pm	sóc sơn	hà nội|hn
+thôn đông|tđ	phú minh|pm	sóc sơn	hà nội|hn
+svđ thôn vụ bản|stvb	minh trí|mt	sóc sơn	hà nội|hn
+lập trí|lt	minh trí|mt	sóc sơn	hà nội|hn
+thắng hữu	minh trí|mt	sóc sơn	hà nội|hn
+thắng trí|tt	minh trí|mt	sóc sơn	hà nội|hn
+thái lai|tl	minh trí|mt	sóc sơn	hà nội|hn
+xuân bảng dưới|xbd	nam sơn|ns	sóc sơn	hà nội|hn
+thanh hà	nam sơn|ns	sóc sơn	hà nội|hn
+hạ lộc|hl	nam sơn|ns	sóc sơn	hà nội|hn
+phố mã|pm	phù linh|pl	sóc sơn	hà nội|hn
+vệ linh|vl	phù linh|pl	sóc sơn	hà nội|hn
+cộng hoà|ch	phù linh|pl	sóc sơn	hà nội|hn
+chợ phù lỗ|cpl	phù lỗ|pl	sóc sơn	hà nội|hn
+bắc giã|bg	phù lỗ|pl	sóc sơn	hà nội|hn
+cầu đen|cđ	phú cường|pc	sóc sơn	hà nội|hn
+thuỵ hương	phú cường|pc	sóc sơn	hà nội|hn
+xóm đường|xđ	phú cường|pc	sóc sơn	hà nội|hn
+tân trại|tt	phú cường|pc	sóc sơn	hà nội|hn
+hương gia|hg	phú cường|pc	sóc sơn	hà nội|hn
+điền xá|đx	phú cường|pc	sóc sơn	hà nội|hn
+xóm chợ|xc	phú cường|pc	sóc sơn	hà nội|hn
+xuân bách|xb	quang tiến|qt	sóc sơn	hà nội|hn
+bắc hạ|bh	quang tiến|qt	sóc sơn	hà nội|hn
+ấp bắc thượng|ấbt	quang tiến|qt	sóc sơn	hà nội|hn
+quảng hội|qh	quang tiến|qt	sóc sơn	hà nội|hn
+cầu kim anh|cka	thanh xuân|tx	sóc sơn	hà nội|hn
+thạch lỗi|tl	thanh xuân|tx	sóc sơn	hà nội|hn
+chợ nga|cn	thanh xuân|tx	sóc sơn	hà nội|hn
+đồng giá|đg	thanh xuân|tx	sóc sơn	hà nội|hn
+nghĩa trang đồi cốc|ntđc	thanh xuân|tx	sóc sơn	hà nội|hn
+dược hạ|dh	tiên dược|td	sóc sơn	hà nội|hn
+dược thượng|dt	sóc sơn|ss	sóc sơn	hà nội|hn
+lương châu|lc	sóc sơn|ss	sóc sơn	hà nội|hn
+ninh cầm|nc	tân dân|td	sóc sơn	hà nội|hn
+xuân long|xl	tân dân|td	sóc sơn	hà nội|hn
+ninh kiều	tân dân	phúc yên	vĩnh phúc
+điền thanh	tân dân	phúc yên	vĩnh phúc
+ngô đạo|nđ	tân hưng|th	sóc sơn	hà nội|hn
+xuân đồng|xđ	tân minh|tm	sóc sơn	hà nội|hn
+đan tảo|đt	tân minh|tm	sóc sơn	hà nội|hn
+đại tảo|đt	xuân giang|xg	sóc sơn	hà nội|hn
+lai cách|lc	xuân giang|xg	sóc sơn	hà nội|hn
+phố thá|pt	xuân giang|xg	sóc sơn	hà nội|hn
+yên sào|ys	xuân giang|xg	sóc sơn	hà nội|hn
+ngọc hà|nh	xuân giang|xg	sóc sơn	hà nội|hn
+xuân lai|xl	xuân thu|xt	sóc sơn	hà nội|hn
+thu thuỷ|tt	xuân thu|xt	sóc sơn	hà nội|hn
+xuân kỳ|xk	đông xuân|đx	sóc sơn	hà nội|hn
+thanh thuỷ|tt	đông xuân|đx	sóc sơn	hà nội|hn
+phú thọ|pt	đông xuân|đx	sóc sơn	hà nội|hn
+thôn trung|tt	đức hoà|đh	sóc sơn	hà nội|hn
+thanh huê	đức hoà|đh	sóc sơn	hà nội|hn
+đức hậu|đh	đức hoà|đh	sóc sơn	hà nội|hn
+thôn thượng|tt	đức hoà|đh	sóc sơn	hà nội|hn
+mạc xá|mx	liên mạc|lm	bắc từ liêm	hà nội|hn
+hoàng xá|hx	liên mạc|lm	bắc từ liêm	hà nội|hn
+hoàng liên|hl	liên mạc|lm	bắc từ liêm	hà nội|hn
+hoàng xá|hx	liên mạc|lm	từ liêm	hà nội|hn
+yên nội|yn	liên mạc|lm	từ liêm	hà nội|hn
+đại cát|đc	liên mạc|lm	từ liêm	hà nội|hn
+ngọa long|nl	minh khai|mk	từ liêm	hà nội|hn
+nguyên xá|nx	minh khai|mk	từ liêm	hà nội|hn
+phúc lý|pl	minh khai|mk	từ liêm	hà nội|hn
+hồ tùng mậu|htm	phú diễn|pd	từ liêm	hà nội|hn
+phan bá vành|pbv	phú diễn|pd	từ liêm	hà nội|hn
+đức diễn|đd	phú diễn|pd	từ liêm	hà nội|hn
+kiều mai|km	phúc diễn|pd	từ liêm	hà nội|hn
+văn tiến dũng|vtd	phúc diễn|pd	từ liêm	hà nội|hn
+võ quý huân|vqh	phúc diễn|pd	từ liêm	hà nội|hn
+phúc minh|pm	phúc diễn|pd	bắc từ liêm	hà nội|hn
+phú kiều|pk	phúc diễn|pd	bắc từ liêm	hà nội|hn
+tân nhuệ|tn	thuỵ phương|tp	bắc từ liêm	hà nội|hn
+phố đăm|pđ	tây tựu|tt	bắc từ liêm	hà nội|hn
+trung tựu|tt	tây tựu|tt	bắc từ liêm	hà nội|hn
+trung kiên|tk	tây tựu|tt	bắc từ liêm	hà nội|hn
+tây đam|tđ	tây tựu|tt	bắc từ liêm	hà nội|hn
+thôn trung|tt	tây tựu|tt	từ liêm	hà nội|hn
+thôn hạ	tây tựu|tt	từ liêm	hà nội|hn
+thôn thượng|tt	tây tựu|tt	từ liêm	hà nội|hn
+khu ngoại giao đoàn|kngđ	xuân tảo|xt	từ liêm	hà nội|hn
+nguyễn hoàng tôn|nht	xuân tảo|xt	tây hồ	hà nội|hn
+đỗ nhuận|đn	xuân đỉnh|xđ	bắc từ liêm	hà nội|hn
+phố lộc|pl	xuân đỉnh|xđ	bắc từ liêm	hà nội|hn
+phạm văn đồng|pvđ	xuân đỉnh|xđ	từ liêm	hà nội|hn
+chùa khu nhang|ckn	xuân đỉnh|xđ	từ liêm	hà nội|hn
+nguyễn hoàng tôn|nht	xuân đỉnh|xđ	từ liêm	hà nội|hn
+tân xuân|tx	xuân đỉnh|xđ	từ liêm	hà nội|hn
+hoàng tăng bí|htb	xuân đỉnh|xđ	từ liêm	hà nội|hn
+hoàng tăng bí|htb	đông ngạc|đn	bắc từ liêm	hà nội|hn
+tân xuân|tx	đông ngạc|đn	bắc từ liêm	hà nội|hn
+cầu vồng|cv	đức thắng|đt	bắc từ liêm	hà nội|hn
+ao cầu vồng|acv	đức thắng|đt	bắc từ liêm	hà nội|hn
+phố viên|pv	đức thắng|đt	bắc từ liêm	hà nội|hn
+lê văn hiến|lvh	đức thắng|đt	bắc từ liêm	hà nội|hn
+nhật tảo|nt	đông ngạc|đn	từ liêm	hà nội|hn
+giang cao|gc	bát tràng|bt	gia lâm	hà nội|hn
+thôn hội	cổ bi|cb	gia lâm	hà nội|hn
+thôn cam|tc	cổ bi|cb	gia lâm	hà nội|hn
+thôn trung|tt	dương hà|dh	gia lâm	hà nội|hn
+thôn hạ	dương hà|dh	gia lâm	hà nội|hn
+thôn thượng|tt	dương hà|dh	gia lâm	hà nội|hn
+bình trù|bt	dương quang|dq	gia lâm	hà nội|hn
+quán khê|qk	dương quang|dq	gia lâm	hà nội|hn
+lam cầu|lc	dương quang|dq	gia lâm	hà nội|hn
+yên mỹ|ym	dương quang|dq	gia lâm	hà nội|hn
+đình thuận tiến|đtt	dương xá|dx	gia lâm	hà nội|hn
+dương đá|dđ	dương xá|dx	gia lâm	hà nội|hn
+dương đanh|dđ	dương xá|dx	gia lâm	hà nội|hn
+thuận quang|tq	dương xá|dx	gia lâm	hà nội|hn
+dương đình|dđ	dương xá|dx	gia lâm	hà nội|hn
+yên bình|yb	dương xá|dx	gia lâm	hà nội|hn
+hội xá|hx	phúc lợi|pl	long biên	hà nội|hn
+đê vàng|đv	phúc lợi|pl	long biên	hà nội|hn
+thống nhất|tn	kim lan|kl	gia lâm	hà nội|hn
+tiền phong|tp	kim lan|kl	gia lâm	hà nội|hn
+đoàn kết	kim lan	hà nội	hưng yên
+giao tất|gt	kim sơn|ks	gia lâm	hà nội|hn
+đông linh quy|đlq	kim sơn|ks	gia lâm	hà nội|hn
+bắc linh quy|blq	kim sơn|ks	gia lâm	hà nội|hn
+cầu chùa|cc	kiêu kỵ|kk	gia lâm	hà nội|hn
+gia cốc|gc	kiêu kỵ|kk	gia lâm	hà nội|hn
+xuân thuỵ|xt	kiêu kỵ|kk	gia lâm	hà nội|hn
+cổ giang	lệ chi	gia lâm	bắc ninh
+sen hồ	lệ chi	gia lâm	bắc ninh
+kim hồ|kh	lệ chi|lc	gia lâm	hà nội|hn
+phù dực|pd	phù đổng|pđ	gia lâm	hà nội|hn
+đổng viên|đv	phù đổng|pđ	gia lâm	hà nội|hn
+hàn lạc|hl	phú thị|pt	gia lâm	hà nội|hn
+trân tảo|tt	phú thị|pt	gia lâm	hà nội|hn
+tô khê|tk	phú thị|pt	gia lâm	hà nội|hn
+kim âu|kâ	phú thị|pt	gia lâm	hà nội|hn
+an đà|ađ	phú thị|pt	gia lâm	hà nội|hn
+đại bản|đb	phú thị|pt	gia lâm	hà nội|hn
+tế xuyên|tx	đình xuyên|đx	gia lâm	hà nội|hn
+công đình|cđ	đình xuyên|đx	gia lâm	hà nội|hn
+liên đàm|lđ	yên thường|yt	gia lâm	hà nội|hn
+quy mông|qm	yên thường|yt	gia lâm	hà nội|hn
+đỗ xá|đx	yên thường|yt	gia lâm	hà nội|hn
+trùng quán|tq	yên thường|yt	gia lâm	hà nội|hn
+yên thường|yt	yên thường|yt	gia lâm	hà nội|hn
+lại hoàng|lh	yên thường|yt	gia lâm	hà nội|hn
+yên khê|yk	yên thường|yt	gia lâm	hà nội|hn
+voi phục|vp	bình minh|bm	gia lâm	hà nội|hn
+chử xá	văn đức	gia lâm	hưng yên
+trung quan|tq	văn đức|vđ	gia lâm	hà nội|hn
+lã côi|lc	yên viên|yv	gia lâm	hà nội|hn
+nguyễn văn cừ|nvc	bồ đề|bđ	long biên	hà nội|hn
+ái mộ|ám	bồ đề|bđ	long biên	hà nội|hn
+hoàng như tiếp|hnt	bồ đề|bđ	long biên	hà nội|hn
+lâm hạ|lh	bồ đề|bđ	long biên	hà nội|hn
+lâm du|ld	bồ đề|bđ	long biên	hà nội|hn
+phú viên|pv	bồ đề|bđ	long biên	hà nội|hn
+nguyễn sơn|ns	bồ đề|bđ	long biên	hà nội|hn
+lê xá|lx	đa tốn|đt	gia lâm	hà nội|hn
+khoan tế|kt	đa tốn|đt	gia lâm	hà nội|hn
+đào xuyên|đx	đa tốn|đt	gia lâm	hà nội|hn
+đông dư hạ|đdh	đông dư|đd	gia lâm	hà nội|hn
+đông dư thượng|đdt	đông dư|đd	gia lâm	hà nội|hn
+hoàng long|hl	đặng xá|đx	gia lâm	hà nội|hn
+thôn lời|tl	đặng xá|đx	gia lâm	hà nội|hn
+thôn đặng|tđ	đặng xá|đx	gia lâm	hà nội|hn
+viên ngoại|vn	đặng xá|đx	gia lâm	hà nội|hn
+đổng xuyên|đx	đặng xá|đx	gia lâm	hà nội|hn
+cự đà|cđ	đặng xá|đx	gia lâm	hà nội|hn
+nhân lễ|nl	đặng xá|đx	gia lâm	hà nội|hn
+lai bồ|lb	tây đằng|tđ	ba vì	hà nội|hn
+xóm đông|xđ	tây đằng|tđ	ba vì	hà nội|hn
+phú mỹ|pm	tây đằng|tđ	ba vì	hà nội|hn
+quảng oai|qo	tây đằng|tđ	ba vì	hà nội|hn
+hạc sơn|hs	châu sơn|cs	ba vì	hà nội|hn
+phú xuyên|px	phú châu|pc	ba vì	hà nội|hn
+kim bi|kb	tiên phong|tp	ba vì	hà nội|hn
+thanh lũng|tl	tiên phong|tp	ba vì	hà nội|hn
+bằng lũng|bl	tiên phong|tp	ba vì	hà nội|hn
+thái bạt|tb	tòng bạt|tb	ba vì	hà nội|hn
+la thiện|lt	tản hồng|th	ba vì	hà nội|hn
+vân xa|vx	tản hồng|th	ba vì	hà nội|hn
+la phẩm|lp	tản hồng|th	ba vì	hà nội|hn
+la thượng|lt	tản hồng|th	ba vì	hà nội|hn
+yên bồ|yb	vật lại|vl	ba vì	hà nội|hn
+tăng cấu|tc	vật lại|vl	ba vì	hà nội|hn
+đông viên|đv	đông quang|đq	ba vì	hà nội|hn
+cao cường|cc	đông quang|đq	ba vì	hà nội|hn
+thạch cầu|tc	long biên|lb	long biên	hà nội|hn
+bát khối|bk	long biên|lb	long biên	hà nội|hn
+tư đình|tđ	long biên|lb	long biên	hà nội|hn
+phố trạm|pt	long biên|lb	long biên	hà nội|hn
+nguyễn văn linh|nvl	long biên|lb	long biên	hà nội|hn
+cầu vĩnh tuy|cvt	long biên|lb	long biên	hà nội|hn
+thống nhất|tn	cự khối|ck	long biên	hà nội|hn
+xuân đỗ|xđ	cự khối|ck	long biên	hà nội|hn
+độc lập|đl	cự khối|ck	long biên	hà nội|hn
+ngõ hoà bình|nhb	cự khối|ck	long biên	hà nội|hn
+ngõ hạnh phúc|nhp	cự khối|ck	long biên	hà nội|hn
+gia thượng|gt	thượng thanh|tt	long biên	hà nội|hn
+gia quất|gq	thượng thanh|tt	long biên	hà nội|hn
+thanh am|ta	thượng thanh|tt	long biên	hà nội|hn
+ngọc lâm|nl	gia thuỵ|gt	long biên	hà nội|hn
+nguyễn sơn|ns	gia thuỵ|gt	long biên	hà nội|hn
+nguyễn văn linh|nvl	gia thuỵ|gt	long biên	hà nội|hn
+nguyễn văn cừ|nvc	gia thuỵ|gt	long biên	hà nội|hn
+mai chí thọ|mct	giang biên|gb	long biên	hà nội|hn
+tình quang|tq	giang biên|gb	long biên	hà nội|hn
+nguyễn văn hưởng|nvh	giang biên|gb	long biên	hà nội|hn
+đê vàng|đv	giang biên|gb	long biên	hà nội|hn
+kẻ tạnh|kt	giang biên|gb	long biên	hà nội|hn
+huỳnh văn nghệ|hvn	việt hưng|vh	long biên	hà nội|hn
+nguyễn cao luyện|ncl	việt hưng|vh	long biên	hà nội|hn
+kim quan thượng|kqt	việt hưng|vh	long biên	hà nội|hn
+ngô gia tự|ngt	việt hưng|vh	long biên	hà nội|hn
+đoàn khuê|đk	việt hưng|vh	long biên	hà nội|hn
+sài đồng|sđ	việt hưng|vh	long biên	hà nội|hn
+lệ mật|lm	việt hưng|vh	long biên	hà nội|hn
+hồ tai trâu|htt	ngọc lâm|nl	long biên	hà nội|hn
+nguyễn văn cừ|nvc	ngọc lâm|nl	long biên	hà nội|hn
+yên tân|yt	ngọc thuỵ|nt	long biên	hà nội|hn
+gia thượng|gt	ngọc thuỵ|nt	long biên	hà nội|hn
+bắc biên|bb	ngọc thuỵ|nt	long biên	hà nội|hn
+bắc cầu|bc	ngọc thuỵ|nt	long biên	hà nội|hn
+huỳnh văn nghệ|hvn	phúc đồng|pđ	long biên	hà nội|hn
+tân thuỵ|tt	phúc đồng|pđ	long biên	hà nội|hn
+mai phúc|mp	phúc đồng|pđ	long biên	hà nội|hn
+chu huy mân|chm	phúc đồng|pđ	long biên	hà nội|hn
+nguyễn văn linh|nvl	phúc đồng|pđ	long biên	hà nội|hn
+huỳnh văn nghệ|hvn	sài đồng|sđ	long biên	hà nội|hn
+vũ xuân thiều|vxt	sài đồng|sđ	long biên	hà nội|hn
+cầu bây|cb	sài đồng|sđ	long biên	hà nội|hn
+nguyễn văn linh|nvl	sài đồng|sđ	long biên	hà nội|hn
+cổ linh|cl	thạch bàn|tb	long biên	hà nội|hn
+thôn ngô|tn	thạch bàn|tb	long biên	hà nội|hn
+thượng hội	thạch bàn|tb	long biên	hà nội|hn
+đồng dinh|đd	thạch bàn|tb	long biên	hà nội|hn
+bát khối|bk	thạch bàn|tb	long biên	hà nội|hn
+ngọc trì|nt	thạch bàn|tb	long biên	hà nội|hn
+quan âm|qâ	bắc hồng|bh	đông anh	hà nội|hn
+tằng my|tm	bắc hồng|bh	đông anh	hà nội|hn
+phù liễn|pl	bắc hồng|bh	đông anh	hà nội|hn
+thuỵ hà	bắc hồng|bh	đông anh	hà nội|hn
+cầu cả|cc	cổ loa|cl	đông anh	hà nội|hn
+mạch tràng|mt	cổ loa|cl	đông anh	hà nội|hn
+xóm đống|xđ	cổ loa|cl	đông anh	hà nội|hn
+xóm hương|xh	cổ loa|cl	đông anh	hà nội|hn
+thôn sằn|ts	cổ loa|cl	đông anh	hà nội|hn
+xóm vang|xv	cổ loa|cl	đông anh	hà nội|hn
+xóm thượng|xt	cổ loa|cl	đông anh	hà nội|hn
+thạc quả|tq	dục tú|dt	đông anh	hà nội|hn
+đồng dầu|đd	dục tú|dt	đông anh	hà nội|hn
+cổ điển|cđ	hải bối|hb	đông anh	hà nội|hn
+thôn nhuế|tn	kim chung|kc	đông anh	hà nội|hn
+xóm đông|xđ	kim chung|kc	đông anh	hà nội|hn
+thiên biều|tb	kim chung|kc	đông anh	hà nội|hn
+thôn bầu|tb	kim chung|kc	đông anh	hà nội|hn
+cổng si|cs	kim chung|kc	đông anh	hà nội|hn
+đồng quan|đq	kim nỗ|kn	đông anh	hà nội|hn
+hà lỗ|hl	liên hà|lh	đông anh	hà nội|hn
+hà hương|hh	liên hà|lh	đông anh	hà nội|hn
+đại vĩ|đv	liên hà|lh	đông anh	hà nội|hn
+hà phong|hp	liên hà|lh	đông anh	hà nội|hn
+châu phong|cp	liên hà|lh	đông anh	hà nội|hn
+lỗ khê|lk	liên hà|lh	đông anh	hà nội|hn
+giao tác|gt	liên hà|lh	đông anh	hà nội|hn
+thù lỗ|tl	liên hà|lh	đông anh	hà nội|hn
+du nội|dn	mai lâm|ml	đông anh	hà nội|hn
+lê xá|lx	mai lâm|ml	đông anh	hà nội|hn
+cầu lộc hà|clh	mai lâm|ml	đông anh	hà nội|hn
+lộc hà|lh	mai lâm|ml	đông anh	hà nội|hn
+thái bình|tb	mai lâm|ml	đông anh	hà nội|hn
+thôn đìa|tđ	nam hồng|nh	đông anh	hà nội|hn
+thôn đoài|tđ	nam hồng|nh	đông anh	hà nội|hn
+thôn vệ|tv	nam hồng|nh	đông anh	hà nội|hn
+địa đạo nam hồng|đđnh	nam hông|nh	đông anh	hà nội|hn
+sơn du|sd	nguyên khê|nk	đông anh	hà nội|hn
+cán khê|ck	nguyên khê|nk	đông anh	hà nội|hn
+xóm đồng|xđ	nguyên khê|nk	đông anh	hà nội|hn
+lê hữu tựu|lht	nguyên khê|nk	đông anh	hà nội|hn
+thôn đồng|tđ	nguyên khê|nk	đông anh	hà nội|hn
+đại bằng|đb	nguyên khê|nk	đông anh	hà nội|hn
+khê nữ|kn	nguyên khê|nk	đông anh	hà nội|hn
+lâm tiên|lt	đông anh|đa	đông anh	hà nội|hn
+cầu đôi|cđ	đông anh|đa	đông anh	hà nội|hn
+biểu khê|bk	thuỵ lâm|tl	đông anh	hà nội|hn
+đào thục|đt	thuỵ lâm|tl	đông anh	hà nội|hn
+cổ miếu|cm	thuỵ lâm|tl	đông anh	hà nội|hn
+mạnh tân|mt	thuỵ lâm|tl	đông anh	hà nội|hn
+thuỵ lôi|tl	thuỵ lâm|tl	đông anh	hà nội|hn
+hương trầm|ht	thuỵ lâm|tl	đông anh	hà nội|hn
+lễ pháp|lp	tiên dương|td	đông anh	hà nội|hn
+tôn lề|tl	tiên dương|td	đông anh	hà nội|hn
+trung oai|to	tiên dương|td	đông anh	hà nội|hn
+cổ dương|cd	tiên dương|td	đông anh	hà nội|hn
+tiên kha|tk	tiên dương|td	đông anh	hà nội|hn
+thôn đông|tđ	tàm xá|tx	đông anh	hà nội|hn
+xóm hậu|xh	uy nỗ|un	đông anh	hà nội|hn
+gia lương|gl	việt hùng|vh	đông anh	hà nội|hn
+dục nội|dn	việt hùng|vh	đông anh	hà nội|hn
+lỗ giao|lg	việt hùng|vh	đông anh	hà nội|hn
+gia lộc|gl	việt hùng|vh	đông anh	hà nội|hn
+vân điềm|vđ	vân hà|vh	đông anh	hà nội|hn
+hà khê|hk	vân hà|vh	đông anh	hà nội|hn
+thiết ứng|tứ	vân hà|vh	đông anh	hà nội|hn
+thiết bình|tb	vân hà|vh	đông anh	hà nội|hn
+cổ châu|cc	vân hà|vh	đông anh	hà nội|hn
+xóm ba|xb	vân nội|vn	đông anh	hà nội|hn
+xóm bảo|xb	vân nội|vn	đông anh	hà nội|hn
+xóm thố|xt	vân nội|vn	đông anh	hà nội|hn
+svđ đông tây|sđt	vân nội|vn	đông anh	hà nội|hn
+xóm tây|xt	vân nội|vn	đông anh	hà nội|hn
+xóm đông|xđ	vân nội|vn	đông anh	hà nội|hn
+xóm đầm|xđ	vân nội|vn	đông anh	hà nội|hn
+xóm chữ|xc	vân nội|vn	đông anh	hà nội|hn
+ngọc giang	vĩnh ngọc|vn	đông anh	hà nội|hn
+vạn lộc|vl	xuân canh|xc	đông anh	hà nội|hn
+văn thượng|vt	xuân canh|xc	đông anh	hà nội|hn
+lực canh|lc	xuân canh|xc	đông anh	hà nội|hn
+văn tinh|vt	xuân canh|xc	đông anh	hà nội|hn
+xuân trạch|xt	xuân canh|xc	đông anh	hà nội|hn
+chợ kim|ck	xuân nộn|xn	đông anh	hà nội|hn
+chùa đường nhạn|cđn	xuân nộn|xn	đông anh	hà nội|hn
+kim tiên|kt	xuân nộn|xn	đông anh	hà nội|hn
+đình trung|đt	xuân nộn|xn	đông anh	hà nội|hn
+đông ngàn|đn	đông hội|đh	đông anh	hà nội|hn
+đông trù|đt	đông hội|đh	đông anh	hà nội|hn
+trung thôn|tt	đông hội|đh	đông anh	hà nội|hn
+hội phụ|hp	đông hội|đh	đông anh	hà nội|hn
+lại đà|lđ	đông hội|đh	đông anh	hà nội|hn
+mai châu|mc	đại mạch|đm	đông anh	hà nội|hn
+chợ bương|cb	cấn huu|ch	quốc oai	hà nội|hn
+đinh tú|đt	cấn hữu|ch	quốc oai	hà nội|hn
+thái khê|tk	cấn hữu|ch	quốc oai	hà nội|hn
+cấn xá thượng|cxt	cấn hữu|ch	quốc oai	hà nội|hn
+phúc đức|pđ	sài sơn|ss	quốc oai	hà nội|hn
+núi sài sơn|nss	sài sơn|ss	quốc oai	hà nội|hn
+xóm đình|xđ	phú hoà	hà đông	hà nội|hn
+văn quang|vq	nghĩa hương|nh	quốc oai	hà nội|hn
+văn khê|vk	nghĩa hương|nh	quốc oai	hà nội|hn
+phú sơn|ps	phú cát|pc	quốc oai	hà nội|hn
+đồng am|đa	phú mãn|pm	quốc oai	hà nội|hn
+ngô sài|ns	quốc oai|qo	quốc oai	hà nội|hn
+đình tổ|đt	quốc oai|qo	quốc oai	hà nội|hn
+thổ ngoã|tn	tân hoà|th	quốc oai	hà nội|hn
+quảng yên|qy	yên sơn|ys	quốc oai	hà nội|hn
+cửa khâu|ck	đông xuân|đx	quốc oai	hà nội|hn
+lập thành|lt	đông xuân|đx	quốc oai	hà nội|hn
+đồng bèn|đb	đông xuân|đx	quốc oai	hà nội|hn
+đồng âm|đâ	đông xuân|đx	quốc oai	hà nội|hn
+yên thái|yt	đông yên|đy	quốc oai	hà nội|hn
+việt yên|vy	đông yên|đy	quốc oai	hà nội|hn
+đông hạ|đh	đông yên|đy	quốc oai	hà nội|hn
+đại tảo|đt	đại thành|đt	quốc oai	hà nội|hn
+đỗ tráng|đt	đại thành|đt	quốc oai	hà nội|hn
+đồng lư|đl	đồng quang|đq	quốc oai	hà nội|hn
+dương cốc|dc	đồng quang|đq	quốc oai	hà nội|hn
+chợ phú an|cpa	an phú|ap	hoài đức	hà nội|hn
+ngự câu|nc	an thượng|at	hoài đức	hà nội|hn
+chàng trũng|ct	dương liễu|dl	hoài đức	hà nội|hn
+yên vĩnh|yv	kim chung|kc	hoài đức	hà nội|hn
+độc lập|đl	la phù|lp	hoài đức	hà nội|hn
+phương viên|pv	song phương|sp	hoài đức	hà nội|hn
+xóm đình|xđ	sơn đồng|sđ	hoài đức	hà nội|hn
+xóm đồng|xđ	sơn đồng|sđ	hoài đức	hà nội|hn
+xóm thượng|xt	sơn đồng|sđ	hoài đức	hà nội|hn
+tiền lệ|tl	tiền yên|ty	hoài đức	hà nội|hn
+an trai|at	vân canh|vc	hoài đức	hà nội|hn
+hậu ái|há	vân canh|vc	hoài đức	hà nội|hn
+kim hoàng|kh	vân canh|vc	hoài đức	hà nội|hn
+quyết tiến|qt	vân côn|vc	hoài đức	hà nội|hn
+đình thôn mộc|đtm	vân côn|vc	hoài đức	hà nội|hn
+mộc hoàn|mh	vân côn|vc	hoài đức	hà nội|hn
+cát thuế|ct	vân côn|vc	hoài đức	hà nội|hn
+la tinh|lt	đông la|đl	hoài đức	hà nội|hn
+đông lao|đl	đông la|đl	hoài đức	hà nội|hn
+đồng nhân|đn	đông la|đl	hoài đức	hà nội|hn
+thôn chiến|tc	đức thượng|đt	hoài đức	hà nội|hn
+thôn nội|tn	đức thượng|đt	hoài đức	hà nội|hn
+phú đa|pđ	đức thượng|đt	hoài đức	hà nội|hn
+cựu quán|cq	đức thượng|đt	hoài đức	hà nội|hn
+làng yên phụ|lyp	yên phụ|yp	tây hồ	hà nội|hn
+thanh niên|tn	yên phụ|yp	tây hồ	hà nội|hn
+yên hoa|yh	yên phụ|yp	tây hồ	hà nội|hn
+âu cơ|âc	yên phụ|yp	tây hồ	hà nội|hn
+an dương|ad	yên phụ|yp	tây hồ	hà nội|hn
+trịnh công sơn|tcs	nhật tân|nt	tây hồ	hà nội|hn
+nhật chiêu|nc	nhật tân|nt	tây hồ	hà nội|hn
+lạc long quân|llq	nhật tân|nt	tây hồ	hà nội|hn
+nguyễn hoàng tôn|nht	phú thượng|pt	tây hồ	hà nội|hn
+thượng thuỵ|tt	phú thượng|pt	tây hồ	hà nội|hn
+phú gia|pg	phú thượng|pt	tây hồ	hà nội|hn
+lạc long quân|llq	phú thượng|pt	tây hồ	hà nội|hn
+vườn đào|vđ	phú thượng|pt	tây hồ	hà nội|hn
+phú xá|px	phú thượng|pt	tây hồ	hà nội|hn
+an dương vương|adv	phú thượng|pt	tây hồ	hà nội|hn
+thuỵ khuê|tk	bưởi	tây hồ	hà nội|hn
+ngõ cổng giếng|ncg	bưởi	tây hồ	hà nội|hn
+lạc long quân|llq	bưởi	tây hồ	hà nội|hn
+võng thị|vt	bưởi	tây hồ	hà nội|hn
+hoàng hoa thám|hht	bưởi	tây hồ	hà nội|hn
+nước phần lan|npl	tứ liên|tl	tây hồ	hà nội|hn
+ngõ đê quai|nđq	tứ liên|tl	tây hồ	hà nội|hn
+âu cơ|âc	tứ liên|tl	tây hồ	hà nội|hn
+xuân diệu|xd	tứ liên|tl	tây hồ	hà nội|hn
+nghi tàm|nt	tứ liên|tl	tây hồ	hà nội|hn
+văn cao|vc	thuỵ khuê|tk	tây hồ	hà nội|hn
+trích sài|ts	thuỵ khuê|tk	tây hồ	hà nội|hn
+thanh niên|tn	thuỵ khuê|tk	tây hồ	hà nội|hn
+hoàng hoa thám|hht	thuỵ khuê|tk	tây hồ	hà nội|hn
+nguyễn đình thi|nđt	thuỵ khuê|tk	tây hồ	hà nội|hn
+nguyễn hoàng tôn|nht	xuân la|xl	tây hồ	hà nội|hn
+nghĩa đô|nđ	xuân la|xl	tây hồ	hà nội|hn
+võ chí công|vcc	xuân la|xl	tây hồ	hà nội|hn
+lạc long quân|llq	xuân la|xl	tây hồ	hà nội|hn
+nghĩa dũng|nd	phúc xá|px	ba đình	hà nội|hn
+hồng hà|hh	phúc xá|px	ba đình	hà nội|hn
+an xá|ax	phúc xá|px	ba đình	hà nội|hn
+nguyễn thái học|nth	điện biên|đb	ba đình	hà nội|hn
+khúc hạo	điện biên|đb	ba đình	hà nội|hn
+trần phú|tp	điện biên|đb	ba đình	hà nội|hn
+điện biên phủ|đbp	điện biên|đb	ba đình	hà nội|hn
+lê duẩn|ld	điện biên|đb	ba đình	hà nội|hn
+hoàng diệu|hd	điện biên|đb	ba đình	hà nội|hn
+nguyễn tri phương|ntp	điện biên|đb	ba đình	hà nội|hn
+tôn thất đảm|ttđ	điện biên|đb	ba đình	hà nội|hn
+hùng vương|hv	điện biên|đb	ba đình	hà nội|hn
+bà huyện thanh quan|bhtq	điện biên|đb	ba đình	hà nội|hn
+nguyễn phạm tuân|npt	điện biên|đb	ba đình	hà nội|hn
+ông ích khiêm|ôík	điện biên|đb	ba đình	hà nội|hn
+sơn tây|st	điện biên|đb	ba đình	hà nội|hn
+cao bá quát|cbq	điện biên|đb	ba đình	hà nội|hn
+tôn thất thiệp|ttt	điện biên|đb	ba đình	hà nội|hn
+chu văn an|cva	điện biên|đb	ba đình	hà nội|hn
+linh lang|ll	cống vị|cv	ba đình	hà nội|hn
+đường bưởi|đb	ngọc khánh|nk	ba đình	hà nội|hn
+hồ thủ lệ|htl	ngọc khánh|nk	ba đình	hà nội|hn
+phạm huy thông|pht	ngọc khánh|nk	ba đình	hà nội|hn
+nguyễn công hoan|nch	ngọc khánh|nk	ba đình	hà nội|hn
+vạn phúc|vp	ngọc khánh|nk	ba đình	hà nội|hn
+kim mã|km	ngọc khánh|nk	ba đình	hà nội|hn
+đội cấn|đc	liễu giai|lg	ba đình	hà nội|hn
+văn cao|vc	liễu giai|lg	ba đình	hà nội|hn
+vạn bảo|vb	liễu giai|lg	ba đình	hà nội|hn
+đốc ngữ|đn	liễu giai|lg	ba đình	hà nội|hn
+hoàng hoa thám|hht	liễu giai|lg	ba đình	hà nội|hn
+quần ngựa|qn	liễu giai|lg	ba đình	hà nội|hn
+vạn phúc|vp	liễu giai|lg	ba đình	hà nội|hn
+đường bưởi|đb	vĩnh phúc|vp	ba đình	hà nội|hn
+đội cấn|đc	vĩnh phúc|vp	ba đình	hà nội|hn
+đội nhân|đn	vĩnh phúc|vp	ba đình	hà nội|hn
+hoàng hoa thám|hht	vĩnh phúc|vp	ba đình	hà nội|hn
+nam cao|nc	giảng võ|gv	ba đình	hà nội|hn
+núi trúc|nt	giảng võ|gv	ba đình	hà nội|hn
+kim mã|km	giảng võ|gv	ba đình	hà nội|hn
+hàng đậu|hđ	nguyễn trung trực|ntt	ba đình	hà nội|hn
+hồng phúc|hp	nguyễn trung trực|ntt	ba đình	hà nội|hn
+nguyễn thiếp|nt	nguyễn trung trực|ntt	ba đình	hà nội|hn
+phạm hồng thái|pht	nguyễn trung trực|ntt	ba đình	hà nội|hn
+nguyễn khắc nhu|nkn	nguyễn trung trực|ntt	ba đình	hà nội|hn
+hàng than|ht	nguyễn trung trực|ntt	ba đình	hà nội|hn
+yên phụ|yp	nguyễn trung trực|ntt	ba đình	hà nội|hn
+hoè nhai|hn	nguyễn trung trực|ntt	ba đình	hà nội|hn
+ngõ hàng bún|nhb	nguyễn trung trực|ntt	ba đình	hà nội|hn
+hàng bún|hb	nguyễn trung trực|ntt	ba đình	hà nội|hn
+nguyễn trường tộ|ntt	nguyễn trung trực|ntt	ba đình	hà nội|hn
+nguyễn thái học|nth	kim mã|km	ba đình	hà nội|hn
+giang văn minh|gvm	kim mã|km	ba đình	hà nội|hn
+giảng võ|gv	kim mã|km	ba đình	hà nội|hn
+ngõ núi trúc|nnt	kim mã|km	ba đình	hà nội|hn
+sơn tây|st	kim mã|km	ba đình	hà nội|hn
+thanh báo|tb	kim mã|km	ba đình	hà nội|hn
+vạn phúc|vp	kim mã|km	ba đình	hà nội|hn
+phó đức chính|pđc	trúc bạch|tb	ba đình	hà nội|hn
+yên ninh|yn	trúc bạch|tb	ba đình	hà nội|hn
+cửa bắc|cb	trúc bạch|tb	ba đình	hà nội|hn
+thanh niên|tn	trúc bạch|tb	ba đình	hà nội|hn
+mạc đĩnh chi|mđc	trúc bạch|tb	ba đình	hà nội|hn
+ngõ trúc lạc|ntl	trúc bạch|tb	ba đình	hà nội|hn
+lạc chính|lc	trúc bạch|tb	ba đình	hà nội|hn
+phạm hồng thái|pht	trúc bạch|tb	ba đình	hà nội|hn
+nguyễn khắc nhu|nkn	trúc bạch|tb	ba đình	hà nội|hn
+trần tế xương|ttx	trúc bạch|tb	ba đình	hà nội|hn
+yên phụ|yp	trúc bạch|tb	ba đình	hà nội|hn
+nam tràng|nt	trúc bạch|tb	ba đình	hà nội|hn
+trấn vũ|tv	trúc bạch|tb	ba đình	hà nội|hn
+đặng dung|đd	trúc bạch|tb	ba đình	hà nội|hn
+nguyễn khắc hiếu|nkh	trúc bạch|tb	ba đình	hà nội|hn
+ngũ xã|nx	trúc bạch|tb	ba đình	hà nội|hn
+hàng bún|hb	trúc bạch|tb	ba đình	hà nội|hn
+nguyễn trường tộ|ntt	trúc bạch|tb	ba đình	hà nội|hn
+hoàng văn thụ|hvt	quán thánh|qt	ba đình	hà nội|hn
+cửa bắc|cb	quán thánh|qt	ba đình	hà nội|hn
+thanh niên|tn	quán thánh|qt	ba đình	hà nội|hn
+hoàng diệu|hd	quán thánh|qt	ba đình	hà nội|hn
+nguyễn biểu|nb	quán thánh|qt	ba đình	hà nội|hn
+nguyễn tri phương|ntp	quán thánh|qt	ba đình	hà nội|hn
+phan đình phùng|pđp	quán thánh|qt	ba đình	hà nội|hn
+nguyễn cảnh chân|ncc	quán thánh|qt	ba đình	hà nội|hn
+trấn vũ|tv	quán thánh|qt	ba đình	hà nội|hn
+đặng tất|đt	quán thánh|qt	ba đình	hà nội|hn
+bắc sơn|bs	ngọc hà|nh	ba đình	hà nội|hn
+hoàng hoa thám|hht	ngọc hà|nh	ba đình	hà nội|hn
+sơn tây|st	đội cấn|đc	ba đình	hà nội|hn
+trương định|tđ	thịnh liệt|tl	hoàng mai	hà nội|hn
+đại từ|đt	thịnh liệt|tl	hoàng mai	hà nội|hn
+giải phóng|gp	thịnh liệt|tl	hoàng mai	hà nội|hn
+đồng tàu|đt	thịnh liệt|tl	hoàng mai	hà nội|hn
+giáp nhị|gn	thịnh liệt|tl	hoàng mai	hà nội|hn
+nguyễn chính|nc	thịnh liệt|tl	hoàng mai	hà nội|hn
+ao sào|as	thịnh liệt|tl	hoàng mai	hà nội|hn
+trương định|tđ	giáp bát|gb	hoàng mai	hà nội|hn
+kim đồng|kđ	giáp bát|gb	hoàng mai	hà nội|hn
+giải phóng|gp	giáp bát|gb	hoàng mai	hà nội|hn
+đặng xuân bảng|đxb	đại kim|đk	hoàng mai	hà nội|hn
+đại từ|đt	đại kim|đk	hoàng mai	hà nội|hn
+kim văn|kv	đại kim|đk	hoàng mai	hà nội|hn
+bằng liệt|bl	đại kim|đk	hoàng mai	hà nội|hn
+nguyễn xiển|nx	đại kim|đk	hoàng mai	hà nội|hn
+lĩnh nam|ln	hoàng văn thụ|hvt	hoàng mai	hà nội|hn
+nguyễn đức cảnh|nđc	hoàng văn thụ|hvt	hoàng mai	hà nội|hn
+ngõ gốc đề|ngđ	hoàng văn thụ|hvt	hoàng mai	hà nội|hn
+tam trinh|tt	hoàng văn thụ|hvt	hoàng mai	hà nội|hn
+hoàng mai|hm	hoàng văn thụ|hvt	hoàng mai	hà nội|hn
+tân mai|tm	hoàng văn thụ|hvt	hoàng mai	hà nội|hn
+nguyễn khoái|nk	lĩnh nam|ln	hoàng mai	hà nội|hn
+ngũ nhạc|nn	lĩnh nam|ln	hoàng mai	hà nội|hn
+nam dư|nd	lĩnh nam|ln	hoàng mai	hà nội|hn
+thuý lĩnh|tl	lĩnh nam|ln	hoàng mai	hà nội|hn
+tam trinh|tt	mai động|mđ	hoàng mai	hà nội|hn
+minh khai|mk	mai động|mđ	hoàng mai	hà nội|hn
+lĩnh nam|ln	mai động|mđ	hoàng mai	hà nội|hn
+đông thiên|đt	vĩnh hưng|vh	hoàng mai	hà nội|hn
+lĩnh nam|ln	vĩnh hưng|vh	hoàng mai	hà nội|hn
+vĩnh hưng|vh	thanh trì|tt	hoàng mai	hà nội|hn
+nguyễn khoái|nk	thanh trì|tt	hoàng mai	hà nội|hn
+thanh lân|tl	thanh trì|tt	hoàng mai	hà nội|hn
+thanh đàm|tđ	thanh trì|tt	hoàng mai	hà nội|hn
+khuyến lương|kl	trần phú|tp	hoàng mai	hà nội|hn
+nam dư|nd	trần phú|tp	hoàng mai	hà nội|hn
+nguyễn khoái|nk	trần phú|tp	hoàng mai	hà nội|hn
+trương định|tđ	tân mai|tm	hoàng mai	hà nội|hn
+nguyễn đức cảnh|nđc	tân mai|tm	hoàng mai	hà nội|hn
+trương định|tđ	tương mai|tm	hoàng mai	hà nội|hn
+nguyễn đức cảnh|nđc	tương mai|tm	hoàng mai	hà nội|hn
+nguyễn an ninh|nan	tương mai|tm	hoàng mai	hà nội|hn
+tân mai|tm	tương mai|tm	hoàng mai	hà nội|hn
+hưng phúc|hp	yên sở|ys	hoàng mai	hà nội|hn
+pháp vân|pv	yên sở|ys	hoàng mai	hà nội|hn
+tam trinh|tt	yên sở|ys	hoàng mai	hà nội|hn
+sở thượng|st	yên sở|ys	hoàng mai	hà nội|hn
+yên duyên|yd	yên sở|ys	hoàng mai	hà nội|hn
+định công hạ|đch	định công|đc	hoàng mai	hà nội|hn
+vũ tông phan|vtp	định công|đc	hoàng mai	hà nội|hn
+nguyễn cảnh dị|ncd	định công|đc	hoàng mai	hà nội|hn
+lê trọng tấn|ltt	định công|đc	hoàng mai	hà nội|hn
+hồng quang|hq	định công|đc	hoàng mai	hà nội|hn
+trần hoà|th	định công|đc	hoàng mai	hà nội|hn
+đầm sòi|đs	định công|đc	hoàng mai	hà nội|hn
+trần điền|tđ	định công|đc	hoàng mai	hà nội|hn
+đồng trạng|đt	cổ đông|cđ	sơn tây	hà nội|hn
+đốc ngữ|đn	lê lợi|ll	sơn tây	hà nội|hn
+phú nhi|pn	lê lợi|ll	sơn tây	hà nội|hn
+phạm ngũ lão|pnl	lê lợi|ll	sơn tây	hà nội|hn
+đinh tiên hoàng|đth	ngô quyền|nq	sơn tây	hà nội|hn
+phùng hưng	ngô quyền|nq	sơn tây	hà nội|hn
+phú hà	phú thịnh|pt	sơn tây	hà nội|hn
+phú nhi|pn	phú thịnh|pt	sơn tây	hà nội|hn
+phạm hồng thái|pht	quang trung|qt	sơn tây	hà nội|hn
+phùng khắc khoan|pkk	quang trung|qt	sơn tây	hà nội|hn
+thuận nghệ|tn	quang trung|qt	sơn tây	hà nội|hn
+chùa thông|ct	sơn lộc|sl	sơn tây	hà nội|hn
+thanh vị|tv	sơn lộc|sl	sơn tây	hà nội|hn
+đại quang|đq	sơn đông|sđ	sơn tây	hà nội|hn
+thôn bắc|tb	sơn đông|sđ	sơn tây	hà nội|hn
+cao sơn|cs	sơn đông|sđ	sơn tây	hà nội|hn
+tân phú|tp	sơn đông|sđ	sơn tây	hà nội|hn
+đa b|đb	sơn đông|sđ	sơn tây	hà nội|hn
+tân an|ta	sơn đông|sđ	sơn tây	hà nội|hn
+vạn an|va	sơn đông|sđ	sơn tây	hà nội|hn
+đồng đồi|đđ	thanh mỹ|tm	sơn tây	hà nội|hn
+chùa thông|ct	trung hưng|th	sơn tây	hà nội|hn
+tùng thiện|tt	tông	sơn tây	hà nội|hn
+phù sa|ps	viên sơn|vs	sơn tây	hà nội|hn
+khu đồng ông|kđô	đan phượng|đp	đan phượng	hà nội|hn
+đoài khê|đk	đan phượng|đp	đan phượng	hà nội|hn
+đông khê|đk	đan phượng|đp	đan phượng	hà nội|hn
+đại phùng|đp	đan phượng|đp	đan phượng	hà nội|hn
+thọ vực|tv	thọ an|ta	đan phượng	hà nội|hn
+đồng vân|đv	đồng tháp|đt	đan phượng	hà nội|hn
+lê thái tổ|ltt	hàng trống|ht	hoàn kiếm	hà nội|hn
+ngõ hàng hành|nhh	hàng trống|ht	hoàn kiếm	hà nội|hn
+quang trung|qt	hàng trống|ht	hoàn kiếm	hà nội|hn
+chân cầm|cc	hàng trống|ht	hoàn kiếm	hà nội|hn
+ngõ huyện|nh	hàng trống|ht	hoàn kiếm	hà nội|hn
+thọ xương|tx	hàng trống|ht	hoàn kiếm	hà nội|hn
+nhà chung|nc	hàng trống|ht	hoàn kiếm	hà nội|hn
+ấu triệu|ất	hàng trống|ht	hoàn kiếm	hà nội|hn
+báo khánh|bk	hàng trống|ht	hoàn kiếm	hà nội|hn
+nhà thờ|nt	hàng trống|ht	hoàn kiếm	hà nội|hn
+lương văn can|lvc	hàng trống|ht	hoàn kiếm	hà nội|hn
+phủ doãn|pd	hàng trống|ht	hoàn kiếm	hà nội|hn
+tràng thi|tt	hàng trống|ht	hoàn kiếm	hà nội|hn
+nguyễn tư giản|ntg	phúc tân|pt	hoàn kiếm	hà nội|hn
+hàm tử quan|htq	phúc tân|pt	hoàn kiếm	hà nội|hn
+thanh yên|ty	phúc tân|pt	hoàn kiếm	hà nội|hn
+hồng hà|hh	phúc tân|pt	hoàn kiếm	hà nội|hn
+bảo linh|bl	phúc tân|pt	hoàn kiếm	hà nội|hn
+nguyên khiết|nk	phúc tân|pt	hoàn kiếm	hà nội|hn
+hàng giấy|hg	đồng xuân|đx	hoàn kiếm	hà nội|hn
+thanh hà	đồng xuân|đx	hoàn kiếm	hà nội|hn
+hồng phúc|hp	đồng xuân|đx	hoàn kiếm	hà nội|hn
+nguyễn thiếp|nt	đồng xuân|đx	hoàn kiếm	hà nội|hn
+cầu đông|cđ	đồng xuân|đx	hoàn kiếm	hà nội|hn
+nguyễn thiện thuật|ntt	đồng xuân|đx	hoàn kiếm	hà nội|hn
+trần nhật duật|tnd	đồng xuân|đx	hoàn kiếm	hà nội|hn
+cao thắng|ct	đồng xuân|đx	hoàn kiếm	hà nội|hn
+vạn kiếp|vk	chương dương|cd	hoàn kiếm	hà nội|hn
+cầu đất|cđ	chương dương|cd	hoàn kiếm	hà nội|hn
+vọng hà|vh	chương dương|cd	hoàn kiếm	hà nội|hn
+trần quang khải|tqk	chương dương|cd	hoàn kiếm	hà nội|hn
+hàm tử quan|htq	chương dương|cd	hoàn kiếm	hà nội|hn
+hồng hà|hh	chương dương|cd	hoàn kiếm	hà nội|hn
+nguyễn thái học|nth	cửa nam|cn	hoàn kiếm	hà nội|hn
+nam ngư|nn	cửa nam|cn	hoàn kiếm	hà nội|hn
+lý thường kiệt|ltk	cửa nam|cn	hoàn kiếm	hà nội|hn
+điện biên phủ|đbp	cửa nam|cn	hoàn kiếm	hà nội|hn
+đình ngang|đn	cửa nam|cn	hoàn kiếm	hà nội|hn
+lê duẩn|ld	cửa nam|cn	hoàn kiếm	hà nội|hn
+tống duy tân|tdt	cửa nam|cn	hoàn kiếm	hà nội|hn
+trần hưng đạo|thđ	cửa nam|cn	hoàn kiếm	hà nội|hn
+ngõ tức mặc|ntm	cửa nam|cn	hoàn kiếm	hà nội|hn
+thợ nhuộm|tn	cửa nam|cn	hoàn kiếm	hà nội|hn
+hàng bông|hb	cửa nam|cn	hoàn kiếm	hà nội|hn
+hai bà trưng|hbt	cửa nam|cn	hoàn kiếm	hà nội|hn
+yết kiêu|yk	cửa nam|cn	hoàn kiếm	hà nội|hn
+trần phú|tp	cửa đông|cđ	hoàn kiếm	hà nội|hn
+lý nam đế|lnđ	cửa đông|cđ	hoàn kiếm	hà nội|hn
+đường thành|đt	cửa đông|cđ	hoàn kiếm	hà nội|hn
+nguyễn văn tố|nvt	cửa đông|cđ	hoàn kiếm	hà nội|hn
+bát đàn|bđ	cửa đông|cđ	hoàn kiếm	hà nội|hn
+hàng gà|hg	cửa đông|cđ	hoàn kiếm	hà nội|hn
+nguyễn quang bích|nqb	cửa đông|cđ	hoàn kiếm	hà nội|hn
+hàng nón|hn	cửa đông|cđ	hoàn kiếm	hà nội|hn
+hàng da|hd	cửa đông|cđ	hoàn kiếm	hà nội|hn
+phùng hưng	cửa đông|cđ	hoàn kiếm	hà nội|hn
+ngõ gạch	hàng buồm|hb	hoàn kiếm	hà nội|hn
+đông thái|đt	hàng buồm|hb	hoàn kiếm	hà nội|hn
+hàng chĩnh|hc	hàng buồm|hb	hoàn kiếm	hà nội|hn
+mã mây|mm	hàng buồm|hb	hoàn kiếm	hà nội|hn
+chợ gạo|cg	hàng buồm|hb	hoàn kiếm	hà nội|hn
+nguyễn siêu|ns	hàng buồm|hb	hoàn kiếm	hà nội|hn
+trần nhật duật|tnd	hàng buồm|hb	hoàn kiếm	hà nội|hn
+phan bội châu|pbc	trần hưng đạo|thđ	hoàn kiếm	hà nội|hn
+nguyễn gia thiều|ngt	trần hưng đạo|thđ	hoàn kiếm	hà nội|hn
+lý thường kiệt|ltk	trần hưng đạo|thđ	hoàn kiếm	hà nội|hn
+quán sứ|qs	trần hưng đạo|thđ	hoàn kiếm	hà nội|hn
+ngõ lý thường kiệt|nltk	trần hưng đạo|thđ	hoàn kiếm	hà nội|hn
+bà triệu|bt	trần hưng đạo|thđ	hoàn kiếm	hà nội|hn
+dã tượng|dt	trần hưng đạo|thđ	hoàn kiếm	hà nội|hn
+xóm hà hồi|xhh	trần hưng đạo|thđ	hoàn kiếm	hà nội|hn
+thợ nhuộm|tn	trần hưng đạo|thđ	hoàn kiếm	hà nội|hn
+triệu quốc đạt|tqđ	trần hưng đạo|thđ	hoàn kiếm	hà nội|hn
+hai bà trưng|hbt	trần hưng đạo|thđ	hoàn kiếm	hà nội|hn
+tràng thi|tt	trần hưng đạo|thđ	hoàn kiếm	hà nội|hn
+trần bình trọng|tbt	trần hưng đạo|thđ	hoàn kiếm	hà nội|hn
+yết kiêu|yk	trần hưng đạo|thđ	hoàn kiếm	hà nội|hn
+hàng phèn|hp	hàng bồ|hb	hoàn kiếm	hà nội|hn
+hàng bút|hb	hàng bồ|hb	hoàn kiếm	hà nội|hn
+bát sứ|bs	hàng bồ|hb	hoàn kiếm	hà nội|hn
+bát đàn|bđ	hàng bồ|hb	hoàn kiếm	hà nội|hn
+lãn ông|lô	hàng bồ|hb	hoàn kiếm	hà nội|hn
+thuốc bắc|tb	hàng bồ|hb	hoàn kiếm	hà nội|hn
+hàng vải|hv	hàng bồ|hb	hoàn kiếm	hà nội|hn
+lò rèn|lr	hàng bồ|hb	hoàn kiếm	hà nội|hn
+ngô quyền|nq	hàng bài|hb	hoàn kiếm	hà nội|hn
+lý thường kiệt|ltk	hàng bài|hb	hoàn kiếm	hà nội|hn
+ngô văn sở|nvs	hàng bài|hb	hoàn kiếm	hà nội|hn
+bà triệu|bt	hàng bài|hb	hoàn kiếm	hà nội|hn
+huế	hàng bài|hb	hoàn kiếm	hà nội|hn
+trần hưng đạo|thđ	hàng bài|hb	hoàn kiếm	hà nội|hn
+vọng đức|vđ	hàng bài|hb	hoàn kiếm	hà nội|hn
+hai bà trưng|hbt	hàng bài|hb	hoàn kiếm	hà nội|hn
+nguyễn chế nghĩa|ncn	hàng bài|hb	hoàn kiếm	hà nội|hn
+ngõ cấm chỉ|ncc	hàng bông|hb	hoàn kiếm	hà nội|hn
+trần phú|tp	hàng bông|hb	hoàn kiếm	hà nội|hn
+quán sứ|qs	hàng bông|hb	hoàn kiếm	hà nội|hn
+tràng thi|tt	hàng bông|hb	hoàn kiếm	hà nội|hn
+tống duy tân|tdt	hàng bông|hb	hoàn kiếm	hà nội|hn
+thợ nhuộm|tn	hàng bông|hb	hoàn kiếm	hà nội|hn
+hai bà trưng|hbt	hàng bông|hb	hoàn kiếm	hà nội|hn
+hội vũ|hv	hàng bông|hb	hoàn kiếm	hà nội|hn
+ngõ hội vũ|nhv	hàng bông|hb	hoàn kiếm	hà nội|hn
+phùng hưng	hàng bông|hb	hoàn kiếm	hà nội|hn
+đinh tiên hoàng|đth	hàng bạc|hb	hoàn kiếm	hà nội|hn
+ngõ trung yên|nty	hàng bạc|hb	hoàn kiếm	hà nội|hn
+hàng dầu|hd	hàng bạc|hb	hoàn kiếm	hà nội|hn
+hàng thùng|ht	hàng bạc|hb	hoàn kiếm	hà nội|hn
+đinh liệt|đl	hàng bạc|hb	hoàn kiếm	hà nội|hn
+hàng chuối|hc	phạm đình hổ|pđh	hoàn kiếm	hà nội|hn
+hàng lược|hl	hàng mã|hm	hoàn kiếm	hà nội|hn
+hàng chai|hc	hàng mã|hm	hoàn kiếm	hà nội|hn
+lý nam đế|lnđ	hàng mã|hm	hoàn kiếm	hà nội|hn
+hàng rươi|hr	hàng mã|hm	hoàn kiếm	hà nội|hn
+phan đình phùng|pđp	hàng mã|hm	hoàn kiếm	hà nội|hn
+hàng cót|hc	hàng mã|hm	hoàn kiếm	hà nội|hn
+hàng khoai|hk	hàng mã|hm	hoàn kiếm	hà nội|hn
+phùng hưng	hàng mã|hm	hoàn kiếm	hà nội|hn
+hàng chiếu|hc	hàng mã|hm	hoàn kiếm	hà nội|hn
+ngô quyền|nq	lý thái tổ|ltt	hoàn kiếm	hà nội|hn
+đinh tiên hoàng|đth	lý thái tổ|ltt	hoàn kiếm	hà nội|hn
+trần nguyên hãn|tnh	lý thái tổ|ltt	hoàn kiếm	hà nội|hn
+trần quang khải|tqk	lý thái tổ|ltt	hoàn kiếm	hà nội|hn
+hàng dầu|hd	lý thái tổ|ltt	hoàn kiếm	hà nội|hn
+hàng thùng|ht	lý thái tổ|ltt	hoàn kiếm	hà nội|hn
+trần nhật duật|tnd	lý thái tổ|ltt	hoàn kiếm	hà nội|hn
+nguyễn hữu huân|nhh	lý thái tổ|ltt	hoàn kiếm	hà nội|hn
+lò sũ|ls	lý thái tổ|ltt	hoàn kiếm	hà nội|hn
+hàng tre|ht	lý thái tổ|ltt	hoàn kiếm	hà nội|hn
+ngõ tạm thương|ntt	hàng gai|hg	hoàn kiếm	hà nội|hn
+hàng hòm|hh	hàng gai|hg	hoàn kiếm	hà nội|hn
+tô tịch|tt	hàng gai|hg	hoàn kiếm	hà nội|hn
+hàng bông|hb	hàng gai|hg	hoàn kiếm	hà nội|hn
+hàng nón|hn	hàng gai|hg	hoàn kiếm	hà nội|hn
+ngõ hàng chỉ|nhc	hàng gai|hg	hoàn kiếm	hà nội|hn
+hàng mành|hm	hàng gai|hg	hoàn kiếm	hà nội|hn
+hàng cá|hc	hàng đào|hđ	hoàn kiếm	hà nội|hn
+hàng ngang|hn	hàng đào|hđ	hoàn kiếm	hà nội|hn
+hàng đường|hđ	hàng đào|hđ	hoàn kiếm	hà nội|hn
+lương văn can|lvc	hàng đào|hđ	hoàn kiếm	hà nội|hn
+tông đản|tđ	french quarter|fq	hoàn kiếm	hà nội|hn
+lê lai|ll	french quarter|fq	hoàn kiếm	hà nội|hn
+ngô quyền|nq	phan chu trinh|pct	hoàn kiếm	hà nội|hn
+lý thường kiệt|ltk	phan chu trinh|pct	hoàn kiếm	hà nội|hn
+hàm long|hl	phan chu trinh|pct	hoàn kiếm	hà nội|hn
+ngõ phan chu trinh|npct	phan chu trinh|pct	hoàn kiếm	hà nội|hn
+trần khánh dư|tkd	phan chu trinh|pct	hoàn kiếm	hà nội|hn
+trần hưng đạo|thđ	phan chu trinh|pct	hoàn kiếm	hà nội|hn
+ngô quyền|nq	tràng tiền|tt	hoàn kiếm	hà nội|hn
+đinh tiên hoàng|đth	tràng tiền|tt	hoàn kiếm	hà nội|hn
+hàng bài|hb	tràng tiền|tt	hoàn kiếm	hà nội|hn
+quang trung|qt	tràng tiền|tt	hoàn kiếm	hà nội|hn
+trần quang khải|tqk	tràng tiền|tt	hoàn kiếm	hà nội|hn
+bà triệu|bt	tràng tiền|tt	hoàn kiếm	hà nội|hn
+nguyễn khắc cần|nkc	tràng tiền|tt	hoàn kiếm	hà nội|hn
+phan chu trinh|pct	tràng tiền|tt	hoàn kiếm	hà nội|hn
+hai bà trưng|hbt	tràng tiền|tt	hoàn kiếm	hà nội|hn
+quế lâm|ql	hiệp thuận|ht	phúc thọ	hà nội|hn
+phú long|pl	long xuyên|lx	phúc thọ	hà nội|hn
+thôn tây|tt	phụng thượng|pt	phúc thọ	hà nội|hn
+thôn nam|tn	phụng thượng|pt	phúc thọ	hà nội|hn
+thôn đông|tđ	phụng thượng|pt	phúc thọ	hà nội|hn
+hiệp cát|hc	tam hiệp|th	phúc thọ	hà nội|hn
+mỹ giang|mg	tam hiệp|th	phúc thọ	hà nội|hn
+thôn ngoại|tn	tam thuấn|tt	phúc thọ	hà nội|hn
+thôn táo|tt	tam thuấn|tt	phúc thọ	hà nội|hn
+thôn nội|tn	tam thuấn|tt	phúc thọ	hà nội|hn
+thanh mạc|tm	thanh đa|tđ	phúc thọ	hà nội|hn
+tế giáp|tg	thanh đa|tđ	phúc thọ	hà nội|hn
+nghĩa lộ|nl	võng xuyên|vx	phúc thọ	hà nội|hn
+phú châu|pc	xuân phú|xp	phúc thọ	hà nội|hn
+xuân đoài|xđ	xuân phú|xp	phúc thọ	hà nội|hn
+tử dương|td	cao thành|ct	ứng hoà	hà nội|hn
+miêng hạ|mh	hoa sơn|hs	ứng hoà	hà nội|hn
+trần đăng|tđ	hoa sơn|hs	ứng hoà	hà nội|hn
+miêng thượng|mt	hoa sơn|hs	ứng hoà	hà nội|hn
+đống long|đl	h hoà lâm|hhl	ứng hoà	hà nội|hn
+trạch bái|tb	h hoà lâm|hhl	ứng hoà	hà nội|hn
+đình xuyên|đx	hoà nam|hn	ứng hoà	hà nội|hn
+dư xá hạ|dxh	hoà phú|hp	ứng hoà	hà nội|hn
+đặng giang|đg	hoà phú|hp	ứng hoà	hà nội|hn
+xóm vực|xv	hoà xá|hx	ứng hoà	hà nội|hn
+bài lâm thượng|blt	hồng quang|hq	ứng hoà	hà nội|hn
+hữu vĩnh|hv	hồng quang|hq	ứng hoà	hà nội|hn
+kim bồng|kb	kim đường|kđ	ứng hoà	hà nội|hn
+cung thuế|ct	kim đường|kđ	ứng hoà	hà nội|hn
+phượng viền|pv	kim đường|kđ	ứng hoà	hà nội|hn
+tu lễ|tl	kim đường|kđ	ứng hoà	hà nội|hn
+bạt ngõ|bn	liên bạt|lb	ứng hoà	hà nội|hn
+lương xá|lx	liên bạt|lb	ứng hoà	hà nội|hn
+lưu khê|lk	liên bạt|lb	ứng hoà	hà nội|hn
+vũ nội|vn	liên bạt|lb	ứng hoà	hà nội|hn
+vũ ngoại|vn	liên bạt|lb	ứng hoà	hà nội|hn
+bạt chùa|bc	liên bạt|lb	ứng hoà	hà nội|hn
+bạt trung|bt	liên bạt|lb	ứng hoà	hà nội|hn
+thôn thần|tt	minh đức|mđ	ứng hoà	hà nội|hn
+thôn cầu|tc	minh đức|mđ	ứng hoà	hà nội|hn
+nam chính|nc	minh đức|mđ	ứng hoà	hà nội|hn
+giới đức|gđ	minh đức|mđ	ứng hoà	hà nội|hn
+phù lưu hạ|plh	phù lưu|pl	ứng hoà	hà nội|hn
+phù lưu thượng|plt	phù lưu|pl	ứng hoà	hà nội|hn
+hậu xá|hx	phương tú|pt	ứng hoà	hà nội|hn
+xà cầu|xc	quảng phú cầu|qpc	ứng hoà	hà nội|hn
+đạo tú|đt	quảng phú cầu|qpc	ứng hoà	hà nội|hn
+quảng nguyên|qn	quảng phú cầu|qpc	ứng hoà	hà nội|hn
+nghi lộc|nl	sơn công|sc	ứng hoà	hà nội|hn
+vĩnh thượng|vt	sơn công|sc	ứng hoà	hà nội|hn
+hoàng dương|hd	sơn công|sc	ứng hoà	hà nội|hn
+đoàn xá|đx	vân đình|vđ	ứng hoà	hà nội|hn
+trần đăng ninh|tđn	vân đình|vđ	ứng hoà	hà nội|hn
+cầu thanh ấm|ctấ	vân đình|vđ	ứng hoà	hà nội|hn
+chùa làng quảng tái|clqt	trung tú|tt	ứng hoà	hà nội|hn
+cao xá|cx	trung tú|tt	ứng hoà	hà nội|hn
+dũng cảm|dc	trung tú|tt	ứng hoà	hà nội|hn
+đông dương|đd	tảo dương văn|tdv	ứng hoà	hà nội|hn
+văn ông|vô	tảo dương văn|tdv	ứng hoà	hà nội|hn
+tảo khê|tk	tảo dương văn|tdv	ứng hoà	hà nội|hn
+viên ngoại|vn	viên an|va	ứng hoà	hà nội|hn
+ba thá|bt	viên an|va	ứng hoà	hà nội|hn
+phù yên|py	viên an|va	ứng hoà	hà nội|hn
+thôn tiền|tt	viên nội|vn	ứng hoà	hà nội|hn
+thôn trung|tt	viên nội|vn	ứng hoà	hà nội|hn
+thôn thượng|tt	viên nội|vn	ứng hoà	hà nội|hn
+thôn giang|tg	viên nội|vn	ứng hoà	hà nội|hn
+thái bình|tb	vạn thái|vt	ứng hoà	hà nội|hn
+nhân trai|nt	đông lỗ|đl	ứng hoà	hà nội|hn
+ngọc trực|nt	đông lỗ|đl	ứng hoà	hà nội|hn
+viên đình|vđ	đông lỗ|đl	ứng hoà	hà nội|hn
+đào xá|đx	đại cường|đc	ứng hoà	hà nội|hn
+kim giang|kg	đại cường|đc	ứng hoà	hà nội|hn
+giang triều|gt	đại cường|đc	ứng hoà	hà nội|hn
+trưng thượng|tt	đại hùng|đh	ứng hoà	hà nội|hn
+du đồng|dđ	đại hùng|đh	ứng hoà	hà nội|hn
+thành vật|tv	đồng tiến|đt	ứng hoà	hà nội|hn
+làng đồng xung|lđx	đồng tân|đt	ứng hoà	hà nội|hn
+xuân tình|xt	đồng tân|đt	ứng hoà	hà nội|hn
+triều khúc|tk	đội bình|đb	ứng hoà	hà nội|hn
+bình đà|bđ	bình minh|bm	thanh oai	hà nội|hn
+sinh quả|sq	bình minh|bm	thanh oai	hà nội|hn
+xóm chợ bình đà|xcbđ	bình minh|bm	thanh oai	hà nội|hn
+sinh liên|sl	bình minh|bm	thanh oai	hà nội|hn
+thạch bích|tb	bích hoà|bh	thanh oai	hà nội|hn
+thôn trung|tt	cao viên|cv	thanh oai	hà nội|hn
+xóm mỹ|xm	cự khê|ck	thanh oai	hà nội|hn
+khê tang|kt	cự khê|ck	thanh oai	hà nội|hn
+xóm thượng|xt	cự khê|ck	thanh oai	hà nội|hn
+khúc thuỷ|kt	tả thanh oai|tto	thanh oai	hà nội|hn
+tiễn văn|tv	dân hoà|dh	thanh oai	hà nội|hn
+an khoái|ak	dân hoà|dh	thanh oai	hà nội|hn
+phú thọ|pt	dân hoà|dh	thanh oai	hà nội|hn
+ngô đồng|nđ	hồng dương|hd	thanh oai	hà nội|hn
+phương nhị|pn	hồng dương|hd	thanh oai	hà nội|hn
+mạch kỳ|mk	hồng dương|hd	thanh oai	hà nội|hn
+ngọc đính|nđ	hồng dương|hd	thanh oai	hà nội|hn
+tảo dương|td	hồng dương|hd	thanh oai	hà nội|hn
+hoàng trung|ht	hồng dương|hd	thanh oai	hà nội|hn
+kim bài|kb	kim bài|kb	thanh oai	hà nội|hn
+kim lâm|kl	kim bài|kb	thanh oai	hà nội|hn
+cát động|cđ	kim bài|kb	thanh oai	hà nội|hn
+kim thành|kt	kim thư|kt	thanh oai	hà nội|hn
+đan thắm|đt	mỹ hưng|mh	thanh oai	hà nội|hn
+thiên đông|tđ	mỹ hưng|mh	thanh oai	hà nội|hn
+chung chính|cc	phương trung|pt	thanh oai	hà nội|hn
+bùi xá|bx	tam hưng|th	thanh oai	hà nội|hn
+song khê|sk	tam hưng|th	thanh oai	hà nội|hn
+văn khê|vk	tam hưng|th	thanh oai	hà nội|hn
+thượng thành|tt	thanh cao|tc	thanh oai	hà nội|hn
+thanh thần|tt	thanh cao|tc	thanh oai	hà nội|hn
+cao mật thượng|cmt	thanh cao|tc	thanh oai	hà nội|hn
+đình my thượng|đmt	thanh mai|tm	thanh oai	hà nội|hn
+rùa thượng|rt	thanh thuỳ|tt	thanh oai	hà nội|hn
+từ am|ta	thanh thuỳ|tt	thanh oai	hà nội|hn
+gia vĩnh|gv	thanh thuỳ|tt	thanh oai	hà nội|hn
+rùa hạ|rh	thanh thuỳ|tt	thanh oai	hà nội|hn
+quan nhân|qn	thanh văn|tv	thanh oai	hà nội|hn
+úc lý|úl	thanh văn|tv	thanh oai	hà nội|hn
+bạch nao|bn	thanh văn|tv	thanh oai	hà nội|hn
+quế sơn|qs	tân ước|tư	thanh oai	hà nội|hn
+tri lễ|tl	tân ước|tư	thanh oai	hà nội|hn
+ước lễ|ưl	tân ước|tư	thanh oai	hà nội|hn
+vân đồng|vđ	xuân dương|xd	thanh oai	hà nội|hn
+động giã|đg	đỗ động|đđ	thanh oai	hà nội|hn
+trình xá|tx	đỗ động|đđ	thanh oai	hà nội|hn
+văn quán|vq	đỗ động|đđ	thanh oai	hà nội|hn
+bưu điện bình phú|bđbp	bình phú|bp	hà đông	hà nội|hn
+thôn bến|tb	dị nậu|dn	hà đông	hà nội|hn
+hoàng xá|hx	lại thượng|lt	hà đông	hà nội|hn
+đồng vàng|đv	phùng xá|px	hà đông	hà nội|hn
+cổng nùi|cn	phùng xá|px	hà đông	hà nội|hn
+thôn thạch|tt	thạch xá|tx	hà đông	hà nội|hn
+gò mè|gm	tiến xuân|tx	hà đông	hà nội|hn
+gò chói|gc	tiến xuân|tx	hà đông	hà nội|hn
+đồng dâu|đd	tiến xuân|tx	hà đông	hà nội|hn
+xóm chùa|xc	tiến xuân|tx	hà đông	hà nội|hn
+trại mới|tm	tiến xuân|tx	hà đông	hà nội|hn
+hồ cố đụng|hcđ	tiến xuân|tx	hà đông	hà nội|hn
+thôn vao|tv	yên bình|yb	hà đông	hà nội|hn
+thung mộ|tm	yên bình|yb	hà đông	hà nội|hn
+dân lập|dl	yên bình|yb	hà đông	hà nội|hn
+đầm bối|đb	yên trung|yt	hà đông	hà nội|hn
+minh nghĩa|mn	đại đồng|đđ	hà đông	hà nội|hn
+ngọc lâu|nl	đại đồng|đđ	hà đông	hà nội|hn
+minh đức|mđ	phúc hoà	phúc thọ	hà nội|hn
+kinh đào|kđ	an mỹ|am	mỹ đức	hà nội|hn
+tảo khê|tk	an mỹ|am	mỹ đức	hà nội|hn
+đoan nữ|đn	an mỹ|am	mỹ đức	hà nội|hn
+vạn thắng|vt	an tiến|at	mỹ đức	hà nội|hn
+phú hữu	bột xuyên|bx	mỹ đức	hà nội|hn
+cống đặng|cđ	hồng sơn|hs	mỹ đức	hà nội|hn
+vĩnh an|va	hồng sơn|hs	mỹ đức	hà nội|hn
+hạ sở|hs	hồng sơn|hs	mỹ đức	hà nội|hn
+thôn ải|tả	hợp thanh|ht	mỹ đức	hà nội|hn
+thôn vài|tv	hợp thanh|ht	mỹ đức	hà nội|hn
+thôn thọ|tt	hợp thanh|ht	mỹ đức	hà nội|hn
+viêm khê|vk	hợp tiến|ht	mỹ đức	hà nội|hn
+phú liễn|pl	hợp tiến|ht	mỹ đức	hà nội|hn
+hạ quất|hq	hợp tiến|ht	mỹ đức	hà nội|hn
+thượng quất|tq	hợp tiến|ht	mỹ đức	hà nội|hn
+gò mái|gm	hợp tiến|ht	mỹ đức	hà nội|hn
+la đông|lđ	hợp tiến|ht	mỹ đức	hà nội|hn
+lê xá|lx	lê thanh|lt	mỹ đức	hà nội|hn
+áng thượng|át	lê thanh|lt	mỹ đức	hà nội|hn
+đức thụ|đt	lê thanh|lt	mỹ đức	hà nội|hn
+áng hạ|áh	lê thanh|lt	mỹ đức	hà nội|hn
+phụ yên|py	phúc lâm|pl	mỹ đức	hà nội|hn
+thôn nội|tn	thượng lâm|tl	mỹ đức	hà nội|hn
+đồng mít|đm	đồng tâm|đt	mỹ đức	hà nội|hn
+thôn hoành	đồng tâm|đt	mỹ đức	hà nội|hn
+thôn trì|tt	đồng tâm|đt	mỹ đức	hà nội|hn
+thôn trê|tt	tuy lai|tl	mỹ đức	hà nội|hn
+giáp bốn|gb	tuy lai|tl	mỹ đức	hà nội|hn
+thôn quýt|tq	tuy lai|tl	mỹ đức	hà nội|hn
+thôn thượng|tt	tuy lai|tl	mỹ đức	hà nội|hn
+kim bôi|kb	vạn kim|vk	mỹ đức	hà nội|hn
+vạn phúc|vp	vạn kim|vk	mỹ đức	hà nội|hn
+tân độ|tđ	xuy xá|xx	mỹ đức	hà nội|hn
+thôn nội|tn	xuy xá|xx	mỹ đức	hà nội|hn
+thôn thượng|tt	xuy xá|xx	mỹ đức	hà nội|hn
+văn giang|vg	đại nghĩa|đn	mỹ đức	hà nội|hn
+kỳ dương|kd	chương dương|cd	thường tín	hà nội|hn
+chương lộc|cl	chương dương|cd	thường tín	hà nội|hn
+hạ thái|ht	duyên thái|dt	thường tín	hà nội|hn
+xuân lê|xl	nhị khê|nk	thường tín	hà nội|hn
+thượng đình|tđ	nhị khê|nk	thường tín	hà nội|hn
+cầu quán gánh|cqg	nhị khê|nk	thường tín	hà nội|hn
+văn xá|vx	nhị khê|nk	thường tín	hà nội|hn
+đông cứu|đc	dũng tiến|dt	thường tín	hà nội|hn
+cao xá|cx	dũng tiến|dt	thường tín	hà nội|hn
+cổ chất|cc	dũng tiến|dt	thường tín	hà nội|hn
+quang hiền|qh	hiền giang|hg	thường tín	hà nội|hn
+hưng hiền|hh	hiền giang|hg	thường tín	hà nội|hn
+nhân hiền	hiền giang|hg	thường tín	hà nội|hn
+phụng công|pc	hoà bình|hb	thường tín	hà nội|hn
+dương hiền|dh	hoà bình|hb	thường tín	hà nội|hn
+thuỵ ứng|tứ	hoà bình|hb	thường tín	hà nội|hn
+xâm xuyên|xx	hồng vân|hv	thường tín	hà nội|hn
+hoàng xá|hx	khánh hà	thường tín	hà nội|hn
+khánh vân|kv	khánh hà	thường tín	hà nội|hn
+liễu ngoại|ln	khánh hà	thường tín	hà nội|hn
+liễu nội|ln	khánh hà	thường tín	hà nội|hn
+làng đan nhiễm|lđn	khánh hà	thường tín	hà nội|hn
+an cảnh|ac	lê lợi|ll	thường tín	hà nội|hn
+trần phú|tp	minh cường|mc	thường tín	hà nội|hn
+đỗ xá|đx	minh cường|mc	thường tín	hà nội|hn
+nam sơn|ns	minh cường|mc	thường tín	hà nội|hn
+khôn thôn|kt	minh cường|mc	thường tín	hà nội|hn
+chùa làng đống chanh|clđc	minh cường|mc	thường tín	hà nội|hn
+mễ sơn|ms	nguyễn trãi|nt	thường tín	hà nội|hn
+vĩnh mô|vm	nguyễn trãi|nt	thường tín	hà nội|hn
+lộc dư|ld	nguyễn trãi|nt	thường tín	hà nội|hn
+đình tổ|đt	nguyễn trãi|nt	thường tín	hà nội|hn
+ninh xá|nx	vạn phúc|vp	thanh trì	hà nội|hn
+xâm dương|xd	ninh sở|ns	thường tín	hà nội|hn
+đô quan|đq	quất động|qđ	thường tín	hà nội|hn
+quất lâm|ql	quất động|qđ	thường tín	hà nội|hn
+đức trạch|đt	quất động|qđ	thường tín	hà nội|hn
+quất tỉnh|qt	quất động|qđ	thường tín	hà nội|hn
+lưu xá|lx	quất động|qđ	thường tín	hà nội|hn
+đào xá|đx	thắng lợi|tl	thường tín	hà nội|hn
+khoái cầu|kc	thắng lợi|tl	thường tín	hà nội|hn
+phương cù|pc	thắng lợi|tl	thường tín	hà nội|hn
+một thượng|mt	thắng lợi|tl	thường tín	hà nội|hn
+hướng dương|hd	thắng lợi|tl	thường tín	hà nội|hn
+bình lăng|bl	thắng lợi|tl	thường tín	hà nội|hn
+mai xá|mx	thắng lợi|tl	thường tín	hà nội|hn
+phú trạch|pt	thống nhất|tn	thường tín	hà nội|hn
+bộ đầu|bđ	thống nhất|tn	thường tín	hà nội|hn
+hoàng xá|hx	thống nhất|tn	thường tín	hà nội|hn
+ngọc động|nđ	tiền phong|tp	thường tín	hà nội|hn
+thượng cung|tc	tiền phong|tp	thường tín	hà nội|hn
+phúc trại|pt	tân minh|tm	thường tín	hà nội|hn
+triệu đông|tđ	tân minh|tm	thường tín	hà nội|hn
+thọ giáo|tg	tân minh|tm	thường tín	hà nội|hn
+phú lương|pl	tân minh|tm	thường tín	hà nội|hn
+an duyên|ad	tô hiệu|th	thường tín	hà nội|hn
+an định|ađ	tô hiệu|th	thường tín	hà nội|hn
+đông thai|đt	vân tảo|vt	thường tín	hà nội|hn
+dương tảo|dt	vân tảo|vt	thường tín	hà nội|hn
+xâm hồ|xh	vân tảo|vt	thường tín	hà nội|hn
+văn giáp|vg	văn bình|vb	thường tín	hà nội|hn
+bình vọng|bv	văn bình|vb	thường tín	hà nội|hn
+văn hội|vh	văn bình|vb	thường tín	hà nội|hn
+văn trai|vt	văn phú|vp	thường tín	hà nội|hn
+an lãng|al	văn tự|vt	thường tín	hà nội|hn
+đinh xá|đx	văn tự|vt	thường tín	hà nội|hn
+nguyên hanh	văn tự|vt	thường tín	hà nội|hn
+đặng xá|đx	vạn điểm|vđ	thường tín	hà nội|hn
+thôn ngọ|tn	chuyên mỹ|cm	phú xuyên	hà nội|hn
+đồng vinh|đv	chuyên mỹ|cm	phú xuyên	hà nội|hn
+thôn hạ	chuyên mỹ|cm	phú xuyên	hà nội|hn
+bối khê|bk	chuyên mỹ|cm	phú xuyên	hà nội|hn
+lễ thượng|lt	châu can|cc	phú xuyên	hà nội|hn
+bài lễ|bl	châu can|cc	phú xuyên	hà nội|hn
+thôn nội|tn	châu can|cc	phú xuyên	hà nội|hn
+nhị khê|nk	hoàng long|hl	phú xuyên	hà nội|hn
+kim long thượng|klt	hoàng long|hl	phú xuyên	hà nội|hn
+hoàng đông|hđ	hoàng long|hl	phú xuyên	hà nội|hn
+đào xá|đx	hoàng long|hl	phú xuyên	hà nội|hn
+phù bật|pb	hồng minh|hm	phú xuyên	hà nội|hn
+tân đô|tđ	hồng minh|hm	phú xuyên	hà nội|hn
+chùa xóm giữa|cxg	hồng minh|hm	phú xuyên	hà nội|hn
+hoà mỹ|hm	hồng minh|hm	phú xuyên	hà nội|hn
+lát dương|ld	hồng thái|ht	phú xuyên	hà nội|hn
+duyên yết|dy	hồng thái|ht	phú xuyên	hà nội|hn
+duyên trang|dt	hồng thái|ht	phú xuyên	hà nội|hn
+vĩnh thượng|vt	khai thái|kt	phú xuyên	hà nội|hn
+lap phuong|lp	khai thái|kt	phú xuyên	hà nội|hn
+vĩnh trung|vt	khai thái|kt	phú xuyên	hà nội|hn
+vĩnh hạ|vh	khai thái|kt	phú xuyên	hà nội|hn
+đông lạc|đl	minh tân|mt	phú xuyên	hà nội|hn
+thân quy|tq	minh tân|mt	phú xuyên	hà nội|hn
+bái xuyên|bx	minh tân|mt	phú xuyên	hà nội|hn
+nam phú|np	nam phong|np	phú xuyên	hà nội|hn
+hoàng xá|hx	phú túc|pt	phú xuyên	hà nội|hn
+đường la|đl	phú túc|pt	phú xuyên	hà nội|hn
+lưu thượng|lt	phú túc|pt	phú xuyên	hà nội|hn
+tư sản|ts	phú túc|pt	phú xuyên	hà nội|hn
+lưu xá|lx	phú túc|pt	phú xuyên	hà nội|hn
+giẽ thượng|gt	phú yên|py	phú xuyên	hà nội|hn
+giẽ hạ|gh	phú yên|py	phú xuyên	hà nội|hn
+phú mỹ|pm	phú xuyên|px	phú xuyên	hà nội|hn
+tiểu khu đông đoài|tkđđ	phú xuyên|px	phú xuyên	hà nội|hn
+tiểu khu mỹ lâm|tkml	phú xuyên|px	phú xuyên	hà nội|hn
+cổ chế|cc	phúc tiến|pt	phú xuyên	hà nội|hn
+an hoà|ah	phúc tiến|pt	phú xuyên	hà nội|hn
+khả liễu|kl	phúc tiến|pt	phú xuyên	hà nội|hn
+phúc lâm|pl	đại xuyên|đx	phú xuyên	hà nội|hn
+thái lai|tl	đại xuyên|đx	phú xuyên	hà nội|hn
+thường xuyên|tx	đại xuyên|đx	phú xuyên	hà nội|hn
+đồng tiến|đt	thượng vực|tv	phú xuyên	hà nội|hn
+phượng vũ|pv	thượng vực|tv	phú xuyên	hà nội|hn
+sảo thượng|st	quang lãng|ql	phú xuyên	hà nội|hn
+văn lãng|vl	quang trung|qt	phú xuyên	hà nội|hn
+sơn thanh|st	sơn hà|sh	phú xuyên	hà nội|hn
+hoàng nguyên|hn	tri thuỷ|tt	phú xuyên	hà nội|hn
+trung lập|tl	tri trung|tt	phú xuyên	hà nội|hn
+đại nghiệp|đn	tân dân|td	phú xuyên	hà nội|hn
+đông phố|đp	tân dân|td	phú xuyên	hà nội|hn
+lễ nhuế|ln	tân dân|td	phú xuyên	hà nội|hn
+từ thuận|tt	vân từ|vt	phú xuyên	hà nội|hn
+thôn vực|tv	vân từ|vt	phú xuyên	hà nội|hn
+thôn thượng|tt	vân từ|vt	phú xuyên	hà nội|hn
+thôn hội	văn hoàng|vh	phú xuyên	hà nội|hn
+thôn trung|tt	văn hoàng|vh	phú xuyên	hà nội|hn
+thôn hạ	văn hoàng|vh	phú xuyên	hà nội|hn
+thôn liễu|tl	văn hoàng|vh	phú xuyên	hà nội|hn
+đề thám|đt	phú minh|pm	phú xuyên	hà nội|hn
+an mỹ|am	đại thắng|đt	phú xuyên	hà nội|hn
+văn hội|vh	đại thắng|đt	phú xuyên	hà nội|hn
+tạ xá|tx	đại thắng|đt	phú xuyên	hà nội|hn
+ngọc mạch|nm	xuân phương|xp	từ liêm	hà nội|hn
+lương thế vinh|ltv	trung văn|tv	từ liêm	hà nội|hn
+giao quang|gq	đại mỗ|đm	từ liêm	hà nội|hn
+nguyễn cư trinh|nct	phạm ngũ lão|pnl	quận 1|q1	hồ chí minh|hcm
+nguyễn thái học|nth	phạm ngũ lão|pnl	quận 1|q1	hồ chí minh|hcm
+nam quốc cang|nqc	phạm ngũ lão|pnl	quận 1|q1	hồ chí minh|hcm
+bùi viện|bv	phạm ngũ lão|pnl	quận 1|q1	hồ chí minh|hcm
+lương hữu khánh|lhk	phạm ngũ lão|pnl	quận 1|q1	hồ chí minh|hcm
+cống quỳnh|cq	phạm ngũ lão|pnl	quận 1|q1	hồ chí minh|hcm
+nguyễn thị minh khai|ntmk	phạm ngũ lão|pnl	quận 1|q1	hồ chí minh|hcm
+bùi thị xuân|btx	phạm ngũ lão|pnl	quận 1|q1	hồ chí minh|hcm
+trần hưng đạo|thđ	phạm ngũ lão|pnl	quận 1|q1	hồ chí minh|hcm
+đỗ quang đẩu|đqđ	phạm ngũ lão|pnl	quận 1|q1	hồ chí minh|hcm
+đề thám|đt	phạm ngũ lão|pnl	quận 1|q1	hồ chí minh|hcm
+nguyễn trãi|nt	phạm ngũ lão|pnl	quận 1|q1	hồ chí minh|hcm
+nguyễn văn cừ|nvc	cầu kho|ck	quận 1|q1	hồ chí minh|hcm
+hẻm bến chương dương|hbcd	cầu kho|ck	quận 1|q1	hồ chí minh|hcm
+chương dương|cd	cầu kho|ck	quận 1|q1	hồ chí minh|hcm
+võ văn kiệt|vvk	cầu kho|ck	quận 1|q1	hồ chí minh|hcm
+trần hưng đạo|thđ	cầu kho|ck	quận 1|q1	hồ chí minh|hcm
+trần đình xu|tđx	cầu kho|ck	quận 1|q1	hồ chí minh|hcm
+đinh tiên hoàng|đth	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+lý tự trọng|ltt	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+hồ huấn nghiệp|hhn	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+phạm ngọc thạch|pnt	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+công xã paris|cxp	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+chu mạnh trinh|cmt	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+tôn thất thiệp|ttt	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+công trường lam sơn|ctls	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+nguyễn du|nd	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+đông du|đd	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+mạc thị bưởi|mtb	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+nguyễn thị minh khai|ntmk	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+nguyễn văn bình|nvb	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+nguyễn trung ngạn|ntn	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+hải triều|ht	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+tôn đức thắng|tđt	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+hai bà trưng|hbt	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+lê văn hưu|lvh	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+ngô đức kế|nđk	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+nguyễn thiệp|nt	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+hàn thuyên|ht	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+lê duẩn|ld	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+ngô văn năm|nvn	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+nam kỳ khởi nghĩa|nkkn	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+hồ tùng mậu|htm	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+đồng khởi|đk	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+thái văn lung|tvl	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+hàm nghi|hn	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+phan văn đạt|pvđ	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+nguyễn bỉnh khiêm|nbk	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+lê thánh tôn|ltt	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+nguyễn siêu|ns	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+cao bá quát|cbq	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+công trường mê linh|ctml	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+tôn thất đạm|ttđ	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+thi sách|ts	bến nghé|bn	quận 1|q1	hồ chí minh|hcm
+lý tự trọng|ltt	bến thành|bt	quận 1|q1	hồ chí minh|hcm
+phan bội châu|pbc	bến thành|bt	quận 1|q1	hồ chí minh|hcm
+lê anh xuân|lax	bến thành|bt	quận 1|q1	hồ chí minh|hcm
+tôn thất tùng|ttt	bến thành|bt	quận 1|q1	hồ chí minh|hcm
+nguyễn du|nd	bến thành|bt	quận 1|q1	hồ chí minh|hcm
+lê thị riêng|ltr	bến thành|bt	quận 1|q1	hồ chí minh|hcm
+lưu văn lang|lvl	bến thành|bt	quận 1|q1	hồ chí minh|hcm
+nguyễn thị minh khai|ntmk	bến thành|bt	quận 1|q1	hồ chí minh|hcm
+bùi thị xuân|btx	bến thành|bt	quận 1|q1	hồ chí minh|hcm
+nguyễn trung trực|ntt	bến thành|bt	quận 1|q1	hồ chí minh|hcm
+nguyễn trãi|nt	bến thành|bt	quận 1|q1	hồ chí minh|hcm
+nguyễn văn tráng|nvt	bến thành|bt	quận 1|q1	hồ chí minh|hcm
+nam kỳ khởi nghĩa|nkkn	bến thành|bt	quận 1|q1	hồ chí minh|hcm
+hàm nghi|hn	bến thành|bt	quận 1|q1	hồ chí minh|hcm
+lê lai|ll	bến thành|bt	quận 1|q1	hồ chí minh|hcm
+thủ khoa huân|tkh	bến thành|bt	quận 1|q1	hồ chí minh|hcm
+nguyễn an ninh|nan	bến thành|bt	quận 1|q1	hồ chí minh|hcm
+lê thánh tôn|ltt	bến thành|bt	quận 1|q1	hồ chí minh|hcm
+phan chu trinh|pct	bến thành|bt	quận 1|q1	hồ chí minh|hcm
+lê lợi|ll	bến thành|bt	quận 1|q1	hồ chí minh|hcm
+huỳnh thúc kháng|htk	bến thành|bt	quận 1|q1	hồ chí minh|hcm
+đặng trần côn|đtc	bến thành|bt	quận 1|q1	hồ chí minh|hcm
+huyền trân công chúa|htcc	bến thành|bt	quận 1|q1	hồ chí minh|hcm
+phạm viết chánh|pvc	phường 19|p1	bình thạnh	hồ chí minh|hcm
+phan huy ôn|phô	phường 19|p1	bình thạnh	hồ chí minh|hcm
+huỳnh tịnh của|htc	phường 19|p1	bình thạnh	hồ chí minh|hcm
+trường sa|ts	phường 19|p1	bình thạnh	hồ chí minh|hcm
+công trường tự do|cttd	phường 19|p1	bình thạnh	hồ chí minh|hcm
+mê linh|ml	phường 19|p1	bình thạnh	hồ chí minh|hcm
+huỳnh mẫn đạt|hmđ	phường 19|p1	bình thạnh	hồ chí minh|hcm
+nguyễn hữu cảnh|nhc	phường 19|p1	bình thạnh	hồ chí minh|hcm
+nguyễn văn lạc|nvl	phường 19|p1	bình thạnh	hồ chí minh|hcm
+xô viết nghệ tĩnh|xvnt	phường 19|p1	bình thạnh	hồ chí minh|hcm
+nguyễn công trứ|nct	phường 19|p1	bình thạnh	hồ chí minh|hcm
+ngô tất tố|ntt	phường 19|p1	bình thạnh	hồ chí minh|hcm
+phan văn hân|pvh	phường 19|p1	bình thạnh	hồ chí minh|hcm
+trần hưng đạo|thđ	cô giang|cg	quận 1|q1	hồ chí minh|hcm
+trần đình xu|tđx	cô giang|cg	quận 1|q1	hồ chí minh|hcm
+võ văn kiệt|vvk	cô giang|cg	quận 1|q1	hồ chí minh|hcm
+nguyễn thái học|nth	cầu ông lãnh|côl	quận 1|q1	hồ chí minh|hcm
+lê thị hồng gấm|lthg	cầu ông lãnh|côl	quận 1|q1	hồ chí minh|hcm
+phan văn trường|pvt	cầu ông lãnh|côl	quận 1|q1	hồ chí minh|hcm
+yersin	cầu ông lãnh|côl	quận 1|q1	hồ chí minh|hcm
+cô bắc|cb	cầu ông lãnh|côl	quận 1|q1	hồ chí minh|hcm
+võ văn kiệt|vvk	cầu ông lãnh|côl	quận 1|q1	hồ chí minh|hcm
+trần hưng đạo|thđ	cầu ông lãnh|côl	quận 1|q1	hồ chí minh|hcm
+cô giang|cg	cầu ông lãnh|côl	quận 1|q1	hồ chí minh|hcm
+nguyễn công trứ|nct	cầu ông lãnh|côl	quận 1|q1	hồ chí minh|hcm
+đề thám|đt	cầu ông lãnh|côl	quận 1|q1	hồ chí minh|hcm
+trịnh văn cấn|tvc	cầu ông lãnh|côl	quận 1|q1	hồ chí minh|hcm
+đinh tiên hoàng|đth	đa kao|đk	quận 1|q1	hồ chí minh|hcm
+điện biên phủ|đbp	đa kao|đk	quận 1|q1	hồ chí minh|hcm
+nguyễn thành ý|ntý	đa kao|đk	quận 1|q1	hồ chí minh|hcm
+nguyễn văn thủ|nvt	đa kao|đk	quận 1|q1	hồ chí minh|hcm
+phan ngữ|pn	đa kao|đk	quận 1|q1	hồ chí minh|hcm
+hoà mỹ|hm	đa kao|đk	quận 1|q1	hồ chí minh|hcm
+phan kế bính|pkb	đa kao|đk	quận 1|q1	hồ chí minh|hcm
+phan liêm|pl	đa kao|đk	quận 1|q1	hồ chí minh|hcm
+nguyễn thị minh khai|ntmk	đa kao|đk	quận 1|q1	hồ chí minh|hcm
+hai bà trưng|hbt	đa kao|đk	quận 1|q1	hồ chí minh|hcm
+võ thị sáu|vts	đa kao|đk	quận 1|q1	hồ chí minh|hcm
+hoàng sa|hs	đa kao|đk	quận 1|q1	hồ chí minh|hcm
+huỳnh khương ninh|hkn	đa kao|đk	quận 1|q1	hồ chí minh|hcm
+nguyễn huy tự|nht	đa kao|đk	quận 1|q1	hồ chí minh|hcm
+mạc đĩnh chi|mđc	đa kao|đk	quận 1|q1	hồ chí minh|hcm
+phan tôn|pt	đa kao|đk	quận 1|q1	hồ chí minh|hcm
+trần doãn khanh|tdk	đa kao|đk	quận 1|q1	hồ chí minh|hcm
+trương hán siêu|ths	đa kao|đk	quận 1|q1	hồ chí minh|hcm
+nguyễn văn giai|nvg	đa kao|đk	quận 1|q1	hồ chí minh|hcm
+mai thị lựu|mtl	đa kao|đk	quận 1|q1	hồ chí minh|hcm
+nguyễn bỉnh khiêm|nbk	đa kao|đk	quận 1|q1	hồ chí minh|hcm
+nguyễn đình chiểu|nđc	đa kao|đk	quận 1|q1	hồ chí minh|hcm
+trần cao vân|tcv	đa kao|đk	quận 1|q1	hồ chí minh|hcm
+đinh tiên hoàng|đth	tân định|tđ	quận 1|q1	hồ chí minh|hcm
+lý văn phức|lvp	tân định|tđ	quận 1|q1	hồ chí minh|hcm
+mã lộ|ml	tân định|tđ	quận 1|q1	hồ chí minh|hcm
+võ thị sáu|vts	tân định|tđ	quận 1|q1	hồ chí minh|hcm
+nguyễn phi khanh|npk	tân định|tđ	quận 1|q1	hồ chí minh|hcm
+thạch thị thanh|ttt	tân định|tđ	quận 1|q1	hồ chí minh|hcm
+bà lê chân|blc	tân định|tđ	quận 1|q1	hồ chí minh|hcm
+trần quang khải|tqk	tân định|tđ	quận 1|q1	hồ chí minh|hcm
+trần khánh dư|tkd	tân định|tđ	quận 1|q1	hồ chí minh|hcm
+huyền quang|hq	tân định|tđ	quận 1|q1	hồ chí minh|hcm
+nguyễn hữu cầu|nhc	tân định|tđ	quận 1|q1	hồ chí minh|hcm
+trần khắc chân|tkc	tân định|tđ	quận 1|q1	hồ chí minh|hcm
+trần nhật duật|tnd	tân định|tđ	quận 1|q1	hồ chí minh|hcm
+hai bà trưng|hbt	tân định|tđ	quận 1|q1	hồ chí minh|hcm
+nguyễn văn nguyễn|nvn	tân định|tđ	quận 1|q1	hồ chí minh|hcm
+đặng dung|đd	tân định|tđ	quận 1|q1	hồ chí minh|hcm
+đặng tất|đt	tân định|tđ	quận 1|q1	hồ chí minh|hcm
+đinh công tráng|đct	tân định|tđ	quận 1|q1	hồ chí minh|hcm
+hoàng sa|hs	tân định|tđ	quận 1|q1	hồ chí minh|hcm
+trần quý khoách|tqk	tân định|tđ	quận 1|q1	hồ chí minh|hcm
+nguyễn văn cừ|nvc	nguyễn cư trinh|nct	quận 1|q1	hồ chí minh|hcm
+phạm viết chánh|pvc	nguyễn cư trinh|nct	quận 1|q1	hồ chí minh|hcm
+cống quỳnh|cq	nguyễn cư trinh|nct	quận 1|q1	hồ chí minh|hcm
+nguyễn thị minh khai|ntmk	nguyễn cư trinh|nct	quận 1|q1	hồ chí minh|hcm
+trần hưng đạo|thđ	nguyễn cư trinh|nct	quận 1|q1	hồ chí minh|hcm
+cao bá nhạ|cbn	nguyễn cư trinh|nct	quận 1|q1	hồ chí minh|hcm
+nguyễn trãi|nt	nguyễn cư trinh|nct	quận 1|q1	hồ chí minh|hcm
+phó đức chính|pđc	nguyễn thái bình|ntb	quận 1|q1	hồ chí minh|hcm
+lê thị hồng gấm|lthg	nguyễn thái bình|ntb	quận 1|q1	hồ chí minh|hcm
+lê công kiều|lck	nguyễn thái bình|ntb	quận 1|q1	hồ chí minh|hcm
+đặng thị nhu|đtn	nguyễn thái bình|ntb	quận 1|q1	hồ chí minh|hcm
+yersin	nguyễn thái bình|ntb	quận 1|q1	hồ chí minh|hcm
+hầm thủ thiêm|htt	nguyễn thái bình|ntb	quận 1|q1	hồ chí minh|hcm
+võ văn kiệt|vvk	nguyễn thái bình|ntb	quận 1|q1	hồ chí minh|hcm
+trần hưng đạo|thđ	nguyễn thái bình|ntb	quận 1|q1	hồ chí minh|hcm
+nguyễn công trứ|nct	nguyễn thái bình|ntb	quận 1|q1	hồ chí minh|hcm
+nam kỳ khởi nghĩa|nkkn	nguyễn thái bình|ntb	quận 1|q1	hồ chí minh|hcm
+hồ tùng mậu|htm	nguyễn thái bình|ntb	quận 1|q1	hồ chí minh|hcm
+tôn thất đạm|ttđ	nguyễn thái bình|ntb	quận 1|q1	hồ chí minh|hcm
+hàm nghi|hn	nguyễn thái bình|ntb	quận 1|q1	hồ chí minh|hcm
+mai chí thọ|mct	an phú|ap	quận 2|q2	hồ chí minh|hcm
+nguyễn hoàng|nh	an phú|ap	quận 2|q2	hồ chí minh|hcm
+đường f|đf	an phú|ap	quận 2|q2	hồ chí minh|hcm
+nguyễn thị định|ntđ	an phú|ap	quận 2|q2	hồ chí minh|hcm
+đường m|đm	an phú|ap	quận 2|q2	hồ chí minh|hcm
+giang văn minh|gvm	an phú|ap	quận 2|q2	hồ chí minh|hcm
+đoàn hữu trung|đht	an phú|ap	quận 2|q2	hồ chí minh|hcm
+song hành|sh	an phú|ap	quận 2|q2	hồ chí minh|hcm
+đường h|đh	an phú|ap	quận 2|q2	hồ chí minh|hcm
+vũ tông phan|vtp	an phú|ap	quận 2|q2	hồ chí minh|hcm
+đường g|đg	an phú|ap	quận 2|q2	hồ chí minh|hcm
+trần não|tn	an phú|ap	quận 2|q2	hồ chí minh|hcm
+đồng văn cống|đvc	an phú|ap	quận 2|q2	hồ chí minh|hcm
+thân văn nhiếp|tvn	an phú|ap	quận 2|q2	hồ chí minh|hcm
+xa lộ hà nội|xlhn	an phú|ap	quận 2|q2	hồ chí minh|hcm
+nguyễn quý cảnh|nqc	an phú|ap	quận 2|q2	hồ chí minh|hcm
+lương định của|lđc	an phú|ap	quận 2|q2	hồ chí minh|hcm
+đặng tiến đông|đtđ	an phú|ap	quận 2|q2	hồ chí minh|hcm
+hưng hoá|hh	phường 6|p6	tân bình	hồ chí minh|hcm
+bành văn trân|bvt	phường 6|p6	tân bình	hồ chí minh|hcm
+nghĩa phát|np	phường 6|p6	tân bình	hồ chí minh|hcm
+phú lộc|pl	phường 6|p6	tân bình	hồ chí minh|hcm
+lý thường kiệt|ltk	phường 6|p6	tân bình	hồ chí minh|hcm
+nghĩa hoà|nh	phường 6|p6	tân bình	hồ chí minh|hcm
+đất thánh|đt	phường 6|p6	tân bình	hồ chí minh|hcm
+lộc hưng|lh	phường 6|p6	tân bình	hồ chí minh|hcm
+trần triệu luật|ttl	phường 6|p6	tân bình	hồ chí minh|hcm
+khai trí|kt	phường 6|p6	tân bình	hồ chí minh|hcm
+nghĩa hưng|nh	phường 6|p6	tân bình	hồ chí minh|hcm
+an tôn|at	phường 6|p6	tân bình	hồ chí minh|hcm
+đại nghĩa|đn	phường 6|p6	tân bình	hồ chí minh|hcm
+bắc hải|bh	phường 6|p6	tân bình	hồ chí minh|hcm
+chấn hưng	phường 6|p6	tân bình	hồ chí minh|hcm
+dân trí|dt	phường 6|p6	tân bình	hồ chí minh|hcm
+lam sơn|ls	phường 2|p2	tân bình	hồ chí minh|hcm
+bạch đằng|bđ	phường 2|p2	tân bình	hồ chí minh|hcm
+yên thế|yt	phường 2|p2	tân bình	hồ chí minh|hcm
+sông đáy|sđ	phường 2|p2	tân bình	hồ chí minh|hcm
+cửu long|cl	phường 2|p2	tân bình	hồ chí minh|hcm
+dương vân nga|dvn	phường 2|p2	tân bình	hồ chí minh|hcm
+hoàng văn thụ|hvt	phường 2|p2	tân bình	hồ chí minh|hcm
+sông thao|st	phường 2|p2	tân bình	hồ chí minh|hcm
+bùi thị xuân|btx	phường 2|p2	tân bình	hồ chí minh|hcm
+nguyễn thanh tuyền|ntt	phường 2|p2	tân bình	hồ chí minh|hcm
+đồng nai|đn	phường 2|p2	tân bình	hồ chí minh|hcm
+phạm cự lượng|pcl	phường 2|p2	tân bình	hồ chí minh|hcm
+sông đà|sđ	phường 2|p2	tân bình	hồ chí minh|hcm
+tiền giang|tg	phường 2|p2	tân bình	hồ chí minh|hcm
+đinh điền|đđ	phường 2|p2	tân bình	hồ chí minh|hcm
+đặng văn sâm|đvs	phường 2|p2	tân bình	hồ chí minh|hcm
+hát giang|hg	phường 2|p2	tân bình	hồ chí minh|hcm
+phạm văn hai|pvh	phường 2|p2	tân bình	hồ chí minh|hcm
+đống đa|đđ	phường 2|p2	tân bình	hồ chí minh|hcm
+thích minh nguyệt|tmn	phường 2|p2	tân bình	hồ chí minh|hcm
+lê văn sỹ|lvs	phường 2|p2	tân bình	hồ chí minh|hcm
+trà khúc|tk	phường 2|p2	tân bình	hồ chí minh|hcm
+sông thương|st	phường 2|p2	tân bình	hồ chí minh|hcm
+tản viên|tv	phường 2|p2	tân bình	hồ chí minh|hcm
+hồng hà|hh	phường 2|p2	tân bình	hồ chí minh|hcm
+sông nhuệ|sn	phường 2|p2	tân bình	hồ chí minh|hcm
+huỳnh lan khanh|hlk	phường 2|p2	tân bình	hồ chí minh|hcm
+thủ khoa huân|tkh	phường 8|p8	tân bình	hồ chí minh|hcm
+lý thường kiệt|ltk	phường 8|p8	tân bình	hồ chí minh|hcm
+thành mỹ|tm	phường 8|p8	tân bình	hồ chí minh|hcm
+tân châu|tc	phường 8|p8	tân bình	hồ chí minh|hcm
+lê minh xuân|lmx	phường 8|p8	tân bình	hồ chí minh|hcm
+lạc long quân|llq	phường 8|p8	tân bình	hồ chí minh|hcm
+duy tân|dt	phường 8|p8	tân bình	hồ chí minh|hcm
+tân phước|tp	phường 8|p8	tân bình	hồ chí minh|hcm
+tân thọ|tt	phường 8|p8	tân bình	hồ chí minh|hcm
+tân xuân|tx	phường 8|p8	tân bình	hồ chí minh|hcm
+tân tiến|tt	phường 8|p8	tân bình	hồ chí minh|hcm
+tân lập|tl	phường 8|p8	tân bình	hồ chí minh|hcm
+hoà hiệp|hh	phường 4|p4	tân bình	hồ chí minh|hcm
+nguyễn trọng lội|ntl	phường 4|p4	tân bình	hồ chí minh|hcm
+hiệp nhất|hn	phường 4|p4	tân bình	hồ chí minh|hcm
+nguyễn cảnh dị|ncd	phường 4|p4	tân bình	hồ chí minh|hcm
+xuân diệu|xd	phường 4|p4	tân bình	hồ chí minh|hcm
+đồ sơn|đs	phường 4|p4	tân bình	hồ chí minh|hcm
+hoàng văn thụ|hvt	phường 4|p4	tân bình	hồ chí minh|hcm
+trần quốc hoàn|tqh	phường 4|p4	tân bình	hồ chí minh|hcm
+phan thúc duyện|ptd	phường 4|p4	tân bình	hồ chí minh|hcm
+nguyễn văn mại|nvm	phường 4|p4	tân bình	hồ chí minh|hcm
+giải phóng|gp	phường 4|p4	tân bình	hồ chí minh|hcm
+trường sơn|ts	phường 4|p4	tân bình	hồ chí minh|hcm
+tự cường|tc	phường 4|p4	tân bình	hồ chí minh|hcm
+nguyễn văn vĩnh|nvv	phường 4|p4	tân bình	hồ chí minh|hcm
+xuân hồng|xh	phường 4|p4	tân bình	hồ chí minh|hcm
+hậu giang|hg	phường 4|p4	tân bình	hồ chí minh|hcm
+tân khai|tk	phường 4|p4	tân bình	hồ chí minh|hcm
+ba vì|bv	phường 4|p4	tân bình	hồ chí minh|hcm
+cộng hoà|ch	phường 4|p4	tân bình	hồ chí minh|hcm
+thăng long|tl	phường 4|p4	tân bình	hồ chí minh|hcm
+nguyễn đình khơi|nđk	phường 4|p4	tân bình	hồ chí minh|hcm
+tự lập|tl	phường 4|p4	tân bình	hồ chí minh|hcm
+hoàng việt|hv	phường 4|p4	tân bình	hồ chí minh|hcm
+sầm sơn|ss	phường 4|p4	tân bình	hồ chí minh|hcm
+trường chinh|tc	phường 4|p4	tân bình	hồ chí minh|hcm
+nguyễn thái bình|ntb	phường 4|p4	tân bình	hồ chí minh|hcm
+đồng đen|đđ	phường 14|p1	tân bình	hồ chí minh|hcm
+ba vân|bv	phường 14|p1	tân bình	hồ chí minh|hcm
+nội bộ|nb	phường 14|p1	tân bình	hồ chí minh|hcm
+bế văn đàn|bvđ	phường 14|p1	tân bình	hồ chí minh|hcm
+nguyễn hồng đào|nhđ	phường 14|p1	tân bình	hồ chí minh|hcm
+trường chinh|tc	phường 14|p1	tân bình	hồ chí minh|hcm
+âu cơ|âc	phường 14|p1	tân bình	hồ chí minh|hcm
+hồng lạc|hl	phường 14|p1	tân bình	hồ chí minh|hcm
+bàu cát|bc	phường 14|p1	tân bình	hồ chí minh|hcm
+sơn cang|sc	phường 12|p1	tân bình	hồ chí minh|hcm
+đồng đen|đđ	phường 12|p1	tân bình	hồ chí minh|hcm
+trần mai ninh|tmn	phường 12|p1	tân bình	hồ chí minh|hcm
+lê trung nghĩa|ltn	phường 12|p1	tân bình	hồ chí minh|hcm
+sơn hưng|sh	phường 12|p1	tân bình	hồ chí minh|hcm
+nguyễn tử nha|ntn	phường 12|p1	tân bình	hồ chí minh|hcm
+quách văn tuấn|qvt	phường 12|p1	tân bình	hồ chí minh|hcm
+hoàng kế viêm|hkv	phường 12|p1	tân bình	hồ chí minh|hcm
+trung lang|tl	phường 12|p1	tân bình	hồ chí minh|hcm
+nguyễn văn vỹ|nvv	phường 12|p1	tân bình	hồ chí minh|hcm
+thép mới|tm	phường 12|p1	tân bình	hồ chí minh|hcm
+hà bá tường|hbt	phường 12|p1	tân bình	hồ chí minh|hcm
+năm châu|nc	phường 12|p1	tân bình	hồ chí minh|hcm
+nguyễn minh hoàng|nmh	phường 12|p1	tân bình	hồ chí minh|hcm
+châu vĩnh tế|cvt	phường 12|p1	tân bình	hồ chí minh|hcm
+nguyễn thế lộc|ntl	phường 12|p1	tân bình	hồ chí minh|hcm
+xuân hồng|xh	phường 12|p1	tân bình	hồ chí minh|hcm
+trương hoàng thanh|tht	phường 12|p1	tân bình	hồ chí minh|hcm
+phan bá phiến|pbp	phường 12|p1	tân bình	hồ chí minh|hcm
+cộng hoà|ch	phường 12|p1	tân bình	hồ chí minh|hcm
+nguyễn bá tuyển|nbt	phường 12|p1	tân bình	hồ chí minh|hcm
+huỳnh tịnh của|htc	phường 12|p1	tân bình	hồ chí minh|hcm
+lê duy nhuận|ldn	phường 12|p1	tân bình	hồ chí minh|hcm
+trường chinh|tc	phường 12|p1	tân bình	hồ chí minh|hcm
+nguyễn thái bình|ntb	phường 12|p1	tân bình	hồ chí minh|hcm
+lê ngân|ln	phường 12|p1	tân bình	hồ chí minh|hcm
+bàu cát|bc	phường 12|p1	tân bình	hồ chí minh|hcm
+hoàng văn thụ|hvt	phường 1|p1	tân bình	hồ chí minh|hcm
+nguyễn trọng tuyển|ntt	phường 1|p1	tân bình	hồ chí minh|hcm
+nguyễn văn trỗi|nvt	phường 1|p1	tân bình	hồ chí minh|hcm
+lê văn sỹ|lvs	phường 1|p1	tân bình	hồ chí minh|hcm
+phạm văn hai|pvh	phường 1|p1	tân bình	hồ chí minh|hcm
+vườn lan|vl	phường 10|p1	tân bình	hồ chí minh|hcm
+đồng đen|đđ	phường 10|p1	tân bình	hồ chí minh|hcm
+bùi thế mỹ|btm	phường 10|p1	tân bình	hồ chí minh|hcm
+thái thị nhạn|ttn	phường 10|p1	tân bình	hồ chí minh|hcm
+gò cấm đệm|gcđ	phường 10|p1	tân bình	hồ chí minh|hcm
+lạc long quân|llq	phường 10|p1	tân bình	hồ chí minh|hcm
+âu cơ|âc	phường 10|p1	tân bình	hồ chí minh|hcm
+trần văn quang|tvq	phường 10|p1	tân bình	hồ chí minh|hcm
+đặng minh trứ|đmt	phường 10|p1	tân bình	hồ chí minh|hcm
+trần hữu trang|tht	phường 10|p1	phú nhuận	hồ chí minh|hcm
+hoàng diệu|hd	phường 10|p1	phú nhuận	hồ chí minh|hcm
+trương quốc dung|tqd	phường 10|p1	phú nhuận	hồ chí minh|hcm
+nguyễn trọng tuyển|ntt	phường 10|p1	phú nhuận	hồ chí minh|hcm
+nguyễn văn trỗi|nvt	phường 10|p1	phú nhuận	hồ chí minh|hcm
+đặng văn ngữ|đvn	phường 10|p1	phú nhuận	hồ chí minh|hcm
+mai văn ngọc|mvn	phường 10|p1	phú nhuận	hồ chí minh|hcm
+lê văn sỹ|lvs	phường 10|p1	phú nhuận	hồ chí minh|hcm
+năm châu|nc	phường 11|p1	tân bình	hồ chí minh|hcm
+lý thường kiệt|ltk	phường 11|p1	tân bình	hồ chí minh|hcm
+đồng đen|đđ	phường 11|p1	tân bình	hồ chí minh|hcm
+phan sào nam|psn	phường 11|p1	tân bình	hồ chí minh|hcm
+trần mai ninh|tmn	phường 11|p1	tân bình	hồ chí minh|hcm
+lạc long quân|llq	phường 11|p1	tân bình	hồ chí minh|hcm
+trường chinh|tc	phường 11|p1	tân bình	hồ chí minh|hcm
+tái thiết|tt	phường 11|p1	tân bình	hồ chí minh|hcm
+ca văn thỉnh|cvt	phường 11|p1	tân bình	hồ chí minh|hcm
+phạm phú thứ|ppt	phường 11|p1	tân bình	hồ chí minh|hcm
+hồng lạc|hl	phường 11|p1	tân bình	hồ chí minh|hcm
+sơn hưng|sh	phường 11|p1	tân bình	hồ chí minh|hcm
+bàu cát|bc	phường 11|p1	tân bình	hồ chí minh|hcm
+nguyễn văn ngọc|nvn	tân thành|tt	tân phú	hồ chí minh|hcm
+phan đình phùng|pđp	tân thành|tt	tân phú	hồ chí minh|hcm
+vườn lài|vl	tân thành|tt	tân phú	hồ chí minh|hcm
+chân lý|cl	tân thành|tt	tân phú	hồ chí minh|hcm
+tự do|td	tân thành|tt	tân phú	hồ chí minh|hcm
+nguyễn thái học|nth	tân thành|tt	tân phú	hồ chí minh|hcm
+dân chủ|dc	tân thành|tt	tân phú	hồ chí minh|hcm
+vũ trọng phụng|vtp	tân thành|tt	tân phú	hồ chí minh|hcm
+luỹ bán bích|lbb	tân thành|tt	tân phú	hồ chí minh|hcm
+nguyễn trường tộ|ntt	tân thành|tt	tân phú	hồ chí minh|hcm
+nguyễn văn huyên|nvh	tân thành|tt	tân phú	hồ chí minh|hcm
+nguyễn bá tòng|nbt	tân thành|tt	tân phú	hồ chí minh|hcm
+chu văn an|cva	tân thành|tt	tân phú	hồ chí minh|hcm
+cách mạng|cm	tân thành|tt	tân phú	hồ chí minh|hcm
+hàn mặc tử|hmt	tân thành|tt	tân phú	hồ chí minh|hcm
+vạn hạnh|vh	tân thành|tt	tân phú	hồ chí minh|hcm
+đoàn kết|đk	tân thành|tt	tân phú	hồ chí minh|hcm
+thẩm mỹ|tm	tân thành|tt	tân phú	hồ chí minh|hcm
+âu cơ|âc	tân thành|tt	tân phú	hồ chí minh|hcm
+trương vĩnh ký|tvk	tân thành|tt	tân phú	hồ chí minh|hcm
+ngô quyền|nq	tân thành|tt	tân phú	hồ chí minh|hcm
+thống nhất|tn	tân thành|tt	tân phú	hồ chí minh|hcm
+ích thiện|ít	tân thành|tt	tân phú	hồ chí minh|hcm
+yên đổ|yđ	tân thành|tt	tân phú	hồ chí minh|hcm
+phố chợ|pc	tân thành|tt	tân phú	hồ chí minh|hcm
+bác ái	tân thành|tt	tân phú	hồ chí minh|hcm
+thành công|tc	tân thành|tt	tân phú	hồ chí minh|hcm
+nguyễn hậu|nh	tân thành|tt	tân phú	hồ chí minh|hcm
+đồng đen|đđ	phường 13|p1	tân bình	hồ chí minh|hcm
+ngô bệ|nb	phường 13|p1	tân bình	hồ chí minh|hcm
+nguyễn quang bích|nqb	phường 13|p1	tân bình	hồ chí minh|hcm
+nguyễn hiến lê|nhl	phường 13|p1	tân bình	hồ chí minh|hcm
+nhất chi mai|ncm	phường 13|p1	tân bình	hồ chí minh|hcm
+phan văn sửu|pvs	phường 13|p1	tân bình	hồ chí minh|hcm
+lê văn huân|lvh	phường 13|p1	tân bình	hồ chí minh|hcm
+trần văn dư|tvd	phường 13|p1	tân bình	hồ chí minh|hcm
+thân nhân trung|tnt	phường 13|p1	tân bình	hồ chí minh|hcm
+lê tấn quốc|ltq	phường 13|p1	tân bình	hồ chí minh|hcm
+nguyễn đức thuận|nđt	phường 13|p1	tân bình	hồ chí minh|hcm
+đồng xoài|đx	phường 13|p1	tân bình	hồ chí minh|hcm
+núi thành|nt	phường 13|p1	tân bình	hồ chí minh|hcm
+bình giã|bg	phường 13|p1	tân bình	hồ chí minh|hcm
+văn chung|vc	phường 13|p1	tân bình	hồ chí minh|hcm
+cộng hoà|ch	phường 13|p1	tân bình	hồ chí minh|hcm
+nguyễn chánh sắt|ncs	phường 13|p1	tân bình	hồ chí minh|hcm
+cù chính lan|ccl	phường 13|p1	tân bình	hồ chí minh|hcm
+trường chinh|tc	phường 13|p1	tân bình	hồ chí minh|hcm
+mai lão bạng|mlb	phường 13|p1	tân bình	hồ chí minh|hcm
+hoàng hoa thám|hht	phường 13|p1	tân bình	hồ chí minh|hcm
+phạm văn bạch|pvb	phường 15|p1	tân bình	hồ chí minh|hcm
+trần thánh tông|ttt	phường 15|p1	tân bình	hồ chí minh|hcm
+tân kỳ tân quý|tktq	phường 15|p1	tân bình	hồ chí minh|hcm
+tân trụ|tt	phường 15|p1	tân bình	hồ chí minh|hcm
+nguyễn phúc chu|npc	phường 15|p1	tân bình	hồ chí minh|hcm
+tân sơn|ts	phường 15|p1	tân bình	hồ chí minh|hcm
+trường chinh|tc	phường 15|p1	tân bình	hồ chí minh|hcm
+phan huy ích|phí	phường 15|p1	tân bình	hồ chí minh|hcm
+trần thái tông|ttt	phường 15|p1	tân bình	hồ chí minh|hcm
+cống lỡ|cl	phường 15|p1	tân bình	hồ chí minh|hcm
+nguyễn sỹ sách|nss	phường 15|p1	tân bình	hồ chí minh|hcm
+cộng hoà|ch	phường 15|p1	tân bình	hồ chí minh|hcm
+bùi thị xuân|btx	phường 3|p3	tân bình	hồ chí minh|hcm
+trường sa|ts	phường 3|p3	tân bình	hồ chí minh|hcm
+phạm văn hai|pvh	phường 3|p3	tân bình	hồ chí minh|hcm
+nguyễn bặc|nb	phường 3|p3	tân bình	hồ chí minh|hcm
+phạm văn hai|pvh	phường 5|p5	tân bình	hồ chí minh|hcm
+hoàng sa|hs	phường 5|p5	tân bình	hồ chí minh|hcm
+lưu nhân chú|lnc	phường 5|p5	tân bình	hồ chí minh|hcm
+bành văn trân|bvt	phường 7|p7	tân bình	hồ chí minh|hcm
+nghĩa phát|np	phường 7|p7	tân bình	hồ chí minh|hcm
+đặng lộ|đl	phường 7|p7	tân bình	hồ chí minh|hcm
+sao mai|sm	phường 7|p7	tân bình	hồ chí minh|hcm
+vân côi|vc	phường 7|p7	tân bình	hồ chí minh|hcm
+lê minh xuân|lmx	phường 7|p7	tân bình	hồ chí minh|hcm
+phú hoà	phường 7|p7	tân bình	hồ chí minh|hcm
+ba gia|bg	phường 7|p7	tân bình	hồ chí minh|hcm
+chử đồng tử|cđt	phường 7|p7	tân bình	hồ chí minh|hcm
+trần triệu luật|ttl	phường 7|p7	tân bình	hồ chí minh|hcm
+long hưng|lh	phường 7|p7	tân bình	hồ chí minh|hcm
+đông sơn|đs	phường 7|p7	tân bình	hồ chí minh|hcm
+lý thường kiệt|ltk	phường 9|p9	tân bình	hồ chí minh|hcm
+thiên phước|tp	phường 9|p9	tân bình	hồ chí minh|hcm
+nguyễn thị nhỏ|ntn	phường 9|p9	tân bình	hồ chí minh|hcm
+lạc long quân|llq	phường 9|p9	tân bình	hồ chí minh|hcm
+âu cơ|âc	phường 9|p9	tân bình	hồ chí minh|hcm
+lý phục man|lpm	bình thuận|bt	quận 7|q7	hồ chí minh|hcm
+chuyên dùng chính|cdc	phú mỹ|pm	quận 7|q7	hồ chí minh|hcm
+nguyễn lương bằng|nlb	phú mỹ|pm	quận 7|q7	hồ chí minh|hcm
+huỳnh tấn phát|htp	phú mỹ|pm	quận 7|q7	hồ chí minh|hcm
+hoàng quốc việt|hqv	phú mỹ|pm	quận 7|q7	hồ chí minh|hcm
+đào trí|đt	phú thuận|pt	quận 7|q7	hồ chí minh|hcm
+hoàng quốc việt|hqv	phú thuận|pt	quận 7|q7	hồ chí minh|hcm
+nguyễn văn quỳ|nvq	phú thuận|pt	quận 7|q7	hồ chí minh|hcm
+huỳnh tấn phát|htp	phú thuận|pt	quận 7|q7	hồ chí minh|hcm
+gò ô môi|gôm	phú thuận|pt	quận 7|q7	hồ chí minh|hcm
+nam long|nl	phú thuận|pt	quận 7|q7	hồ chí minh|hcm
+lâm văn bền|lvb	tân kiểng|tk	quận 7|q7	hồ chí minh|hcm
+mai văn vĩnh|mvv	tân kiểng|tk	quận 7|q7	hồ chí minh|hcm
+bế văn cấm|bvc	tân kiểng|tk	quận 7|q7	hồ chí minh|hcm
+lê văn lương|lvl	tân kiểng|tk	quận 7|q7	hồ chí minh|hcm
+trần xuân soạn|txs	tân kiểng|tk	quận 7|q7	hồ chí minh|hcm
+trần văn trà|tvt	tân phong|tp	quận 7|q7	hồ chí minh|hcm
+nguyễn đức cảnh|nđc	tân phong|tp	quận 7|q7	hồ chí minh|hcm
+phan khiêm ích|pkí	tân phong|tp	quận 7|q7	hồ chí minh|hcm
+đặng đại độ|đđđ	tân phong|tp	quận 7|q7	hồ chí minh|hcm
+nguyễn văn linh|nvl	tân phong|tp	quận 7|q7	hồ chí minh|hcm
+lê văn thiêm|lvt	tân phong|tp	quận 7|q7	hồ chí minh|hcm
+nguyễn hữu thọ|nht	tân phong|tp	quận 7|q7	hồ chí minh|hcm
+khu phố mỹ hoàng|kpmh	tân phong|tp	quận 7|q7	hồ chí minh|hcm
+hà huy tập|hht	tân phong|tp	quận 7|q7	hồ chí minh|hcm
+phạm văn nghị|pvn	tân phong|tp	quận 7|q7	hồ chí minh|hcm
+đường o|đo	tân phong|tp	quận 7|q7	hồ chí minh|hcm
+phạm thái bường|ptb	tân phong|tp	quận 7|q7	hồ chí minh|hcm
+khu phố mỹ cảnh|kpmc	tân phong|tp	quận 7|q7	hồ chí minh|hcm
+lê văn lương|lvl	tân phong|tp	quận 7|q7	hồ chí minh|hcm
+bùi bằng đoàn|bbđ	tân phong|tp	quận 7|q7	hồ chí minh|hcm
+nguyễn thị thập|ntt	tân phong|tp	quận 7|q7	hồ chí minh|hcm
+cao triều phát|ctp	tân phong|tp	quận 7|q7	hồ chí minh|hcm
+mỹ phước|mp	tân phong|tp	quận 7|q7	hồ chí minh|hcm
+khu phố mỹ an|kpma	tân phong|tp	quận 7|q7	hồ chí minh|hcm
+nguyễn cao|nc	tân phong|tp	quận 7|q7	hồ chí minh|hcm
+mỹ quang|mq	tân phong|tp	quận 7|q7	hồ chí minh|hcm
+đặng đức thuật|đđt	tân phong|tp	quận 7|q7	hồ chí minh|hcm
+nguyễn bính|nb	tân phong|tp	quận 7|q7	hồ chí minh|hcm
+tân trào|tt	tân phú|tp	quận 7|q7	hồ chí minh|hcm
+khu phố cảnh viên|kpcv	tân phú|tp	quận 7|q7	hồ chí minh|hcm
+phan văn chương|pvc	tân phú|tp	quận 7|q7	hồ chí minh|hcm
+khu phố mỹ gia|kpmg	tân phú|tp	quận 7|q7	hồ chí minh|hcm
+trần văn trà|tvt	tân phú|tp	quận 7|q7	hồ chí minh|hcm
+nguyễn lương bằng|nlb	tân phú|tp	quận 7|q7	hồ chí minh|hcm
+nguyễn đổng chi|nđc	tân phú|tp	quận 7|q7	hồ chí minh|hcm
+tôn dật tiên|tdt	tân phú|tp	quận 7|q7	hồ chí minh|hcm
+khu phố nam khang|kpnk	tân phú|tp	quận 7|q7	hồ chí minh|hcm
+nguyễn khắc viện|nkv	tân phú|tp	quận 7|q7	hồ chí minh|hcm
+mỹ hào|mh	tân phú|tp	quận 7|q7	hồ chí minh|hcm
+huỳnh tấn phát|htp	tân phú|tp	quận 7|q7	hồ chí minh|hcm
+hoàng văn thái|hvt	tân phú|tp	quận 7|q7	hồ chí minh|hcm
+đường c|đc	tân phú|tp	quận 7|q7	hồ chí minh|hcm
+tân mỹ|tm	tân phú|tp	quận 7|q7	hồ chí minh|hcm
+nguyễn văn linh|nvl	tân phú|tp	quận 7|q7	hồ chí minh|hcm
+nguyễn thị thập|ntt	tân phú|tp	quận 7|q7	hồ chí minh|hcm
+lâm văn bền|lvb	tân quy|tq	quận 7|q7	hồ chí minh|hcm
+mai văn vĩnh|mvv	tân quy|tq	quận 7|q7	hồ chí minh|hcm
+lê văn lương|lvl	tân quy|tq	quận 7|q7	hồ chí minh|hcm
+hẻm vườn điều|hvđ	tân quy|tq	quận 7|q7	hồ chí minh|hcm
+nguyễn thị thập|ntt	tân quy|tq	quận 7|q7	hồ chí minh|hcm
+lâm văn bền|lvb	tân thuận tây|ttt	quận 7|q7	hồ chí minh|hcm
+huỳnh tấn phát|htp	tân thuận tây|ttt	quận 7|q7	hồ chí minh|hcm
+bùi văn ba|bvb	tân thuận tây|ttt	quận 7|q7	hồ chí minh|hcm
+trần xuân soạn|txs	tân thuận tây|ttt	quận 7|q7	hồ chí minh|hcm
+nguyễn văn linh|nvl	tân thuận tây|ttt	quận 7|q7	hồ chí minh|hcm
+lưu trọng lư|ltl	tân thuận đông|ttđ	quận 7|q7	hồ chí minh|hcm
+trần văn khánh|tvk	tân thuận đông|ttđ	quận 7|q7	hồ chí minh|hcm
+tân thuận|tt	tân thuận đông|ttđ	quận 7|q7	hồ chí minh|hcm
+sáng tạo|st	tân thuận đông|ttđ	quận 7|q7	hồ chí minh|hcm
+nguyễn văn quỳ|nvq	tân thuận đông|ttđ	quận 7|q7	hồ chí minh|hcm
+huỳnh tấn phát|htp	tân thuận đông|ttđ	quận 7|q7	hồ chí minh|hcm
+bùi văn ba|bvb	tân thuận đông|ttđ	quận 7|q7	hồ chí minh|hcm
+trần xuân soạn|txs	tân thuận đông|ttđ	quận 7|q7	hồ chí minh|hcm
+bến nghé|bn	tân thuận đông|ttđ	quận 7|q7	hồ chí minh|hcm
+trương định|tđ	phường 6|p6	quận 3|q3	hồ chí minh|hcm
+nguyễn gia thiều|ngt	phường 6|p6	quận 3|q3	hồ chí minh|hcm
+điện biên phủ|đbp	phường 6|p6	quận 3|q3	hồ chí minh|hcm
+trần quốc thảo|tqt	phường 6|p6	quận 3|q3	hồ chí minh|hcm
+phạm ngọc thạch|pnt	phường 6|p6	quận 3|q3	hồ chí minh|hcm
+bà huyện thanh quan|bhtq	phường 6|p6	quận 3|q3	hồ chí minh|hcm
+nguyễn thị minh khai|ntmk	phường 6|p6	quận 3|q3	hồ chí minh|hcm
+nguyễn đình chiểu|nđc	phường 6|p6	quận 3|q3	hồ chí minh|hcm
+nguyễn thông|nt	phường 6|p6	quận 3|q3	hồ chí minh|hcm
+hai bà trưng|hbt	phường 6|p6	quận 3|q3	hồ chí minh|hcm
+nam kỳ khởi nghĩa|nkkn	phường 6|p6	quận 3|q3	hồ chí minh|hcm
+võ văn tần|vvt	phường 6|p6	quận 3|q3	hồ chí minh|hcm
+võ thị sáu|vts	phường 6|p6	quận 3|q3	hồ chí minh|hcm
+công trường quốc tế|ctqt	phường 6|p6	quận 3|q3	hồ chí minh|hcm
+nguyễn đình chiểu|nđc	phường 1|p1	quận 3|q3	hồ chí minh|hcm
+nguyễn thiện thuật|ntt	phường 1|p1	quận 3|q3	hồ chí minh|hcm
+lý thái tổ|ltt	phường 1|p1	quận 3|q3	hồ chí minh|hcm
+điện biên phủ|đbp	phường 1|p1	quận 3|q3	hồ chí minh|hcm
+nguyễn phúc nguyên|npn	phường 10|p1	quận 3|q3	hồ chí minh|hcm
+cách mạng tháng|cmt	phường 10|p1	quận 3|q3	hồ chí minh|hcm
+trần văn đang|tvđ	phường 11|p1	quận 3|q3	hồ chí minh|hcm
+hoàng sa|hs	phường 11|p1	quận 3|q3	hồ chí minh|hcm
+lê văn sỹ|lvs	phường 12|p1	quận 3|q3	hồ chí minh|hcm
+trường sa|ts	phường 12|p1	quận 3|q3	hồ chí minh|hcm
+lê văn sỹ|lvs	phường 13|p1	quận 3|q3	hồ chí minh|hcm
+trường sa|ts	phường 13|p1	quận 3|q3	hồ chí minh|hcm
+trần quang diệu|tqd	phường 13|p1	quận 3|q3	hồ chí minh|hcm
+lê văn sỹ|lvs	phường 14|p1	quận 3|q3	hồ chí minh|hcm
+trường sa|ts	phường 14|p1	quận 3|q3	hồ chí minh|hcm
+trần quang diệu|tqd	phường 14|p1	quận 3|q3	hồ chí minh|hcm
+lý thái tổ|ltt	phường 2|p2	quận 3|q3	hồ chí minh|hcm
+nguyễn thị minh khai|ntmk	phường 2|p2	quận 3|q3	hồ chí minh|hcm
+nguyễn đình chiểu|nđc	phường 2|p2	quận 3|q3	hồ chí minh|hcm
+nguyễn thiện thuật|ntt	phường 2|p2	quận 3|q3	hồ chí minh|hcm
+cao thắng|ct	phường 2|p2	quận 3|q3	hồ chí minh|hcm
+nguyễn đình chiểu|nđc	phường 3|p3	quận 3|q3	hồ chí minh|hcm
+nguyễn thiện thuật|ntt	phường 3|p3	quận 3|q3	hồ chí minh|hcm
+điện biên phủ|đbp	phường 3|p3	quận 3|q3	hồ chí minh|hcm
+cao thắng|ct	phường 3|p3	quận 3|q3	hồ chí minh|hcm
+điện biên phủ|đbp	phường 4|p4	quận 3|q3	hồ chí minh|hcm
+cư xá đô thành|cxđt	phường 4|p4	quận 3|q3	hồ chí minh|hcm
+nguyễn đình chiểu|nđc	phường 4|p4	quận 3|q3	hồ chí minh|hcm
+nguyễn thượng hiền|nth	phường 4|p4	quận 3|q3	hồ chí minh|hcm
+cao thắng|ct	phường 4|p4	quận 3|q3	hồ chí minh|hcm
+vườn chuối|vc	phường 4|p4	quận 3|q3	hồ chí minh|hcm
+nguyễn hiền|nh	phường 4|p4	quận 3|q3	hồ chí minh|hcm
+trương định|tđ	phường 7|p7	quận 3|q3	hồ chí minh|hcm
+võ thị sáu|vts	phường 7|p7	quận 3|q3	hồ chí minh|hcm
+điện biên phủ|đbp	phường 7|p7	quận 3|q3	hồ chí minh|hcm
+trần quốc thảo|tqt	phường 7|p7	quận 3|q3	hồ chí minh|hcm
+lê quý đôn|lqđ	phường 7|p7	quận 3|q3	hồ chí minh|hcm
+lý chính thắng|lct	phường 7|p7	quận 3|q3	hồ chí minh|hcm
+bà huyện thanh quan|bhtq	phường 7|p7	quận 3|q3	hồ chí minh|hcm
+nguyễn thông|nt	phường 7|p7	quận 3|q3	hồ chí minh|hcm
+tú xương|tx	phường 7|p7	quận 3|q3	hồ chí minh|hcm
+ngô thời nhiệm|ntn	phường 7|p7	quận 3|q3	hồ chí minh|hcm
+sư thiện chiếu|stc	phường 7|p7	quận 3|q3	hồ chí minh|hcm
+nam kỳ khởi nghĩa|nkkn	phường 7|p7	quận 3|q3	hồ chí minh|hcm
+hoàng sa|hs	phường 7|p7	quận 3|q3	hồ chí minh|hcm
+huỳnh tịnh của|htc	phường 8|p8	quận 3|q3	hồ chí minh|hcm
+võ thị sáu|vts	phường 8|p8	quận 3|q3	hồ chí minh|hcm
+lý chính thắng|lct	phường 8|p8	quận 3|q3	hồ chí minh|hcm
+hai bà trưng|hbt	phường 8|p8	quận 3|q3	hồ chí minh|hcm
+nam kỳ khởi nghĩa|nkkn	phường 8|p8	quận 3|q3	hồ chí minh|hcm
+hoàng sa|hs	phường 8|p8	quận 3|q3	hồ chí minh|hcm
+trương định|tđ	phường 9|p9	quận 3|q3	hồ chí minh|hcm
+nguyễn phúc nguyên|npn	phường 9|p9	quận 3|q3	hồ chí minh|hcm
+kỳ đồng|kđ	phường 9|p9	quận 3|q3	hồ chí minh|hcm
+trần quốc thảo|tqt	phường 9|p9	quận 3|q3	hồ chí minh|hcm
+lý chính thắng|lct	phường 9|p9	quận 3|q3	hồ chí minh|hcm
+bà huyện thanh quan|bhtq	phường 9|p9	quận 3|q3	hồ chí minh|hcm
+trần văn đang|tvđ	phường 9|p9	quận 3|q3	hồ chí minh|hcm
+nguyễn thông|nt	phường 9|p9	quận 3|q3	hồ chí minh|hcm
+hoàng sa|hs	phường 9|p9	quận 3|q3	hồ chí minh|hcm
+nguỵ như kontum|nnk	hiệp tân|ht	tân phú	hồ chí minh|hcm
+dương khuê|dk	hiệp tân|ht	tân phú	hồ chí minh|hcm
+chu thiên|ct	hiệp tân|ht	tân phú	hồ chí minh|hcm
+nguyễn mỹ ca|nmc	hiệp tân|ht	tân phú	hồ chí minh|hcm
+hoàng xuân hoành|hxh	hiệp tân|ht	tân phú	hồ chí minh|hcm
+nguyễn thiệu lâu|ntl	hiệp tân|ht	tân phú	hồ chí minh|hcm
+hoà bình|hb	hiệp tân|ht	tân phú	hồ chí minh|hcm
+lý thánh tông|ltt	hiệp tân|ht	tân phú	hồ chí minh|hcm
+lương trúc đàm|ltđ	hiệp tân|ht	tân phú	hồ chí minh|hcm
+lý thái tông|ltt	hiệp tân|ht	tân phú	hồ chí minh|hcm
+lê thận|lt	hiệp tân|ht	tân phú	hồ chí minh|hcm
+luỹ bán bích|lbb	hiệp tân|ht	tân phú	hồ chí minh|hcm
+cây keo|ck	hiệp tân|ht	tân phú	hồ chí minh|hcm
+nguyễn lý|nl	hiệp tân|ht	tân phú	hồ chí minh|hcm
+huỳnh văn một|hvm	hiệp tân|ht	tân phú	hồ chí minh|hcm
+đỗ nhuận|đn	sơn kỳ|sk	tân phú	hồ chí minh|hcm
+đô đốc chân|đđc	sơn kỳ|sk	tân phú	hồ chí minh|hcm
+trần tấn|tt	tân sơn nhì|tsn	tân phú	hồ chí minh|hcm
+trần hưng đạo|thđ	tân sơn nhì|tsn	tân phú	hồ chí minh|hcm
+âu cơ|âc	tân sơn nhì|tsn	tân phú	hồ chí minh|hcm
+tân kỳ tân quý|tktq	tân sơn nhì|tsn	tân phú	hồ chí minh|hcm
+lương đắc bằng|lđb	tân thới hoà|tth	tân phú	hồ chí minh|hcm
+nguyễn văn yến|nvy	tân thới hoà|tth	tân phú	hồ chí minh|hcm
+hoà bình|hb	tân thới hoà|tth	tân phú	hồ chí minh|hcm
+tô hiệu|th	tân thới hoà|tth	tân phú	hồ chí minh|hcm
+lương minh nguyệt|lmn	tân thới hoà|tth	tân phú	hồ chí minh|hcm
+lương thế vinh|ltv	tân thới hoà|tth	tân phú	hồ chí minh|hcm
+luỹ bán bích|lbb	tân thới hoà|tth	tân phú	hồ chí minh|hcm
+bùi cẩm hổ|bch	tân thới hoà|tth	tân phú	hồ chí minh|hcm
+trần văn cần|tvc	tân thới hoà|tth	tân phú	hồ chí minh|hcm
+nguyễn trọng quyền|ntq	tân thới hoà|tth	tân phú	hồ chí minh|hcm
+phan anh|pa	tân thới hoà|tth	tân phú	hồ chí minh|hcm
+tân kỳ tân quý|tktq	tây thạnh|tt	tân phú	hồ chí minh|hcm
+lưu chí hiếu|lch	tây thạnh|tt	tân phú	hồ chí minh|hcm
+nguyễn đỗ cung|nđc	tây thạnh|tt	tân phú	hồ chí minh|hcm
+bùi xuân phái|bxp	tây thạnh|tt	tân phú	hồ chí minh|hcm
+lê trọng tấn|ltt	tây thạnh|tt	tân phú	hồ chí minh|hcm
+trường chinh|tc	tây thạnh|tt	tân phú	hồ chí minh|hcm
+phạm ngọc thảo|pnt	tây thạnh|tt	tân phú	hồ chí minh|hcm
+dương đức hiền|dđh	tây thạnh|tt	tân phú	hồ chí minh|hcm
+huỳnh văn gấm|hvg	tây thạnh|tt	tân phú	hồ chí minh|hcm
+nguyễn hữu dật|nhd	tây thạnh|tt	tân phú	hồ chí minh|hcm
+chế lan viên|clv	tây thạnh|tt	tân phú	hồ chí minh|hcm
+lê niệm|ln	phú thạnh|pt	tân phú	hồ chí minh|hcm
+trần quang cơ|tqc	phú thạnh|pt	tân phú	hồ chí minh|hcm
+phan bội châu|pbc	phường 14|p1	bình thạnh	hồ chí minh|hcm
+phan đăng lưu|pđl	phường 14|p1	bình thạnh	hồ chí minh|hcm
+bạch đằng|bđ	phường 14|p1	bình thạnh	hồ chí minh|hcm
+nguyễn an ninh|nan	phường 14|p1	bình thạnh	hồ chí minh|hcm
+bùi đình tuý|bđt	phường 14|p1	bình thạnh	hồ chí minh|hcm
+nơ trang long|ntl	phường 14|p1	bình thạnh	hồ chí minh|hcm
+phan văn trị|pvt	phường 14|p1	bình thạnh	hồ chí minh|hcm
+trần văn kỷ|tvk	phường 14|p1	bình thạnh	hồ chí minh|hcm
+lê quang định|lqđ	phường 14|p1	bình thạnh	hồ chí minh|hcm
+huỳnh đình hai|hđh	phường 14|p1	bình thạnh	hồ chí minh|hcm
+nguyễn huy lượng|nhl	phường 14|p1	bình thạnh	hồ chí minh|hcm
+xô viết nghệ tĩnh|xvnt	phường 17|p1	bình thạnh	hồ chí minh|hcm
+điện biên phủ|đbp	phường 17|p1	bình thạnh	hồ chí minh|hcm
+nguyễn cửu vân|ncv	phường 17|p1	bình thạnh	hồ chí minh|hcm
+trường sa|ts	phường 17|p1	bình thạnh	hồ chí minh|hcm
+nguyễn thái học|nth	phường 1|p1	bình thạnh	hồ chí minh|hcm
+phó đức chính|pđc	phường 1|p1	bình thạnh	hồ chí minh|hcm
+vũ tùng|vt	phường 1|p1	bình thạnh	hồ chí minh|hcm
+đinh tiên hoàng|đth	phường 1|p1	bình thạnh	hồ chí minh|hcm
+trường sa|ts	phường 1|p1	bình thạnh	hồ chí minh|hcm
+yên đỗ|yđ	phường 1|p1	bình thạnh	hồ chí minh|hcm
+ngô nhân tịnh|nnt	phường 1|p1	bình thạnh	hồ chí minh|hcm
+diên hồng|dh	phường 1|p1	bình thạnh	hồ chí minh|hcm
+bùi hữu nghĩa|bhn	phường 1|p1	bình thạnh	hồ chí minh|hcm
+trần quý cáp|tqc	phường 11|p1	bình thạnh	hồ chí minh|hcm
+mai xuân thưởng|mxt	phường 11|p1	bình thạnh	hồ chí minh|hcm
+phạm văn đồng|pvđ	phường 11|p1	bình thạnh	hồ chí minh|hcm
+tăng bạt hổ|tbh	phường 11|p1	bình thạnh	hồ chí minh|hcm
+nơ trang long|ntl	phường 11|p1	bình thạnh	hồ chí minh|hcm
+phan văn trị|pvt	phường 11|p1	bình thạnh	hồ chí minh|hcm
+nguyễn văn đậu|nvđ	phường 11|p1	bình thạnh	hồ chí minh|hcm
+lê quang định|lqđ	phường 11|p1	bình thạnh	hồ chí minh|hcm
+bùi đình tuý|bđt	phường 12|p1	bình thạnh	hồ chí minh|hcm
+phan văn trị|pvt	phường 12|p1	bình thạnh	hồ chí minh|hcm
+ngô đức kế|nđk	phường 12|p1	bình thạnh	hồ chí minh|hcm
+nguyễn khuyến|nk	phường 12|p1	bình thạnh	hồ chí minh|hcm
+chu văn an|cva	phường 12|p1	bình thạnh	hồ chí minh|hcm
+bình lợi|bl	phường 13|p1	bình thạnh	hồ chí minh|hcm
+nơ trang long|ntl	phường 13|p1	bình thạnh	hồ chí minh|hcm
+đường trục|đt	phường 13|p1	bình thạnh	hồ chí minh|hcm
+vũ ngọc phan|vnp	phường 13|p1	bình thạnh	hồ chí minh|hcm
+nguyễn xí|nx	phường 13|p1	bình thạnh	hồ chí minh|hcm
+trường sa|ts	phường 15|p1	bình thạnh	hồ chí minh|hcm
+điện biên phủ|đbp	phường 15|p1	bình thạnh	hồ chí minh|hcm
+bạch đằng|bđ	phường 15|p1	bình thạnh	hồ chí minh|hcm
+đinh bộ lĩnh|đbl	phường 15|p1	bình thạnh	hồ chí minh|hcm
+xô viết nghệ tĩnh|xvnt	phường 15|p1	bình thạnh	hồ chí minh|hcm
+bùi hữu nghĩa|bhn	phường 15|p1	bình thạnh	hồ chí minh|hcm
+vũ tùng|vt	phường 2|p2	bình thạnh	hồ chí minh|hcm
+phan bội châu|pbc	phường 2|p2	bình thạnh	hồ chí minh|hcm
+võ trường toản|vtt	phường 2|p2	bình thạnh	hồ chí minh|hcm
+nguyễn xuân ôn|nxô	phường 2|p2	bình thạnh	hồ chí minh|hcm
+phan chu trinh|pct	phường 2|p2	bình thạnh	hồ chí minh|hcm
+đống đa|đđ	phường 2|p2	bình thạnh	hồ chí minh|hcm
+bùi hữu nghĩa|bhn	phường 2|p2	bình thạnh	hồ chí minh|hcm
+xô viết nghệ tĩnh|xvnt	phường 21|p2	bình thạnh	hồ chí minh|hcm
+điện biên phủ|đbp	phường 21|p2	bình thạnh	hồ chí minh|hcm
+nguyễn văn lạc|nvl	phường 21|p2	bình thạnh	hồ chí minh|hcm
+ngô tất tố|ntt	phường 21|p2	bình thạnh	hồ chí minh|hcm
+phú mỹ|pm	phường 22|p2	bình thạnh	hồ chí minh|hcm
+vinhomes tân cảng|vtc	phường 22|p2	bình thạnh	hồ chí minh|hcm
+điện biên phủ|đbp	phường 22|p2	bình thạnh	hồ chí minh|hcm
+nguyễn hữu cảnh|nhc	phường 22|p2	bình thạnh	hồ chí minh|hcm
+ngô tất tố|ntt	phường 22|p2	bình thạnh	hồ chí minh|hcm
+saigon pearl|sp	phường 22|p2	bình thạnh	hồ chí minh|hcm
+bạch đằng|bđ	phường 24|p2	bình thạnh	hồ chí minh|hcm
+bùi đình tuý|bđt	phường 24|p2	bình thạnh	hồ chí minh|hcm
+xô viết nghệ tĩnh|xvnt	phường 24|p2	bình thạnh	hồ chí minh|hcm
+nguyễn thiện thuật|ntt	phường 24|p2	bình thạnh	hồ chí minh|hcm
+phan chu trinh|pct	phường 24|p2	bình thạnh	hồ chí minh|hcm
+huỳnh đình hai|hđh	phường 24|p2	bình thạnh	hồ chí minh|hcm
+võ oanh|vo	phường 25|p2	bình thạnh	hồ chí minh|hcm
+điện biên phủ|đbp	phường 25|p2	bình thạnh	hồ chí minh|hcm
+tân cảng|tc	phường 25|p2	bình thạnh	hồ chí minh|hcm
+nguyễn gia trí|ngt	phường 25|p2	bình thạnh	hồ chí minh|hcm
+xô viết nghệ tĩnh|xvnt	phường 25|p2	bình thạnh	hồ chí minh|hcm
+bình quới|bq	phường 25|p2	bình thạnh	hồ chí minh|hcm
+bến vân đồn|bvđ	phường 12|p1	quận 4|q4	hồ chí minh|hcm
+lê thạch|lt	phường 12|p1	quận 4|q4	hồ chí minh|hcm
+hoàng diệu|hd	phường 12|p1	quận 4|q4	hồ chí minh|hcm
+đoàn như hài|đnh	phường 12|p1	quận 4|q4	hồ chí minh|hcm
+đinh lễ|đl	phường 12|p1	quận 4|q4	hồ chí minh|hcm
+nguyễn tất thành|ntt	phường 12|p1	quận 4|q4	hồ chí minh|hcm
+đoàn văn bơ|đvb	phường 12|p1	quận 4|q4	hồ chí minh|hcm
+lê quốc hưng|lqh	phường 12|p1	quận 4|q4	hồ chí minh|hcm
+nguyễn trường tộ|ntt	phường 12|p1	quận 4|q4	hồ chí minh|hcm
+đinh tiên hoàng|đth	phường 3|p3	bình thạnh	hồ chí minh|hcm
+trần kế xương|tkx	phường 3|p3	bình thạnh	hồ chí minh|hcm
+vũ huy tấn|vht	phường 3|p3	bình thạnh	hồ chí minh|hcm
+nguyễn bỉnh khiêm|nbk	phường 5|p5	bình thạnh	hồ chí minh|hcm
+nguyễn văn đậu|nvđ	phường 5|p5	bình thạnh	hồ chí minh|hcm
+nguyễn thượng hiền|nth	phường 5|p5	bình thạnh	hồ chí minh|hcm
+hoàng hoa thám|hht	phường 5|p5	bình thạnh	hồ chí minh|hcm
+nguyễn trung trực|ntt	phường 5|p5	bình thạnh	hồ chí minh|hcm
+lê quang định|lqđ	phường 5|p5	bình thạnh	hồ chí minh|hcm
+nguyễn văn đậu|nvđ	phường 6|p6	bình thạnh	hồ chí minh|hcm
+nguyễn thượng hiền|nth	phường 6|p6	bình thạnh	hồ chí minh|hcm
+hoàng hoa thám|hht	phường 6|p6	bình thạnh	hồ chí minh|hcm
+lê trực|lt	phường 7|p7	bình thạnh	hồ chí minh|hcm
+phan đăng lưu|pđl	phường 7|p7	bình thạnh	hồ chí minh|hcm
+hoàng hoa thám|hht	phường 7|p7	bình thạnh	hồ chí minh|hcm
+nguyễn văn đậu|nvđ	phường 7|p7	bình thạnh	hồ chí minh|hcm
+lê quang định|lqđ	phường 7|p7	bình thạnh	hồ chí minh|hcm
+hoa lài|hl	phường 7|p7	phú nhuận	hồ chí minh|hcm
+trường sa|ts	phường 7|p7	phú nhuận	hồ chí minh|hcm
+hoa huệ|hh	phường 7|p7	phú nhuận	hồ chí minh|hcm
+nhiêu tứ|nt	phường 7|p7	phú nhuận	hồ chí minh|hcm
+miếu nổi|mn	phường 7|p7	phú nhuận	hồ chí minh|hcm
+hoa cúc|hc	phường 7|p7	phú nhuận	hồ chí minh|hcm
+ký con|kc	phường 7|p7	phú nhuận	hồ chí minh|hcm
+hoa thị|ht	phường 7|p7	phú nhuận	hồ chí minh|hcm
+trần kế xương|tkx	phường 7|p7	phú nhuận	hồ chí minh|hcm
+hoa cau|hc	phường 7|p7	phú nhuận	hồ chí minh|hcm
+hoa trà|ht	phường 7|p7	phú nhuận	hồ chí minh|hcm
+hoa giấy|hg	phường 7|p7	phú nhuận	hồ chí minh|hcm
+hoa sữa|hs	phường 7|p7	phú nhuận	hồ chí minh|hcm
+phan tây hồ|pth	phường 7|p7	phú nhuận	hồ chí minh|hcm
+dương bá trạc|dbt	phường 1|p1	quận 8|q8	hồ chí minh|hcm
+âu dương lân|âdl	phường 1|p1	quận 8|q8	hồ chí minh|hcm
+phạm thế hiển|pth	phường 1|p1	quận 8|q8	hồ chí minh|hcm
+lưu quý kỳ|lqk	phường 10|p1	quận 8|q8	hồ chí minh|hcm
+ba đình|bđ	phường 10|p1	quận 8|q8	hồ chí minh|hcm
+hưng phú|hp	phường 10|p1	quận 8|q8	hồ chí minh|hcm
+nguyễn duy|nd	phường 10|p1	quận 8|q8	hồ chí minh|hcm
+nguyễn quyền|nq	phường 11|p1	quận 8|q8	hồ chí minh|hcm
+vĩnh nam|vn	phường 11|p1	quận 8|q8	hồ chí minh|hcm
+ưu long|ưl	phường 11|p1	quận 8|q8	hồ chí minh|hcm
+phong phú|pp	phường 11|p1	quận 8|q8	hồ chí minh|hcm
+bến bình đông|bbđ	phường 11|p1	quận 8|q8	hồ chí minh|hcm
+tuy lý vương|tlv	phường 12|p1	quận 8|q8	hồ chí minh|hcm
+nguyễn duy|nd	phường 12|p1	quận 8|q8	hồ chí minh|hcm
+cao xuân dục|cxd	phường 12|p1	quận 8|q8	hồ chí minh|hcm
+tùng thiện vương|ttv	phường 12|p1	quận 8|q8	hồ chí minh|hcm
+phong phú|pp	phường 12|p1	quận 8|q8	hồ chí minh|hcm
+bùi huy bích|bhb	phường 12|p1	quận 8|q8	hồ chí minh|hcm
+mạc vân|mv	phường 13|p1	quận 8|q8	hồ chí minh|hcm
+tuy lý vương|tlv	phường 13|p1	quận 8|q8	hồ chí minh|hcm
+cao xuân dục|cxd	phường 13|p1	quận 8|q8	hồ chí minh|hcm
+đinh hoà|đh	phường 13|p1	quận 8|q8	hồ chí minh|hcm
+tùng thiện vương|ttv	phường 13|p1	quận 8|q8	hồ chí minh|hcm
+bến bình đông|bbđ	phường 13|p1	quận 8|q8	hồ chí minh|hcm
+bùi huy bích|bhb	phường 13|p1	quận 8|q8	hồ chí minh|hcm
+hoàng sĩ khải|hsk	phường 14|p1	quận 8|q8	hồ chí minh|hcm
+ngô sỹ liên|nsl	phường 14|p1	quận 8|q8	hồ chí minh|hcm
+bến bình đông|bbđ	phường 14|p1	quận 8|q8	hồ chí minh|hcm
+ngô sĩ liên|nsl	phường 14|p1	quận 8|q8	hồ chí minh|hcm
+cây sung|cs	phường 14|p1	quận 8|q8	hồ chí minh|hcm
+hoài thanh|ht	phường 14|p1	quận 8|q8	hồ chí minh|hcm
+lý đạo thành|lđt	phường 16|p1	quận 8|q8	hồ chí minh|hcm
+phú định|pđ	phường 16|p1	quận 8|q8	hồ chí minh|hcm
+phạm đức sơn|pđs	phường 16|p1	quận 8|q8	hồ chí minh|hcm
+nguyễn ngọc cung|nnc	phường 16|p1	quận 8|q8	hồ chí minh|hcm
+hồ học lãm|hhl	phường 16|p1	quận 8|q8	hồ chí minh|hcm
+bến phú định|bpđ	phường 16|p1	quận 8|q8	hồ chí minh|hcm
+hoàng ngân|hn	phường 16|p1	quận 8|q8	hồ chí minh|hcm
+an dương vương|adv	phường 16|p1	quận 8|q8	hồ chí minh|hcm
+bến mễ cốc|bmc	phường 15|p1	quận 8|q8	hồ chí minh|hcm
+lê thành phương|ltp	phường 15|p1	quận 8|q8	hồ chí minh|hcm
+bình đức|bđ	phường 15|p1	quận 8|q8	hồ chí minh|hcm
+mễ cốc|mc	phường 15|p1	quận 8|q8	hồ chí minh|hcm
+lương văn can|lvc	phường 15|p1	quận 8|q8	hồ chí minh|hcm
+nguyễn nhược thi|nnt	phường 15|p1	quận 8|q8	hồ chí minh|hcm
+bến bình đông|bbđ	phường 15|p1	quận 8|q8	hồ chí minh|hcm
+võ chí công|vcc	phú hữu	quận 9|q9	hồ chí minh|hcm
+nguyễn duy trinh|ndt	phú hữu	quận 9|q9	hồ chí minh|hcm
+đỗ xuân hợp|đxh	phú hữu	quận 9|q9	hồ chí minh|hcm
+gò cát|gc	phú hữu	quận 9|q9	hồ chí minh|hcm
+liên phường|lp	phú hữu	quận 9|q9	hồ chí minh|hcm
+đường d|đd	phú hữu	quận 9|q9	hồ chí minh|hcm
+bưng ông thoàn|bôt	phú hữu	quận 9|q9	hồ chí minh|hcm
+phạm thế hiển|pth	phường 2|p2	quận 8|q8	hồ chí minh|hcm
+dương bá trạc|dbt	phường 2|p2	quận 8|q8	hồ chí minh|hcm
+tạ quang bửu|tqb	phường 2|p2	quận 8|q8	hồ chí minh|hcm
+nguyễn thị tần|ntt	phường 2|p2	quận 8|q8	hồ chí minh|hcm
+đặng chất|đc	phường 2|p2	quận 8|q8	hồ chí minh|hcm
+âu dương lân|âdl	phường 2|p2	quận 8|q8	hồ chí minh|hcm
+phạm thế hiển|pth	phường 3|p3	quận 8|q8	hồ chí minh|hcm
+tạ quang bửu|tqb	phường 3|p3	quận 8|q8	hồ chí minh|hcm
+nguyễn thị tần|ntt	phường 3|p3	quận 8|q8	hồ chí minh|hcm
+dạ nam|dn	phường 3|p3	quận 8|q8	hồ chí minh|hcm
+âu dương lân|âdl	phường 3|p3	quận 8|q8	hồ chí minh|hcm
+phạm thế hiển|pth	phường 4|p4	quận 8|q8	hồ chí minh|hcm
+hồ thành biên|htb	phường 4|p4	quận 8|q8	hồ chí minh|hcm
+tạ quang bửu|tqb	phường 4|p4	quận 8|q8	hồ chí minh|hcm
+nguyễn đức ngữ|nđn	phường 4|p4	quận 8|q8	hồ chí minh|hcm
+huỳnh thị phụng|htp	phường 4|p4	quận 8|q8	hồ chí minh|hcm
+cao lỗ|cl	phường 4|p4	quận 8|q8	hồ chí minh|hcm
+đào cam mộc|đcm	phường 4|p4	quận 8|q8	hồ chí minh|hcm
+lê quyên|lq	phường 4|p4	quận 8|q8	hồ chí minh|hcm
+đông hồ|đh	phường 4|p4	quận 8|q8	hồ chí minh|hcm
+đặng thúc liêng|đtl	phường 4|p4	quận 8|q8	hồ chí minh|hcm
+phạm hùng	phường 4|p4	quận 8|q8	hồ chí minh|hcm
+hồ biểu chánh|hbc	phường 4|p4	quận 8|q8	hồ chí minh|hcm
+bùi điền|bđ	phường 4|p4	quận 8|q8	hồ chí minh|hcm
+phạm thế hiển|pth	phường 5|p5	quận 8|q8	hồ chí minh|hcm
+tạ quang bửu|tqb	phường 5|p5	quận 8|q8	hồ chí minh|hcm
+hoàng kim giao|hkg	phường 5|p5	quận 8|q8	hồ chí minh|hcm
+thanh loan|tl	phường 5|p5	quận 8|q8	hồ chí minh|hcm
+bùi minh trực|bmt	phường 5|p5	quận 8|q8	hồ chí minh|hcm
+phạm hùng	phường 5|p5	quận 8|q8	hồ chí minh|hcm
+hoàng minh đạo|hmđ	phường 5|p5	quận 8|q8	hồ chí minh|hcm
+tạ quang bửu|tqb	phường 6|p6	quận 8|q8	hồ chí minh|hcm
+phạm thế hiển|pth	phường 6|p6	quận 8|q8	hồ chí minh|hcm
+bùi minh trực|bmt	phường 6|p6	quận 8|q8	hồ chí minh|hcm
+phạm thế hiển|pth	phường 7|p7	quận 8|q8	hồ chí minh|hcm
+lê bôi|lb	phường 7|p7	quận 8|q8	hồ chí minh|hcm
+trịnh quang nghị|tqn	phường 7|p7	quận 8|q8	hồ chí minh|hcm
+rạch cùng|rc	phường 7|p7	quận 8|q8	hồ chí minh|hcm
+hoàng đạo thuý|hđt	phường 7|p7	quận 8|q8	hồ chí minh|hcm
+nguyễn văn linh|nvl	phường 7|p7	quận 8|q8	hồ chí minh|hcm
+rạch lồng đèn|rlđ	phường 7|p7	quận 8|q8	hồ chí minh|hcm
+hưng phú|hp	phường 8|p8	quận 8|q8	hồ chí minh|hcm
+trần văn thành|tvt	phường 8|p8	quận 8|q8	hồ chí minh|hcm
+lê quang kim|lqk	phường 8|p8	quận 8|q8	hồ chí minh|hcm
+nguyễn duy|nd	phường 9|p9	quận 8|q8	hồ chí minh|hcm
+dã tượng|dt	phường 9|p9	quận 8|q8	hồ chí minh|hcm
+hưng phú|hp	phường 9|p9	quận 8|q8	hồ chí minh|hcm
+phạm hùng	phường 9|p9	quận 8|q8	hồ chí minh|hcm
+võ trứ|vt	phường 9|p9	quận 8|q8	hồ chí minh|hcm
+mai am	phường 9|p9	quận 8|q8	hồ chí minh|hcm
+ba đình|bđ	phường 9|p9	quận 8|q8	hồ chí minh|hcm
+ngoc lan|nl	bình chiểu|bc	thủ đức	hồ chí minh|hcm
+phan huy chú|phc	bình thọ|bt	thủ đức	hồ chí minh|hcm
+hàn thuyên|ht	bình thọ|bt	thủ đức	hồ chí minh|hcm
+hồng đức|hđ	bình thọ|bt	thủ đức	hồ chí minh|hcm
+hữu nghị|hn	bình thọ|bt	thủ đức	hồ chí minh|hcm
+khổng tử|kt	bình thọ|bt	thủ đức	hồ chí minh|hcm
+nguyễn văn bá|nvb	bình thọ|bt	thủ đức	hồ chí minh|hcm
+hoà bình|hb	bình thọ|bt	thủ đức	hồ chí minh|hcm
+đoàn kết|đk	bình thọ|bt	thủ đức	hồ chí minh|hcm
+võ văn ngân|vvn	bình thọ|bt	thủ đức	hồ chí minh|hcm
+đặng văn bi|đvb	bình thọ|bt	thủ đức	hồ chí minh|hcm
+bác ái	bình thọ|bt	thủ đức	hồ chí minh|hcm
+chu mạnh trinh|cmt	bình thọ|bt	thủ đức	hồ chí minh|hcm
+chân lý|cl	bình thọ|bt	thủ đức	hồ chí minh|hcm
+nguyễn trường tộ|ntt	bình thọ|bt	thủ đức	hồ chí minh|hcm
+tagore	bình thọ|bt	thủ đức	hồ chí minh|hcm
+chu văn an|cva	bình thọ|bt	thủ đức	hồ chí minh|hcm
+phạm văn đồng|pvđ	hiệp bình chánh|hbc	thủ đức	hồ chí minh|hcm
+tam bình|tb	hiệp bình chánh|hbc	thủ đức	hồ chí minh|hcm
+b trưng trắc|btt	hiệp bình chánh|hbc	thủ đức	hồ chí minh|hcm
+kha vạn cân|kvc	hiệp bình chánh|hbc	thủ đức	hồ chí minh|hcm
+phú châu|pc	tam bình|tb	thủ đức	hồ chí minh|hcm
+gò dưa|gd	tam bình|tb	thủ đức	hồ chí minh|hcm
+tô ngọc vân|tnv	tam bình|tb	thủ đức	hồ chí minh|hcm
+đường d|đd	tam bình|tb	thủ đức	hồ chí minh|hcm
+ngô chí quốc|ncq	tam bình|tb	thủ đức	hồ chí minh|hcm
+nguyễn thị nhung|ntn	hiệp bình phước|hbp	thủ đức	hồ chí minh|hcm
+chương dương|cd	linh chiểu|lc	thủ đức	hồ chí minh|hcm
+kha vạn cân|kvc	linh trung|lt	thủ đức	hồ chí minh|hcm
+xa lộ hà nội|xlhn	linh trung|lt	thủ đức	hồ chí minh|hcm
+lam sơn|ls	linh tây|lt	thủ đức	hồ chí minh|hcm
+kha vạn cân|kvc	linh tây|lt	thủ đức	hồ chí minh|hcm
+phạm văn đồng|pvđ	linh tây|lt	thủ đức	hồ chí minh|hcm
+nguyễn văn lịch|nvl	linh tây|lt	thủ đức	hồ chí minh|hcm
+dương văn cam|dvc	linh tây|lt	thủ đức	hồ chí minh|hcm
+dương đào trinh nhất|dđtn	linh tây|lt	thủ đức	hồ chí minh|hcm
+lê văn ninh|lvn	linh tây|lt	thủ đức	hồ chí minh|hcm
+tô ngọc vân|tnv	linh tây|lt	thủ đức	hồ chí minh|hcm
+trần văn nửa|tvn	linh tây|lt	thủ đức	hồ chí minh|hcm
+đặng thị rành|đtr	linh tây|lt	thủ đức	hồ chí minh|hcm
+phạm văn đồng|pvđ	linh đông|lđ	thủ đức	hồ chí minh|hcm
+lý tế xuyên|ltx	linh đông|lđ	thủ đức	hồ chí minh|hcm
+tô ngọc vân|tnv	linh đông|lđ	thủ đức	hồ chí minh|hcm
+kha vạn cân|kvc	linh đông|lđ	thủ đức	hồ chí minh|hcm
+cây keo|ck	tam phú|tp	thủ đức	hồ chí minh|hcm
+tam hà|th	tam phú|tp	thủ đức	hồ chí minh|hcm
+rạch lùng|rl	tam phú|tp	thủ đức	hồ chí minh|hcm
+kha vạn cân|kvc	trường thọ|tt	thủ đức	hồ chí minh|hcm
+nguyễn văn bá|nvb	trường thọ|tt	thủ đức	hồ chí minh|hcm
+hồ văn tư|hvt	trường thọ|tt	thủ đức	hồ chí minh|hcm
+võ văn ngân|vvn	trường thọ|tt	thủ đức	hồ chí minh|hcm
+xa lộ hà nội|xlhn	trường thọ|tt	thủ đức	hồ chí minh|hcm
+đặng văn bi|đvb	trường thọ|tt	thủ đức	hồ chí minh|hcm
+tây hoà|th	phước long a|pla	quận 9|q9	hồ chí minh|hcm
+đinh củng viên|đcv	phước long a|pla	quận 9|q9	hồ chí minh|hcm
+đông tây|đt	phước long a|pla	quận 9|q9	hồ chí minh|hcm
+song hành hà nội|shhn	phước long a|pla	quận 9|q9	hồ chí minh|hcm
+hồ bá phấn|hbp	phước long a|pla	quận 9|q9	hồ chí minh|hcm
+đỗ xuân hợp|đxh	phước long a|pla	quận 9|q9	hồ chí minh|hcm
+nam hoà|nh	phước long a|pla	quận 9|q9	hồ chí minh|hcm
+xa lộ hà nội|xlhn	phước long a|pla	quận 9|q9	hồ chí minh|hcm
+thuỷ lợi|tl	phước long a|pla	quận 9|q9	hồ chí minh|hcm
+quang trung|qt	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+trương văn thành|tvt	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+khổng tử|kt	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+cô bắc|cb	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+phan đình phùng|pđp	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+tạ thu thâu|ttt	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+tú xương|tx	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+nguyễn công trứ|nct	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+tự do|td	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+lê văn việt|lvv	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+nguyễn thái học|nth	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+dân chủ|dc	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+dường man thiện|dmt	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+trần hưng đạo|thđ	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+hai bà trưng|hbt	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+xa lộ hà nội|xlhn	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+trịnh hoài đức|thđ	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+nguyễn trãi|nt	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+chu văn an|cva	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+trương văn hải|tvh	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+dương hiền vương|dhv	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+hàm nghi|hn	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+ngô quyền|nq	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+phan chu trinh|pct	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+trần cao vân|tcv	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+lê lợi|ll	hiệp phú|hp	quận 9|q9	hồ chí minh|hcm
+mạc hiển tích|mht	long bình|lb	quận 9|q9	hồ chí minh|hcm
+trần trọng khiêm|ttk	long bình|lb	quận 9|q9	hồ chí minh|hcm
+hoàng hữu nam|hhn	long bình|lb	quận 9|q9	hồ chí minh|hcm
+cầu ông tán|côt	long bình|lb	quận 9|q9	hồ chí minh|hcm
+cầu đình|cđ	long phước|lp	quận 9|q9	hồ chí minh|hcm
+nguyễn văn tăng|nvt	long thạnh mỹ|ltm	quận 9|q9	hồ chí minh|hcm
+đỗ thế diên|đtd	long thạnh mỹ|ltm	quận 9|q9	hồ chí minh|hcm
+đặng nghiêm|đn	long thạnh mỹ|ltm	quận 9|q9	hồ chí minh|hcm
+hoàng hữu nam|hhn	long thạnh mỹ|ltm	quận 9|q9	hồ chí minh|hcm
+phan đạt đức|pđđ	long thạnh mỹ|ltm	quận 9|q9	hồ chí minh|hcm
+trương hạnh|th	long thạnh mỹ|ltm	quận 9|q9	hồ chí minh|hcm
+nguyễn văn thạnh|nvt	long thạnh mỹ|ltm	quận 9|q9	hồ chí minh|hcm
+lê văn việt|lvv	long thạnh mỹ|ltm	quận 9|q9	hồ chí minh|hcm
+hàng tre|ht	long thạnh mỹ|ltm	quận 9|q9	hồ chí minh|hcm
+phước thiện|pt	long thạnh mỹ|ltm	quận 9|q9	hồ chí minh|hcm
+bùi xương trạch|bxt	long trường|lt	quận 9|q9	hồ chí minh|hcm
+lã xuân oai|lxo	long trường|lt	quận 9|q9	hồ chí minh|hcm
+nguyễn duy trinh|ndt	long trường|lt	quận 9|q9	hồ chí minh|hcm
+trường lưu|tl	long trường|lt	quận 9|q9	hồ chí minh|hcm
+võ văn hát|vvh	long trường|lt	quận 9|q9	hồ chí minh|hcm
+tam đa|tđ	long trường|lt	quận 9|q9	hồ chí minh|hcm
+lã xuân oai|lxo	trường thạnh|tt	quận 9|q9	hồ chí minh|hcm
+nguyễn duy trinh|ndt	trường thạnh|tt	quận 9|q9	hồ chí minh|hcm
+long thuận|lt	trường thạnh|tt	quận 9|q9	hồ chí minh|hcm
+ích thạnh|ít	trường thạnh|tt	quận 9|q9	hồ chí minh|hcm
+tam đa|tđ	trường thạnh|tt	quận 9|q9	hồ chí minh|hcm
+khu phố phước hiệp|kpph	trường thạnh|tt	quận 9|q9	hồ chí minh|hcm
+lò lu|ll	trường thạnh|tt	quận 9|q9	hồ chí minh|hcm
+nguyễn xiển|nx	trường thạnh|tt	quận 9|q9	hồ chí minh|hcm
+trịnh công sơn|tcs	phước long b|plb	quận 9|q9	hồ chí minh|hcm
+võ chí công|vcc	phước long b|plb	quận 9|q9	hồ chí minh|hcm
+đường iii|đi	phước long b|plb	quận 9|q9	hồ chí minh|hcm
+đỗ xuân hợp|đxh	phước long b|plb	quận 9|q9	hồ chí minh|hcm
+liên phường|lp	phước long b|plb	quận 9|q9	hồ chí minh|hcm
+huy cận|hc	phước long b|plb	quận 9|q9	hồ chí minh|hcm
+xa lộ hà nội|xlhn	phước long b|plb	quận 9|q9	hồ chí minh|hcm
+xuân quỳnh|xq	phước long b|plb	quận 9|q9	hồ chí minh|hcm
+nam cao|nc	tân phú|tp	quận 9|q9	hồ chí minh|hcm
+lê văn việt|lvv	tân phú|tp	quận 9|q9	hồ chí minh|hcm
+hoàng hữu nam|hhn	tân phú|tp	quận 9|q9	hồ chí minh|hcm
+xa lộ hà nội|xlhn	tân phú|tp	quận 9|q9	hồ chí minh|hcm
+dường man thiện|dmt	tăng nhơn phú a|tnpa	quận 9|q9	hồ chí minh|hcm
+lã xuân oai|lxo	tăng nhơn phú a|tnpa	quận 9|q9	hồ chí minh|hcm
+lê văn việt|lvv	tăng nhơn phú a|tnpa	quận 9|q9	hồ chí minh|hcm
+làng tăng phú|ltp	tăng nhơn phú a|tnpa	quận 9|q9	hồ chí minh|hcm
+khu công nghệ cao|kcnc	tăng nhơn phú b|tnpb	quận 9|q9	hồ chí minh|hcm
+quang trung|qt	tăng nhơn phú b|tnpb	quận 9|q9	hồ chí minh|hcm
+đình phong phú|đpp	tăng nhơn phú b|tnpb	quận 9|q9	hồ chí minh|hcm
+bưng ông thoàn|bôt	tăng nhơn phú b|tnpb	quận 9|q9	hồ chí minh|hcm
+lê văn việt|lvv	tăng nhơn phú b|tnpb	quận 9|q9	hồ chí minh|hcm
+trần não|tn	bình an|ba	quận 2|q2	hồ chí minh|hcm
+lương định của|lđc	bình an|ba	quận 2|q2	hồ chí minh|hcm
+mai chí thọ|mct	bình khánh|bk	quận 2|q2	hồ chí minh|hcm
+trần não|tn	bình khánh|bk	quận 2|q2	hồ chí minh|hcm
+lương định của|lđc	bình khánh|bk	quận 2|q2	hồ chí minh|hcm
+nguyễn văn giáp|nvg	bình trưng đông|btđ	quận 2|q2	hồ chí minh|hcm
+lê văn thịnh|lvt	bình trưng đông|btđ	quận 2|q2	hồ chí minh|hcm
+nguyễn trung nguyệt|ntn	bình trưng đông|btđ	quận 2|q2	hồ chí minh|hcm
+nguyễn đôn tiết|nđt	bình trưng đông|btđ	quận 2|q2	hồ chí minh|hcm
+nguyễn thị định|ntđ	cát lái|cl	quận 2|q2	hồ chí minh|hcm
+lê đình quản|lđq	cát lái|cl	quận 2|q2	hồ chí minh|hcm
+đường c|đc	cát lái|cl	quận 2|q2	hồ chí minh|hcm
+lê văn thịnh|lvt	cát lái|cl	quận 2|q2	hồ chí minh|hcm
+lê phụng hiểu|lph	cát lái|cl	quận 2|q2	hồ chí minh|hcm
+nguyễn đăng giai|nđg	thảo điền|tđ	quận 2|q2	hồ chí minh|hcm
+nguyễn ư dĩ|nưd	thảo điền|tđ	quận 2|q2	hồ chí minh|hcm
+quốc hương|qh	thảo điền|tđ	quận 2|q2	hồ chí minh|hcm
+nguyễn cừ|nc	thảo điền|tđ	quận 2|q2	hồ chí minh|hcm
+nguyễn văn hưởng|nvh	thảo điền|tđ	quận 2|q2	hồ chí minh|hcm
+trần ngọc diện|tnd	thảo điền|tđ	quận 2|q2	hồ chí minh|hcm
+nguyễn bá huân|nbh	thảo điền|tđ	quận 2|q2	hồ chí minh|hcm
+lê thước|lt	thảo điền|tđ	quận 2|q2	hồ chí minh|hcm
+nguyễn bá lân|nbl	thảo điền|tđ	quận 2|q2	hồ chí minh|hcm
+đỗ quang|đq	thảo điền|tđ	quận 2|q2	hồ chí minh|hcm
+nguyễn duy hiệu|ndh	thảo điền|tđ	quận 2|q2	hồ chí minh|hcm
+trúc đường|tđ	thảo điền|tđ	quận 2|q2	hồ chí minh|hcm
+xa lộ hà nội|xlhn	thảo điền|tđ	quận 2|q2	hồ chí minh|hcm
+lê văn miến|lvm	thảo điền|tđ	quận 2|q2	hồ chí minh|hcm
+tống hữu định|thđ	thảo điền|tđ	quận 2|q2	hồ chí minh|hcm
+ngô quang huy|nqh	thảo điền|tđ	quận 2|q2	hồ chí minh|hcm
+đặng hữu phổ|đhp	thảo điền|tđ	quận 2|q2	hồ chí minh|hcm
+đàm văn lễ|đvl	thạnh mỹ lợi|tml	quận 2|q2	hồ chí minh|hcm
+phan bá vành|pbv	thạnh mỹ lợi|tml	quận 2|q2	hồ chí minh|hcm
+nguyễn thị định|ntđ	thạnh mỹ lợi|tml	quận 2|q2	hồ chí minh|hcm
+phạm thận duật|ptd	thạnh mỹ lợi|tml	quận 2|q2	hồ chí minh|hcm
+vũ phương đề|vpđ	thạnh mỹ lợi|tml	quận 2|q2	hồ chí minh|hcm
+sử hy nhan|shn	thạnh mỹ lợi|tml	quận 2|q2	hồ chí minh|hcm
+phan văn đáng|pvđ	thạnh mỹ lợi|tml	quận 2|q2	hồ chí minh|hcm
+đặng như mai|đnm	thạnh mỹ lợi|tml	quận 2|q2	hồ chí minh|hcm
+nguyễn văn kỉnh|nvk	thạnh mỹ lợi|tml	quận 2|q2	hồ chí minh|hcm
+thích mật thể|tmt	thạnh mỹ lợi|tml	quận 2|q2	hồ chí minh|hcm
+đồng văn cống|đvc	thạnh mỹ lợi|tml	quận 2|q2	hồ chí minh|hcm
+trịnh khắc lập|tkl	thạnh mỹ lợi|tml	quận 2|q2	hồ chí minh|hcm
+đường d|đd	thạnh mỹ lợi|tml	quận 2|q2	hồ chí minh|hcm
+trương gia mô|tgm	thạnh mỹ lợi|tml	quận 2|q2	hồ chí minh|hcm
+lâm quang ky|lqk	thạnh mỹ lợi|tml	quận 2|q2	hồ chí minh|hcm
+phạm đôn lễ|pđl	thạnh mỹ lợi|tml	quận 2|q2	hồ chí minh|hcm
+nguyễn trọng quản|ntq	thạnh mỹ lợi|tml	quận 2|q2	hồ chí minh|hcm
+phạm hy lượng|phl	thạnh mỹ lợi|tml	quận 2|q2	hồ chí minh|hcm
+phạm công trứ|pct	thạnh mỹ lợi|tml	quận 2|q2	hồ chí minh|hcm
+nguyễn khoa đăng|nkđ	thạnh mỹ lợi|tml	quận 2|q2	hồ chí minh|hcm
+mai chí thọ|mct	thủ thiêm|tt	quận 2|q2	hồ chí minh|hcm
+lương định của|lđc	thủ thiêm|tt	quận 2|q2	hồ chí minh|hcm
+vườn lài|vl	an phú đông|apđ	quận 12|q1	hồ chí minh|hcm
+võ thị liễu|vtl	an phú đông|apđ	quận 12|q1	hồ chí minh|hcm
+võ thị thừa|vtt	an phú đông|apđ	quận 12|q1	hồ chí minh|hcm
+dương thị mười|dtm	hiệp thành|ht	quận 12|q1	hồ chí minh|hcm
+lê văn khương|lvk	hiệp thành|ht	quận 12|q1	hồ chí minh|hcm
+giáng hương|gh	hiệp thành|ht	quận 12|q1	hồ chí minh|hcm
+nguyễn ảnh thủ|nảt	hiệp thành|ht	quận 12|q1	hồ chí minh|hcm
+trần thị hè|tth	hiệp thành|ht	quận 12|q1	hồ chí minh|hcm
+trần thị bảy|ttb	hiệp thành|ht	quận 12|q1	hồ chí minh|hcm
+bạch dương|bd	hiệp thành|ht	quận 12|q1	hồ chí minh|hcm
+nguyễn thị búp|ntb	hiệp thành|ht	quận 12|q1	hồ chí minh|hcm
+nguyễn thị đặng|ntđ	hiệp thành|ht	quận 12|q1	hồ chí minh|hcm
+nguyễn thị tràng|ntt	hiệp thành|ht	quận 12|q1	hồ chí minh|hcm
+nguyễn thị kiểu|ntk	hiệp thành|ht	quận 12|q1	hồ chí minh|hcm
+bùi công trừng|bct	thạnh lộc|tl	quận 12|q1	hồ chí minh|hcm
+nguyễn thị sáu|nts	thạnh lộc|tl	quận 12|q1	hồ chí minh|hcm
+hà huy giáp|hhg	thạnh xuân|tx	quận 12|q1	hồ chí minh|hcm
+thống nhất|tn	phường 15|p1	gò vấp	hồ chí minh|hcm
+tô ngọc vân|tnv	phường 15|p1	gò vấp	hồ chí minh|hcm
+trương minh ký|tmk	phường 15|p1	gò vấp	hồ chí minh|hcm
+lê đức thọ|lđt	phường 15|p1	gò vấp	hồ chí minh|hcm
+lê văn khương|lvk	thới an|ta	quận 12|q1	hồ chí minh|hcm
+võ thị phải|vtp	thới an|ta	quận 12|q1	hồ chí minh|hcm
+nguyễn thị kiểu|ntk	thới an|ta	quận 12|q1	hồ chí minh|hcm
+lê thị riêng|ltr	thới an|ta	quận 12|q1	hồ chí minh|hcm
+lê đức thọ|lđt	thới an|ta	quận 12|q1	hồ chí minh|hcm
+hà thị khéo|htk	trung mỹ tây|tmt	quận 12|q1	hồ chí minh|hcm
+hà đặc|hđ	trung mỹ tây|tmt	quận 12|q1	hồ chí minh|hcm
+giang cự vọng|gcv	trung mỹ tây|tmt	quận 12|q1	hồ chí minh|hcm
+quán tre|qt	trung mỹ tây|tmt	quận 12|q1	hồ chí minh|hcm
+nguyễn ảnh thủ|nảt	trung mỹ tây|tmt	quận 12|q1	hồ chí minh|hcm
+lâm văn tết|lvt	trung mỹ tây|tmt	quận 12|q1	hồ chí minh|hcm
+tô ký|tk	trung mỹ tây|tmt	quận 12|q1	hồ chí minh|hcm
+lê thị nho|ltn	trung mỹ tây|tmt	quận 12|q1	hồ chí minh|hcm
+hà chương|hc	trung mỹ tây|tmt	quận 12|q1	hồ chí minh|hcm
+hoàng tăng bí|htb	trung mỹ tây|tmt	quận 12|q1	hồ chí minh|hcm
+trương thị ngào|ttn	trung mỹ tây|tmt	quận 12|q1	hồ chí minh|hcm
+dương thị mười|dtm	tân chánh hiệp|tch	quận 12|q1	hồ chí minh|hcm
+nguyễn ảnh thủ|nảt	tân chánh hiệp|tch	quận 12|q1	hồ chí minh|hcm
+tô ký|tk	tân chánh hiệp|tch	quận 12|q1	hồ chí minh|hcm
+bùi văn ngữ|bvn	tân chánh hiệp|tch	quận 12|q1	hồ chí minh|hcm
+huỳnh thị hai|hth	tân chánh hiệp|tch	quận 12|q1	hồ chí minh|hcm
+nguyễn thị búp|ntb	tân chánh hiệp|tch	quận 12|q1	hồ chí minh|hcm
+đông bắc|đb	tân chánh hiệp|tch	quận 12|q1	hồ chí minh|hcm
+lâm thị hố|lth	tân chánh hiệp|tch	quận 12|q1	hồ chí minh|hcm
+trường chinh|tc	tân hưng thuận|tht	quận 12|q1	hồ chí minh|hcm
+nguyễn văn quá|nvq	tân hưng thuận|tht	quận 12|q1	hồ chí minh|hcm
+dương thị mười|dtm	tân thới hiệp|tth	quận 12|q1	hồ chí minh|hcm
+lê văn khương|lvk	tân thới hiệp|tth	quận 12|q1	hồ chí minh|hcm
+nguyễn văn quá|nvq	tân thới hiệp|tth	quận 12|q1	hồ chí minh|hcm
+nguyễn thị đặng|ntđ	tân thới hiệp|tth	quận 12|q1	hồ chí minh|hcm
+nguyễn thị căn|ntc	tân thới hiệp|tth	quận 12|q1	hồ chí minh|hcm
+nguyễn thị kiểu|ntk	tân thới hiệp|tth	quận 12|q1	hồ chí minh|hcm
+đường f|đf	tân thới nhất|ttn	quận 12|q1	hồ chí minh|hcm
+phan văn hớn|pvh	tân thới nhất|ttn	quận 12|q1	hồ chí minh|hcm
+trường chinh|tc	tân thới nhất|ttn	quận 12|q1	hồ chí minh|hcm
+đường b|đb	tân thới nhất|ttn	quận 12|q1	hồ chí minh|hcm
+dương thị giang|dtg	tân thới nhất|ttn	quận 12|q1	hồ chí minh|hcm
+trường chinh|tc	đông hưng thuận|đht	quận 12|q1	hồ chí minh|hcm
+tô ký|tk	đông hưng thuận|đht	quận 12|q1	hồ chí minh|hcm
+nguyễn văn quá|nvq	đông hưng thuận|đht	quận 12|q1	hồ chí minh|hcm
+lý thái tổ|ltt	phường 1|p1	quận 10|q1	hồ chí minh|hcm
+lê hồng phong|lhp	phường 1|p1	quận 10|q1	hồ chí minh|hcm
+trần bình trọng|tbt	phường 1|p1	quận 10|q1	hồ chí minh|hcm
+điện biên phủ|đbp	phường 10|p1	quận 10|q1	hồ chí minh|hcm
+lý thái tổ|ltt	phường 10|p1	quận 10|q1	hồ chí minh|hcm
+sư vạn hạnh|svh	phường 10|p1	quận 10|q1	hồ chí minh|hcm
+lê hồng phong|lhp	phường 10|p1	quận 10|q1	hồ chí minh|hcm
+trần minh quyền|tmq	phường 10|p1	quận 10|q1	hồ chí minh|hcm
+ba tháng hai|bth	phường 10|p1	quận 10|q1	hồ chí minh|hcm
+ba tháng hai|bth	phường 11|p1	quận 10|q1	hồ chí minh|hcm
+điện biên phủ|đbp	phường 11|p1	quận 10|q1	hồ chí minh|hcm
+cao thắng|ct	phường 11|p1	quận 10|q1	hồ chí minh|hcm
+trần minh quyền|tmq	phường 11|p1	quận 10|q1	hồ chí minh|hcm
+ba tháng hai|bth	phường 12|p1	quận 10|q1	hồ chí minh|hcm
+sư vạn hạnh|svh	phường 12|p1	quận 10|q1	hồ chí minh|hcm
+hoàng dư khương|hdk	phường 12|p1	quận 10|q1	hồ chí minh|hcm
+lê hồng phong|lhp	phường 12|p1	quận 10|q1	hồ chí minh|hcm
+cao thắng|ct	phường 12|p1	quận 10|q1	hồ chí minh|hcm
+tô hiến thành|tht	phường 12|p1	quận 10|q1	hồ chí minh|hcm
+hoà hưng|hh	phường 12|p1	quận 10|q1	hồ chí minh|hcm
+sư vạn hạnh|svh	phường 13|p1	quận 10|q1	hồ chí minh|hcm
+tô hiến thành|tht	phường 13|p1	quận 10|q1	hồ chí minh|hcm
+ba tháng hai|bth	phường 14|p1	quận 10|q1	hồ chí minh|hcm
+lý thường kiệt|ltk	phường 14|p1	quận 10|q1	hồ chí minh|hcm
+tô hiến thành|tht	phường 14|p1	quận 10|q1	hồ chí minh|hcm
+tam đảo|tđ	phường 14|p1	quận 10|q1	hồ chí minh|hcm
+hồ bá kiện|hbk	phường 15|p1	quận 10|q1	hồ chí minh|hcm
+bắc hải|bh	phường 15|p1	quận 10|q1	hồ chí minh|hcm
+tô hiến thành|tht	phường 15|p1	quận 10|q1	hồ chí minh|hcm
+trường sơn|ts	phường 15|p1	quận 10|q1	hồ chí minh|hcm
+trần nhân tôn|tnt	phường 2|p2	quận 10|q1	hồ chí minh|hcm
+hoà hảo|hh	phường 2|p2	quận 10|q1	hồ chí minh|hcm
+ngô gia tự|ngt	phường 2|p2	quận 10|q1	hồ chí minh|hcm
+lê hồng phong|lhp	phường 2|p2	quận 10|q1	hồ chí minh|hcm
+nguyễn chí thanh|nct	phường 2|p2	quận 10|q1	hồ chí minh|hcm
+nguyễn duy dương|ndd	phường 3|p3	quận 10|q1	hồ chí minh|hcm
+nguyễn chí thanh|nct	phường 3|p3	quận 10|q1	hồ chí minh|hcm
+hoà hảo|hh	phường 3|p3	quận 10|q1	hồ chí minh|hcm
+nguyễn duy dương|ndd	phường 4|p4	quận 10|q1	hồ chí minh|hcm
+bà hạt|bh	phường 4|p4	quận 10|q1	hồ chí minh|hcm
+vĩnh viễn|vv	phường 4|p4	quận 10|q1	hồ chí minh|hcm
+nguyễn tri phương|ntp	phường 4|p4	quận 10|q1	hồ chí minh|hcm
+hoà hảo|hh	phường 4|p4	quận 10|q1	hồ chí minh|hcm
+ngô gia tự|ngt	phường 4|p4	quận 10|q1	hồ chí minh|hcm
+ngô quyền|nq	phường 5|p5	quận 10|q1	hồ chí minh|hcm
+vĩnh viễn|vv	phường 5|p5	quận 10|q1	hồ chí minh|hcm
+nguyễn tri phương|ntp	phường 5|p5	quận 10|q1	hồ chí minh|hcm
+hoà hảo|hh	phường 5|p5	quận 10|q1	hồ chí minh|hcm
+nguyễn chí thanh|nct	phường 5|p5	quận 10|q1	hồ chí minh|hcm
+nguyễn tiểu la|ntl	phường 5|p5	quận 10|q1	hồ chí minh|hcm
+đào duy từ|đdt	phường 5|p5	quận 10|q1	hồ chí minh|hcm
+ngô quyền|nq	phường 6|p6	quận 10|q1	hồ chí minh|hcm
+bà hạt|bh	phường 6|p6	quận 10|q1	hồ chí minh|hcm
+vĩnh viễn|vv	phường 6|p6	quận 10|q1	hồ chí minh|hcm
+nguyễn lâm|nl	phường 6|p6	quận 10|q1	hồ chí minh|hcm
+nguyễn kim|nk	phường 6|p6	quận 10|q1	hồ chí minh|hcm
+tân phước|tp	phường 6|p6	quận 10|q1	hồ chí minh|hcm
+nhật tảo|nt	phường 6|p6	quận 10|q1	hồ chí minh|hcm
+đào duy từ|đdt	phường 6|p6	quận 10|q1	hồ chí minh|hcm
+nguyễn chí thanh|nct	phường 7|p7	quận 10|q1	hồ chí minh|hcm
+lý thường kiệt|ltk	phường 7|p7	quận 10|q1	hồ chí minh|hcm
+nguyễn kim|nk	phường 7|p7	quận 10|q1	hồ chí minh|hcm
+ngô quyền|nq	phường 8|p8	quận 10|q1	hồ chí minh|hcm
+bà hạt|bh	phường 8|p8	quận 10|q1	hồ chí minh|hcm
+vĩnh viễn|vv	phường 8|p8	quận 10|q1	hồ chí minh|hcm
+nguyễn tri phương|ntp	phường 8|p8	quận 10|q1	hồ chí minh|hcm
+nguyễn tiểu la|ntl	phường 8|p8	quận 10|q1	hồ chí minh|hcm
+nhật tảo|nt	phường 8|p8	quận 10|q1	hồ chí minh|hcm
+ba tháng hai|bth	phường 8|p8	quận 10|q1	hồ chí minh|hcm
+bà hạt|bh	phường 9|p9	quận 10|q1	hồ chí minh|hcm
+lý thái tổ|ltt	phường 9|p9	quận 10|q1	hồ chí minh|hcm
+nguyễn tri phương|ntp	phường 9|p9	quận 10|q1	hồ chí minh|hcm
+ngô gia tự|ngt	phường 9|p9	quận 10|q1	hồ chí minh|hcm
+sư vạn hạnh|svh	phường 9|p9	quận 10|q1	hồ chí minh|hcm
+lâm hoành|lh	an lạc|al	bình tân	hồ chí minh|hcm
+lê cơ|lc	an lạc|al	bình tân	hồ chí minh|hcm
+kinh dương vương|kdv	an lạc|al	bình tân	hồ chí minh|hcm
+lê đình dương|lđd	an lạc|al	bình tân	hồ chí minh|hcm
+nguyễn quý yêm|nqy	an lạc|al	bình tân	hồ chí minh|hcm
+phan đình thông|pđt	an lạc|al	bình tân	hồ chí minh|hcm
+lê công phép|lcp	an lạc|al	bình tân	hồ chí minh|hcm
+lê tấn bê|ltb	an lạc|al	bình tân	hồ chí minh|hcm
+ngô y linh|nyl	an lạc|al	bình tân	hồ chí minh|hcm
+võ văn kiệt|vvk	an lạc|al	bình tân	hồ chí minh|hcm
+nguyễn hới|nh	an lạc|al	bình tân	hồ chí minh|hcm
+bùi tư toàn|btt	an lạc|al	bình tân	hồ chí minh|hcm
+hồ học lãm|hhl	an lạc|al	bình tân	hồ chí minh|hcm
+an dương vương|adv	an lạc|al	bình tân	hồ chí minh|hcm
+lý chiêu hoàng|lch	phường 10|p1	bình tân	hồ chí minh|hcm
+bùi hữu diện|bhd	an lạc a|ala	bình tân	hồ chí minh|hcm
+dương tự quán|dtq	an lạc a|ala	bình tân	hồ chí minh|hcm
+phùng tá chu|ptc	an lạc a|ala	bình tân	hồ chí minh|hcm
+hoàng hưng|hh	an lạc a|ala	bình tân	hồ chí minh|hcm
+hoàng văn hợp|hvh	an lạc a|ala	bình tân	hồ chí minh|hcm
+phan cát tựu|pct	an lạc a|ala	bình tân	hồ chí minh|hcm
+tên lửa|tl	an lạc a|ala	bình tân	hồ chí minh|hcm
+vũ hữu|vh	an lạc a|ala	bình tân	hồ chí minh|hcm
+kinh dương vương|kdv	an lạc a|ala	bình tân	hồ chí minh|hcm
+dương bá cung|dbc	an lạc a|ala	bình tân	hồ chí minh|hcm
+đoàn phú tứ|đpt	an lạc a|ala	bình tân	hồ chí minh|hcm
+tạ mỹ duật|tmd	an lạc a|ala	bình tân	hồ chí minh|hcm
+khiếu năng tĩnh|knt	an lạc a|ala	bình tân	hồ chí minh|hcm
+nguyễn thức tự|ntt	an lạc a|ala	bình tân	hồ chí minh|hcm
+phạm bành|pb	an lạc a|ala	bình tân	hồ chí minh|hcm
+nguyễn thức đường|ntđ	an lạc a|ala	bình tân	hồ chí minh|hcm
+nguyễn trọng trí|ntt	an lạc a|ala	bình tân	hồ chí minh|hcm
+an dương vương|adv	an lạc a|ala	bình tân	hồ chí minh|hcm
+bùi dương lịch|bdl	bình hưng hoà b|bhhb	bình tân	hồ chí minh|hcm
+tân kỳ tân quý|tktq	bình hưng hoà b|bhhb	bình tân	hồ chí minh|hcm
+tân kỳ tân quý|tktq	bình hưng hoà|bhh	bình tân	hồ chí minh|hcm
+kênh nước đen|knđ	bình hưng hoà|bhh	bình tân	hồ chí minh|hcm
+gò xoài|gx	bình hưng hoà|bhh	bình tân	hồ chí minh|hcm
+phạm đăng giảng|pđg	bình hưng hoà|bhh	bình tân	hồ chí minh|hcm
+lê trọng tấn|ltt	bình hưng hoà|bhh	bình tân	hồ chí minh|hcm
+tây lân|tl	bình trị đông a|btđa	bình tân	hồ chí minh|hcm
+ao đôi|ađ	bình trị đông a|btđa	bình tân	hồ chí minh|hcm
+mã lò|ml	bình trị đông a|btđa	bình tân	hồ chí minh|hcm
+bình trị đông|btđ	bình trị đông a|btđa	bình tân	hồ chí minh|hcm
+tân kỳ tân quý|tktq	bình hưng hoà a|bhha	bình tân	hồ chí minh|hcm
+miếu gò xoài|mgx	bình hưng hoà a|bhha	bình tân	hồ chí minh|hcm
+gò xoài|gx	bình hưng hoà a|bhha	bình tân	hồ chí minh|hcm
+mã lò|ml	bình hưng hoà a|bhha	bình tân	hồ chí minh|hcm
+ấp chiến lược|ấcl	bình hưng hoà a|bhha	bình tân	hồ chí minh|hcm
+bình long|bl	bình hưng hoà a|bhha	bình tân	hồ chí minh|hcm
+lô tư|lt	bình hưng hoà a|bhha	bình tân	hồ chí minh|hcm
+lê văn quới|lvq	bình trị đông|btđ	bình tân	hồ chí minh|hcm
+đình nghi xuân|đnx	bình trị đông|btđ	bình tân	hồ chí minh|hcm
+tân hoà đông|thđ	bình trị đông|btđ	bình tân	hồ chí minh|hcm
+trương phước phan|tpp	bình trị đông|btđ	bình tân	hồ chí minh|hcm
+đình tân khai|đtk	bình trị đông|btđ	bình tân	hồ chí minh|hcm
+an dương vương|adv	bình trị đông|btđ	bình tân	hồ chí minh|hcm
+hồ học lãm|hhl	bình trị đông b|btđb	bình tân	hồ chí minh|hcm
+kinh dương vương|kdv	bình trị đông b|btđb	bình tân	hồ chí minh|hcm
+trần văn giàu|tvg	bình trị đông b|btđb	bình tân	hồ chí minh|hcm
+đường sinco|đs	bình trị đông b|btđb	bình tân	hồ chí minh|hcm
+hồ văn long|hvl	tân tạo|tt	bình tân	hồ chí minh|hcm
+nguyễn triệu luật|ntl	tân tạo|tt	bình tân	hồ chí minh|hcm
+bia truyền thống|btt	tân tạo|tt	bình tân	hồ chí minh|hcm
+nguyễn cửu phú|ncp	tân tạo a|tta	bình tân	hồ chí minh|hcm
+nguyễn văn cự|nvc	tân tạo a|tta	bình tân	hồ chí minh|hcm
+bờ tuyến|bt	tân tạo a|tta	bình tân	hồ chí minh|hcm
+cầu kinh|ck	tân tạo a|tta	bình tân	hồ chí minh|hcm
+trần thanh mại|ttm	tân tạo a|tta	bình tân	hồ chí minh|hcm
+trần đại nghĩa|tđn	tân tạo a|tta	bình tân	hồ chí minh|hcm
+đường b|đb	tân tạo a|tta	bình tân	hồ chí minh|hcm
+đường c|đc	tân tạo a|tta	bình tân	hồ chí minh|hcm
+trần văn giàu|tvg	tân tạo a|tta	bình tân	hồ chí minh|hcm
+lộ tẻ|lt	tân tạo a|tta	bình tân	hồ chí minh|hcm
+nguyễn đình kiên|nđk	tân nhựt|tn	bình chánh	hồ chí minh|hcm
+thế lữ|tl	tân nhựt|tn	bình chánh	hồ chí minh|hcm
+trần đại nghĩa|tđn	tân nhựt|tn	bình chánh	hồ chí minh|hcm
+tôn thất thuyết|ttt	phường 18|p1	quận 4|q4	hồ chí minh|hcm
+trương đình hợi|tđh	phường 18|p1	quận 4|q4	hồ chí minh|hcm
+nguyễn thần hiến|nth	phường 18|p1	quận 4|q4	hồ chí minh|hcm
+nguyễn tất thành|ntt	phường 18|p1	quận 4|q4	hồ chí minh|hcm
+đoàn văn bơ|đvb	phường 18|p1	quận 4|q4	hồ chí minh|hcm
+tôn thất thuyết|ttt	phường 1|p1	quận 4|q4	hồ chí minh|hcm
+nguyễn khoái|nk	phường 1|p1	quận 4|q4	hồ chí minh|hcm
+bến vân đồn|bvđ	phường 1|p1	quận 4|q4	hồ chí minh|hcm
+đoàn văn bơ|đvb	phường 10|p1	quận 4|q4	hồ chí minh|hcm
+tôn đản|tđ	phường 10|p1	quận 4|q4	hồ chí minh|hcm
+vĩnh khánh|vk	phường 10|p1	quận 4|q4	hồ chí minh|hcm
+tôn đản|tđ	phường 13|p1	quận 4|q4	hồ chí minh|hcm
+xóm chiếu|xc	phường 13|p1	quận 4|q4	hồ chí minh|hcm
+ngô văn sở|nvs	phường 13|p1	quận 4|q4	hồ chí minh|hcm
+lê văn linh|lvl	phường 13|p1	quận 4|q4	hồ chí minh|hcm
+nguyễn tất thành|ntt	phường 13|p1	quận 4|q4	hồ chí minh|hcm
+đoàn văn bơ|đvb	phường 13|p1	quận 4|q4	hồ chí minh|hcm
+xóm chiếu|xc	phường 14|p1	quận 4|q4	hồ chí minh|hcm
+tôn thất thuyết|ttt	phường 15|p1	quận 4|q4	hồ chí minh|hcm
+tôn đản|tđ	phường 15|p1	quận 4|q4	hồ chí minh|hcm
+xóm chiếu|xc	phường 15|p1	quận 4|q4	hồ chí minh|hcm
+tôn thất thuyết|ttt	phường 16|p1	quận 4|q4	hồ chí minh|hcm
+xóm chiếu|xc	phường 16|p1	quận 4|q4	hồ chí minh|hcm
+đoàn văn bơ|đvb	phường 16|p1	quận 4|q4	hồ chí minh|hcm
+nguyễn khoái|nk	phường 2|p2	quận 4|q4	hồ chí minh|hcm
+bến vân đồn|bvđ	phường 2|p2	quận 4|q4	hồ chí minh|hcm
+khánh hội	phường 3|p3	quận 4|q4	hồ chí minh|hcm
+tôn thất thuyết|ttt	phường 3|p3	quận 4|q4	hồ chí minh|hcm
+vĩnh hội|vh	phường 3|p3	quận 4|q4	hồ chí minh|hcm
+tôn đản|tđ	phường 4|p4	quận 4|q4	hồ chí minh|hcm
+khánh hội	phường 4|p4	quận 4|q4	hồ chí minh|hcm
+tôn thất thuyết|ttt	phường 4|p4	quận 4|q4	hồ chí minh|hcm
+vĩnh hội|vh	phường 4|p4	quận 4|q4	hồ chí minh|hcm
+tân vĩnh|tv	phường 4|p4	quận 4|q4	hồ chí minh|hcm
+khánh hội	phường 5|p5	quận 4|q4	hồ chí minh|hcm
+hoàng diệu|hd	phường 5|p5	quận 4|q4	hồ chí minh|hcm
+bến vân đồn|bvđ	phường 5|p5	quận 4|q4	hồ chí minh|hcm
+bến vân đồn|bvđ	phường 6|p6	quận 4|q4	hồ chí minh|hcm
+khánh hội	phường 6|p6	quận 4|q4	hồ chí minh|hcm
+hoàng diệu|hd	phường 6|p6	quận 4|q4	hồ chí minh|hcm
+nguyễn hữu hào|nhh	phường 6|p6	quận 4|q4	hồ chí minh|hcm
+tân vĩnh|tv	phường 6|p6	quận 4|q4	hồ chí minh|hcm
+tôn đản|tđ	phường 8|p8	quận 4|q4	hồ chí minh|hcm
+hoàng diệu|hd	phường 8|p8	quận 4|q4	hồ chí minh|hcm
+vĩnh khánh|vk	phường 8|p8	quận 4|q4	hồ chí minh|hcm
+bến vân đồn|bvđ	phường 8|p8	quận 4|q4	hồ chí minh|hcm
+bến vân đồn|bvđ	phường 9|p9	quận 4|q4	hồ chí minh|hcm
+hoàng diệu|hd	phường 9|p9	quận 4|q4	hồ chí minh|hcm
+nguyễn hữu hào|nhh	phường 9|p9	quận 4|q4	hồ chí minh|hcm
+đoàn văn bơ|đvb	phường 9|p9	quận 4|q4	hồ chí minh|hcm
+vĩnh khánh|vk	phường 9|p9	quận 4|q4	hồ chí minh|hcm
+cầu bàu đưng|cbđ	an nhơn tây|ant	củ chi	hồ chí minh|hcm
+gò nổi a|gna	an nhơn tây|ant	củ chi	hồ chí minh|hcm
+nguyễn văn tiệp|nvt	an phú|ap	củ chi	hồ chí minh|hcm
+nguyễn văn hoài|nvh	tân an hội|tah	củ chi	hồ chí minh|hcm
+ấp xóm huế|ấxh	tân an hội|tah	củ chi	hồ chí minh|hcm
+bàu tre|bt	tân an hội|tah	củ chi	hồ chí minh|hcm
+bến than|bt	hoà phú|hp	củ chi	hồ chí minh|hcm
+ấp bàu chứa|ấbc	nhuận đức|nđ	củ chi	hồ chí minh|hcm
+bến đình|bđ	nhuận đức|nđ	củ chi	hồ chí minh|hcm
+ấp ngã tư|ấnt	nhuận đức|nđ	củ chi	hồ chí minh|hcm
+cá lăng|cl	phú hoà đông|phđ	củ chi	hồ chí minh|hcm
+nguyễn thị nê|ntn	phú hoà đông|phđ	củ chi	hồ chí minh|hcm
+phú mỹ|pm	phú hoà đông|phđ	củ chi	hồ chí minh|hcm
+phú hiệp	phú mỹ hưng|pmh	củ chi	hồ chí minh|hcm
+ba sa|bs	phước hiệp	củ chi	hồ chí minh|hcm
+cây trôm|ct	phước hiệp	củ chi	hồ chí minh|hcm
+trung viết|tv	phước hiệp	củ chi	hồ chí minh|hcm
+cây trôm mỹ khánh|ctmk	phước hiệp	củ chi	hồ chí minh|hcm
+ấp chợ|ấc	phước thạnh|pt	củ chi	hồ chí minh|hcm
+trần văn chẩm|tvc	phước vĩnh an|pva	củ chi	hồ chí minh|hcm
+ấp mỹ khánh b|ấmkb	thái mỹ|tm	củ chi	hồ chí minh|hcm
+bàu trâm|bt	trung an|ta	củ chi	hồ chí minh|hcm
+ấp gia bẹ|ấgb	trung lập hạ|tlh	củ chi	hồ chí minh|hcm
+trung hưng|th	trung lập thượng|tlt	củ chi	hồ chí minh|hcm
+ấp hậu|ấh	tân thông hội|tth	củ chi	hồ chí minh|hcm
+ấp thượng|ất	tân thông hội|tth	củ chi	hồ chí minh|hcm
+rach ap tien|rat	tân thông hội|tth	củ chi	hồ chí minh|hcm
+ấp chợ|ấc	tân phú trung|tpt	củ chi	hồ chí minh|hcm
+cây da|cd	tân phú trung|tpt	củ chi	hồ chí minh|hcm
+láng cát giồng sao|lcgs	tân phú trung|tpt	củ chi	hồ chí minh|hcm
+ấp đình|ấđ	tân xuân|tx	hóc môn	hồ chí minh|hcm
+tô ký|tk	tân xuân|tx	hóc môn	hồ chí minh|hcm
+trung chánh|tc	tân xuân|tx	hóc môn	hồ chí minh|hcm
+lê thị hà|lth	tân xuân|tx	hóc môn	hồ chí minh|hcm
+láng the|lt	tân thạnh tây|ttt	củ chi	hồ chí minh|hcm
+võ văn bích|vvb	tân thạnh đông|ttđ	củ chi	hồ chí minh|hcm
+huỳnh văn bánh|hvb	phường 17|p1	phú nhuận	hồ chí minh|hcm
+phan đình phùng|pđp	phường 17|p1	phú nhuận	hồ chí minh|hcm
+ngô thời nhiệm|ntn	phường 17|p1	phú nhuận	hồ chí minh|hcm
+cao thắng|ct	phường 17|p1	phú nhuận	hồ chí minh|hcm
+đào duy từ|đdt	phường 17|p1	phú nhuận	hồ chí minh|hcm
+nguyễn trường tộ|ntt	phường 17|p1	phú nhuận	hồ chí minh|hcm
+hoàng văn thụ|hvt	phường 15|p1	phú nhuận	hồ chí minh|hcm
+huỳnh văn bánh|hvb	phường 15|p1	phú nhuận	hồ chí minh|hcm
+nguyễn trọng tuyển|ntt	phường 15|p1	phú nhuận	hồ chí minh|hcm
+nguyễn văn trỗi|nvt	phường 15|p1	phú nhuận	hồ chí minh|hcm
+duy tân|dt	phường 15|p1	phú nhuận	hồ chí minh|hcm
+phan đình phùng|pđp	phường 15|p1	phú nhuận	hồ chí minh|hcm
+trần huy liệu|thl	phường 15|p1	phú nhuận	hồ chí minh|hcm
+bùi văn thêm|bvt	phường 9|p9	phú nhuận	hồ chí minh|hcm
+hồ văn huê|hvh	phường 9|p9	phú nhuận	hồ chí minh|hcm
+phổ quang|pq	phường 9|p9	phú nhuận	hồ chí minh|hcm
+đào duy anh|đda	phường 9|p9	phú nhuận	hồ chí minh|hcm
+trần khắc chân|tkc	phường 9|p9	phú nhuận	hồ chí minh|hcm
+nguyễn kiệm|nk	phường 9|p9	phú nhuận	hồ chí minh|hcm
+hoàng minh giám|hmg	phường 9|p9	phú nhuận	hồ chí minh|hcm
+hồng hà|hh	phường 9|p9	phú nhuận	hồ chí minh|hcm
+chiến thắng|ct	phường 9|p9	phú nhuận	hồ chí minh|hcm
+đoàn thị điểm|đtđ	phường 1|p1	phú nhuận	hồ chí minh|hcm
+phan đăng lưu|pđl	phường 1|p1	phú nhuận	hồ chí minh|hcm
+phan đình phùng|pđp	phường 1|p1	phú nhuận	hồ chí minh|hcm
+hồ biểu chánh|hbc	phường 11|p1	phú nhuận	hồ chí minh|hcm
+nguyễn văn trỗi|nvt	phường 11|p1	phú nhuận	hồ chí minh|hcm
+hoa hồng|hh	phường 2|p2	phú nhuận	hồ chí minh|hcm
+hoa phượng|hp	phường 2|p2	phú nhuận	hồ chí minh|hcm
+cù lao|cl	phường 2|p2	phú nhuận	hồ chí minh|hcm
+trường sa|ts	phường 2|p2	phú nhuận	hồ chí minh|hcm
+phan xích long|pxl	phường 2|p2	phú nhuận	hồ chí minh|hcm
+phan đình phùng|pđp	phường 2|p2	phú nhuận	hồ chí minh|hcm
+hoa lan|hl	phường 2|p2	phú nhuận	hồ chí minh|hcm
+hoa đào|hđ	phường 2|p2	phú nhuận	hồ chí minh|hcm
+trần kế xương|tkx	phường 2|p2	phú nhuận	hồ chí minh|hcm
+hoa mai|hm	phường 2|p2	phú nhuận	hồ chí minh|hcm
+huỳnh văn bánh|hvb	phường 12|p1	phú nhuận	hồ chí minh|hcm
+trần huy liệu|thl	phường 12|p1	phú nhuận	hồ chí minh|hcm
+nguyễn văn trỗi|nvt	phường 12|p1	phú nhuận	hồ chí minh|hcm
+lê văn sỹ|lvs	phường 13|p1	phú nhuận	hồ chí minh|hcm
+huỳnh văn bánh|hvb	phường 13|p1	phú nhuận	hồ chí minh|hcm
+huỳnh văn bánh|hvb	phường 14|p1	phú nhuận	hồ chí minh|hcm
+đặng văn ngữ|đvn	phường 14|p1	phú nhuận	hồ chí minh|hcm
+phan đăng lưu|pđl	phường 3|p3	phú nhuận	hồ chí minh|hcm
+phan xích long|pxl	phường 3|p3	phú nhuận	hồ chí minh|hcm
+thích quảng đức|tqđ	phường 3|p3	phú nhuận	hồ chí minh|hcm
+phùng văn cung|pvc	phường 3|p3	phú nhuận	hồ chí minh|hcm
+nguyễn kiệm|nk	phường 3|p3	phú nhuận	hồ chí minh|hcm
+thích quảng đức|tqđ	phường 4|p4	phú nhuận	hồ chí minh|hcm
+phùng văn cung|pvc	phường 4|p4	phú nhuận	hồ chí minh|hcm
+lê tự tài|ltt	phường 4|p4	phú nhuận	hồ chí minh|hcm
+nguyễn đình chiểu|nđc	phường 4|p4	phú nhuận	hồ chí minh|hcm
+nguyễn kiệm|nk	phường 4|p4	phú nhuận	hồ chí minh|hcm
+phan đăng lưu|pđl	phường 5|p5	phú nhuận	hồ chí minh|hcm
+thích quảng đức|tqđ	phường 5|p5	phú nhuận	hồ chí minh|hcm
+nguyễn thượng hiền|nth	phường 5|p5	phú nhuận	hồ chí minh|hcm
+hoàng hoa thám|hht	phường 5|p5	phú nhuận	hồ chí minh|hcm
+nguyễn văn đậu|nvđ	phường 5|p5	phú nhuận	hồ chí minh|hcm
+hoàng văn thụ|hvt	phường 8|p8	phú nhuận	hồ chí minh|hcm
+nguyễn đình chính|nđc	phường 8|p8	phú nhuận	hồ chí minh|hcm
+trương quốc dung|tqd	phường 8|p8	phú nhuận	hồ chí minh|hcm
+nguyễn trọng tuyển|ntt	phường 8|p8	phú nhuận	hồ chí minh|hcm
+nguyễn văn trỗi|nvt	phường 8|p8	phú nhuận	hồ chí minh|hcm
+trần huy liệu|thl	phường 8|p8	phú nhuận	hồ chí minh|hcm
+hoàng đạo thuý|hđt	an phú tây|apt	bình chánh	hồ chí minh|hcm
+bảy tấn|bt	an phú tây|apt	bình chánh	hồ chí minh|hcm
+trịnh như khuê|tnk	bình chánh|bc	bình chánh	hồ chí minh|hcm
+đinh đức thiện|đđt	bình chánh|bc	bình chánh	hồ chí minh|hcm
+cao lỗ|cl	bình hưng|bh	bình chánh	hồ chí minh|hcm
+nguyễn văn linh|nvl	bình hưng|bh	bình chánh	hồ chí minh|hcm
+phạm hùng	bình hưng|bh	bình chánh	hồ chí minh|hcm
+lương ngang|ln	bình lợi|bl	bình chánh	hồ chí minh|hcm
+vườn thơm|vt	bình lợi|bl	bình chánh	hồ chí minh|hcm
+đoàn nguyễn tuấn|đnt	hưng long|hl	bình chánh	hồ chí minh|hcm
+trần đại nghĩa|tđn	lê minh xuân|lmx	bình chánh	hồ chí minh|hcm
+lê đình chi|lđc	lê minh xuân|lmx	bình chánh	hồ chí minh|hcm
+mai bá hương|mbh	lê minh xuân|lmx	bình chánh	hồ chí minh|hcm
+thích thiện hoà|tth	lê minh xuân|lmx	bình chánh	hồ chí minh|hcm
+kinh a|ka	lê minh xuân|lmx	bình chánh	hồ chí minh|hcm
+trần văn giàu|tvg	lê minh xuân|lmx	bình chánh	hồ chí minh|hcm
+trịnh quang nghị|tqn	phong phú|pp	bình chánh	hồ chí minh|hcm
+nguyễn văn linh|nvl	phong phú|pp	bình chánh	hồ chí minh|hcm
+rạch bà lớn|rbl	phong phú|pp	bình chánh	hồ chí minh|hcm
+an hạ|ah	phạm văn hai|pvh	bình chánh	hồ chí minh|hcm
+trần văn giàu|tvg	phạm văn hai|pvh	bình chánh	hồ chí minh|hcm
+vĩnh lộc|vl	phạm văn hai|pvh	bình chánh	hồ chí minh|hcm
+thanh niên|tn	phạm văn hai|pvh	bình chánh	hồ chí minh|hcm
+nguyễn cửu phú|ncp	tân kiên|tk	bình chánh	hồ chí minh|hcm
+cây bàng|cb	tân kiên|tk	bình chánh	hồ chí minh|hcm
+rạch cái trung|rct	tân kiên|tk	bình chánh	hồ chí minh|hcm
+trần đại nghĩa|tđn	tân kiên|tk	bình chánh	hồ chí minh|hcm
+hưng nhơn|hn	tân kiên|tk	bình chánh	hồ chí minh|hcm
+huỳnh bá chánh|hbc	tân kiên|tk	bình chánh	hồ chí minh|hcm
+dương đình cúc|dđc	tân kiên|tk	bình chánh	hồ chí minh|hcm
+đinh đức thiện|đđt	tân quý tây|tqt	bình chánh	hồ chí minh|hcm
+đoàn nguyễn tuấn|đnt	tân quý tây|tqt	bình chánh	hồ chí minh|hcm
+tân túc|tt	tân túc|tt	bình chánh	hồ chí minh|hcm
+bùi thanh khiết|btk	tân túc|tt	bình chánh	hồ chí minh|hcm
+kenh trung uong|ktu	xã vĩnh lộc a|xvla	bình chánh	hồ chí minh|hcm
+thới hoà	xã vĩnh lộc a|xvla	bình chánh	hồ chí minh|hcm
+nguyễn thị sưa|nts	xã vĩnh lộc a|xvla	bình chánh	hồ chí minh|hcm
+phạm văn sáng|pvs	xã vĩnh lộc a|xvla	bình chánh	hồ chí minh|hcm
+vĩnh lộc|vl	xã vĩnh lộc a|xvla	bình chánh	hồ chí minh|hcm
+nữ dân công|ndc	xã vĩnh lộc a|xvla	bình chánh	hồ chí minh|hcm
+quách điêu|qđ	xã vĩnh lộc a|xvla	bình chánh	hồ chí minh|hcm
+lê thị dung|ltd	xã vĩnh lộc a|xvla	bình chánh	hồ chí minh|hcm
+phan thị tư|ptt	xã vĩnh lộc a|xvla	bình chánh	hồ chí minh|hcm
+kênh trung ương|ktư	xã vĩnh lộc a|xvla	bình chánh	hồ chí minh|hcm
+cây cám|cc	vĩnh lộc b|vlb	bình chánh	hồ chí minh|hcm
+lại hùng cường|lhc	vĩnh lộc b|vlb	bình chánh	hồ chí minh|hcm
+kênh trung ương|ktư	vĩnh lộc b|vlb	bình chánh	hồ chí minh|hcm
+nguyễn thị tú|ntt	vĩnh lộc b|vlb	bình chánh	hồ chí minh|hcm
+võ văn vân|vvv	vĩnh lộc b|vlb	bình chánh	hồ chí minh|hcm
+linh hoà tự|lht	đa phước|đp	bình chánh	hồ chí minh|hcm
+bà cả|bc	đa phước|đp	bình chánh	hồ chí minh|hcm
+trần văn kiểu|tvk	phường 10|p1	quận 6|q6	hồ chí minh|hcm
+song hành|sh	phường 10|p1	quận 6|q6	hồ chí minh|hcm
+bình phú|bp	phường 10|p1	quận 6|q6	hồ chí minh|hcm
+vành đai|vđ	phường 10|p1	quận 6|q6	hồ chí minh|hcm
+nguyễn văn luông|nvl	phường 10|p1	quận 6|q6	hồ chí minh|hcm
+an dương vương|adv	phường 10|p1	quận 6|q6	hồ chí minh|hcm
+lý chiêu hoàng|lch	phường 10|p1	quận 6|q6	hồ chí minh|hcm
+lê trực|lt	phường 1|p1	quận 6|q6	hồ chí minh|hcm
+gia phú|gp	phường 1|p1	quận 6|q6	hồ chí minh|hcm
+phạm đình hổ|pđh	phường 1|p1	quận 6|q6	hồ chí minh|hcm
+ngô nhân tịnh|nnt	phường 1|p1	quận 6|q6	hồ chí minh|hcm
+bến bãi sậy|bbs	phường 1|p1	quận 6|q6	hồ chí minh|hcm
+trần văn kiểu|tvk	phường 11|p1	quận 6|q6	hồ chí minh|hcm
+chợ lớn|cl	phường 11|p1	quận 6|q6	hồ chí minh|hcm
+bình phú|bp	phường 11|p1	quận 6|q6	hồ chí minh|hcm
+nguyễn văn luông|nvl	phường 11|p1	quận 6|q6	hồ chí minh|hcm
+hậu giang|hg	phường 11|p1	quận 6|q6	hồ chí minh|hcm
+an dương vương|adv	phường 11|p1	quận 6|q6	hồ chí minh|hcm
+nguyễn văn luông|nvl	phường 12|p1	quận 6|q6	hồ chí minh|hcm
+hồng bàng|hb	phường 12|p1	quận 6|q6	hồ chí minh|hcm
+kinh dương vương|kdv	phường 13|p1	quận 6|q6	hồ chí minh|hcm
+tân hoà đông|thđ	phường 13|p1	quận 6|q6	hồ chí minh|hcm
+bà hom|bh	phường 13|p1	quận 6|q6	hồ chí minh|hcm
+đặng nguyên cẩn|đnc	phường 13|p1	quận 6|q6	hồ chí minh|hcm
+an dương vương|adv	phường 13|p1	quận 6|q6	hồ chí minh|hcm
+tân hoà đông|thđ	phường 14|p1	quận 6|q6	hồ chí minh|hcm
+an dương vương|adv	phường 14|p1	quận 6|q6	hồ chí minh|hcm
+tân hoá|th	phường 14|p1	quận 6|q6	hồ chí minh|hcm
+đặng nguyên cẩn|đnc	phường 14|p1	quận 6|q6	hồ chí minh|hcm
+mai xuân thưởng|mxt	phường 2|p2	quận 6|q6	hồ chí minh|hcm
+lê quang sung|lqs	phường 2|p2	quận 6|q6	hồ chí minh|hcm
+tháp mười|tm	phường 2|p2	quận 6|q6	hồ chí minh|hcm
+lê tấn kế|ltk	phường 2|p2	quận 6|q6	hồ chí minh|hcm
+nguyễn thị nhỏ|ntn	phường 2|p2	quận 6|q6	hồ chí minh|hcm
+phan văn khoẻ|pvk	phường 2|p2	quận 6|q6	hồ chí minh|hcm
+nguyễn hữu thận|nht	phường 2|p2	quận 6|q6	hồ chí minh|hcm
+ngô nhân tịnh|nnt	phường 2|p2	quận 6|q6	hồ chí minh|hcm
+phạm đình hổ|pđh	phường 2|p2	quận 6|q6	hồ chí minh|hcm
+hậu giang|hg	phường 2|p2	quận 6|q6	hồ chí minh|hcm
+trần bình|tb	phường 2|p2	quận 6|q6	hồ chí minh|hcm
+chu văn an|cva	phường 2|p2	quận 6|q6	hồ chí minh|hcm
+bình tiên|bt	phường 3|p3	quận 6|q6	hồ chí minh|hcm
+phạm văn chí|pvc	phường 3|p3	quận 6|q6	hồ chí minh|hcm
+phạm phú thứ|ppt	phường 3|p3	quận 6|q6	hồ chí minh|hcm
+phạm văn chí|pvc	phường 4|p4	quận 6|q6	hồ chí minh|hcm
+phạm phú thứ|ppt	phường 4|p4	quận 6|q6	hồ chí minh|hcm
+bến bãi sậy|bbs	phường 4|p4	quận 6|q6	hồ chí minh|hcm
+mai xuân thưởng|mxt	phường 5|p5	quận 6|q6	hồ chí minh|hcm
+phan văn khoẻ|pvk	phường 5|p5	quận 6|q6	hồ chí minh|hcm
+minh phụng|mp	phường 5|p5	quận 6|q6	hồ chí minh|hcm
+lò gốm|lg	phường 5|p5	quận 6|q6	hồ chí minh|hcm
+hậu giang|hg	phường 5|p5	quận 6|q6	hồ chí minh|hcm
+mai xuân thưởng|mxt	phường 6|p6	quận 6|q6	hồ chí minh|hcm
+lê quang sung|lqs	phường 6|p6	quận 6|q6	hồ chí minh|hcm
+hồng bàng|hb	phường 6|p6	quận 6|q6	hồ chí minh|hcm
+minh phụng|mp	phường 6|p6	quận 6|q6	hồ chí minh|hcm
+phạm đình hổ|pđh	phường 6|p6	quận 6|q6	hồ chí minh|hcm
+hậu giang|hg	phường 6|p6	quận 6|q6	hồ chí minh|hcm
+bình tiên|bt	phường 7|p7	quận 6|q6	hồ chí minh|hcm
+văn thân|vt	phường 7|p7	quận 6|q6	hồ chí minh|hcm
+phạm văn chí|pvc	phường 7|p7	quận 6|q6	hồ chí minh|hcm
+lò gốm|lg	phường 7|p7	quận 6|q6	hồ chí minh|hcm
+bà lài|bl	phường 8|p8	quận 6|q6	hồ chí minh|hcm
+bình tiên|bt	phường 8|p8	quận 6|q6	hồ chí minh|hcm
+lò gốm|lg	phường 8|p8	quận 6|q6	hồ chí minh|hcm
+lê quang sung|lqs	phường 9|p9	quận 6|q6	hồ chí minh|hcm
+hồng bàng|hb	phường 9|p9	quận 6|q6	hồ chí minh|hcm
+nguyễn phạm tuân|npt	phường 9|p9	quận 6|q6	hồ chí minh|hcm
+minh phụng|mp	phường 9|p9	quận 6|q6	hồ chí minh|hcm
+lò gốm|lg	phường 9|p9	quận 6|q6	hồ chí minh|hcm
+bà ký|bk	phường 9|p9	quận 6|q6	hồ chí minh|hcm
+hoàng lê kha|hlk	phường 9|p9	quận 6|q6	hồ chí minh|hcm
+tạ uyên|tu	phường 4|p4	quận 11|q1	hồ chí minh|hcm
+đỗ ngọc thạnh|đnt	phường 4|p4	quận 11|q1	hồ chí minh|hcm
+đặng minh khiêm|đmk	phường 4|p4	quận 11|q1	hồ chí minh|hcm
+dương tử giang|dtg	phường 4|p4	quận 11|q1	hồ chí minh|hcm
+nguyễn thị nhỏ|ntn	phường 4|p4	quận 11|q1	hồ chí minh|hcm
+nguyễn chí thanh|nct	phường 4|p4	quận 11|q1	hồ chí minh|hcm
+phó cơ điều|pcđ	phường 4|p4	quận 11|q1	hồ chí minh|hcm
+tân khai|tk	phường 4|p4	quận 11|q1	hồ chí minh|hcm
+hàn hải nguyên|hhn	phường 1|p1	quận 11|q1	hồ chí minh|hcm
+tân hoá|th	phường 1|p1	quận 11|q1	hồ chí minh|hcm
+phú thọ|pt	phường 1|p1	quận 11|q1	hồ chí minh|hcm
+lạc long quân|llq	phường 10|p1	quận 11|q1	hồ chí minh|hcm
+bình thới|bt	phường 10|p1	quận 11|q1	hồ chí minh|hcm
+minh phụng|mp	phường 10|p1	quận 11|q1	hồ chí minh|hcm
+ông ích khiêm|ôík	phường 10|p1	quận 11|q1	hồ chí minh|hcm
+hàn hải nguyên|hhn	phường 10|p1	quận 11|q1	hồ chí minh|hcm
+lò siêu|ls	phường 11|p1	quận 11|q1	hồ chí minh|hcm
+đội cung|đc	phường 11|p1	quận 11|q1	hồ chí minh|hcm
+lãnh binh thăng|lbt	phường 11|p1	quận 11|q1	hồ chí minh|hcm
+lê thị bạch cát|ltbc	phường 11|p1	quận 11|q1	hồ chí minh|hcm
+lê đại hành|lđh	phường 11|p1	quận 11|q1	hồ chí minh|hcm
+công chúa ngọc hân|ccnh	phường 12|p1	quận 11|q1	hồ chí minh|hcm
+huyện toại|ht	phường 12|p1	quận 11|q1	hồ chí minh|hcm
+lò siêu|ls	phường 12|p1	quận 11|q1	hồ chí minh|hcm
+lãnh binh thăng|lbt	phường 12|p1	quận 11|q1	hồ chí minh|hcm
+tuệ tĩnh|tt	phường 12|p1	quận 11|q1	hồ chí minh|hcm
+tôn thất hiệp|tth	phường 12|p1	quận 11|q1	hồ chí minh|hcm
+ba tháng hai|bth	phường 12|p1	quận 11|q1	hồ chí minh|hcm
+công chúa ngọc hân|ccnh	phường 13|p1	quận 11|q1	hồ chí minh|hcm
+lãnh binh thăng|lbt	phường 13|p1	quận 11|q1	hồ chí minh|hcm
+tống lung|tl	phường 13|p1	quận 11|q1	hồ chí minh|hcm
+tôn thất hiệp|tth	phường 13|p1	quận 11|q1	hồ chí minh|hcm
+lê thị bạch cát|ltbc	phường 13|p1	quận 11|q1	hồ chí minh|hcm
+lê tung|lt	phường 13|p1	quận 11|q1	hồ chí minh|hcm
+lê đại hành|lđh	phường 13|p1	quận 11|q1	hồ chí minh|hcm
+bình thới|bt	phường 14|p1	quận 11|q1	hồ chí minh|hcm
+âu cơ|âc	phường 14|p1	quận 11|q1	hồ chí minh|hcm
+ông ích khiêm|ôík	phường 14|p1	quận 11|q1	hồ chí minh|hcm
+thiên phước|tp	phường 15|p1	quận 11|q1	hồ chí minh|hcm
+lý thường kiệt|ltk	phường 15|p1	quận 11|q1	hồ chí minh|hcm
+lê đại hành|lđh	phường 15|p1	quận 11|q1	hồ chí minh|hcm
+hồng bàng|hb	phường 16|p1	quận 11|q1	hồ chí minh|hcm
+phan xích long|pxl	phường 16|p1	quận 11|q1	hồ chí minh|hcm
+nguyễn thị nhỏ|ntn	phường 16|p1	quận 11|q1	hồ chí minh|hcm
+hàn hải nguyên|hhn	phường 16|p1	quận 11|q1	hồ chí minh|hcm
+nguyễn chí thanh|nct	phường 16|p1	quận 11|q1	hồ chí minh|hcm
+thái phiên|tp	phường 16|p1	quận 11|q1	hồ chí minh|hcm
+ba tháng hai|bth	phường 16|p1	quận 11|q1	hồ chí minh|hcm
+hàn hải nguyên|hhn	phường 2|p2	quận 11|q1	hồ chí minh|hcm
+minh phụng|mp	phường 2|p2	quận 11|q1	hồ chí minh|hcm
+thái phiên|tp	phường 2|p2	quận 11|q1	hồ chí minh|hcm
+phú thọ|pt	phường 2|p2	quận 11|q1	hồ chí minh|hcm
+ba tháng hai|bth	phường 2|p2	quận 11|q1	hồ chí minh|hcm
+hoà bình|hb	phường 3|p3	quận 11|q1	hồ chí minh|hcm
+tân hoá|th	phường 3|p3	quận 11|q1	hồ chí minh|hcm
+lạc long quân|llq	phường 3|p3	quận 11|q1	hồ chí minh|hcm
+tống văn trân|tvt	phường 5|p5	quận 11|q1	hồ chí minh|hcm
+hoà bình|hb	phường 5|p5	quận 11|q1	hồ chí minh|hcm
+trịnh đình trọng|tđt	phường 5|p5	quận 11|q1	hồ chí minh|hcm
+âu cơ|âc	phường 5|p5	quận 11|q1	hồ chí minh|hcm
+trần quý|tq	phường 6|p6	quận 11|q1	hồ chí minh|hcm
+nguyễn thị nhỏ|ntn	phường 6|p6	quận 11|q1	hồ chí minh|hcm
+tân phước|tp	phường 6|p6	quận 11|q1	hồ chí minh|hcm
+phó cơ điều|pcđ	phường 6|p6	quận 11|q1	hồ chí minh|hcm
+ba tháng hai|bth	phường 6|p6	quận 11|q1	hồ chí minh|hcm
+lê đại hành|lđh	phường 6|p6	quận 11|q1	hồ chí minh|hcm
+lý thường kiệt|ltk	phường 7|p7	quận 11|q1	hồ chí minh|hcm
+hoà hảo|hh	phường 7|p7	quận 11|q1	hồ chí minh|hcm
+tân phước|tp	phường 7|p7	quận 11|q1	hồ chí minh|hcm
+nhật tảo|nt	phường 7|p7	quận 11|q1	hồ chí minh|hcm
+lê đại hành|lđh	phường 7|p7	quận 11|q1	hồ chí minh|hcm
+lò siêu|ls	phường 8|p8	quận 11|q1	hồ chí minh|hcm
+lãnh binh thăng|lbt	phường 8|p8	quận 11|q1	hồ chí minh|hcm
+đội cung|đc	phường 8|p8	quận 11|q1	hồ chí minh|hcm
+xóm đất|xđ	phường 8|p8	quận 11|q1	hồ chí minh|hcm
+hàn hải nguyên|hhn	phường 8|p8	quận 11|q1	hồ chí minh|hcm
+thái phiên|tp	phường 8|p8	quận 11|q1	hồ chí minh|hcm
+dương đình nghệ|dđn	phường 8|p8	quận 11|q1	hồ chí minh|hcm
+lãnh binh thăng|lbt	phường 9|p9	quận 11|q1	hồ chí minh|hcm
+xóm đất|xđ	phường 9|p9	quận 11|q1	hồ chí minh|hcm
+bình thới|bt	phường 9|p9	quận 11|q1	hồ chí minh|hcm
+minh phụng|mp	phường 9|p9	quận 11|q1	hồ chí minh|hcm
+hàn hải nguyên|hhn	phường 9|p9	quận 11|q1	hồ chí minh|hcm
+thái phiên|tp	phường 9|p9	quận 11|q1	hồ chí minh|hcm
+trần tuấn khải|ttk	phường 5|p5	quận 5|q5	hồ chí minh|hcm
+bạch vân|bv	phường 5|p5	quận 5|q5	hồ chí minh|hcm
+nghĩa thục|nt	phường 5|p5	quận 5|q5	hồ chí minh|hcm
+hàm tử|ht	phường 5|p5	quận 5|q5	hồ chí minh|hcm
+đào tấn|đt	phường 5|p5	quận 5|q5	hồ chí minh|hcm
+chiêu anh các|cac	phường 5|p5	quận 5|q5	hồ chí minh|hcm
+huỳnh mẫn đạt|hmđ	phường 5|p5	quận 5|q5	hồ chí minh|hcm
+nhiêu tâm|nt	phường 5|p5	quận 5|q5	hồ chí minh|hcm
+trần hưng đạo|thđ	phường 5|p5	quận 5|q5	hồ chí minh|hcm
+bùi hữu nghĩa|bhn	phường 5|p5	quận 5|q5	hồ chí minh|hcm
+nguyễn an khương|nak	phường 13|p1	quận 5|q5	hồ chí minh|hcm
+vạn kiếp|vk	phường 13|p1	quận 5|q5	hồ chí minh|hcm
+hải thượng lãn ông|htlô	phường 13|p1	quận 5|q5	hồ chí minh|hcm
+vũ chí hiếu|vch	phường 13|p1	quận 5|q5	hồ chí minh|hcm
+võ văn kiệt|vvk	phường 13|p1	quận 5|q5	hồ chí minh|hcm
+trịnh hoài đức|thđ	phường 13|p1	quận 5|q5	hồ chí minh|hcm
+phan văn khoẻ|pvk	phường 13|p1	quận 5|q5	hồ chí minh|hcm
+nguyễn thi|nt	phường 13|p1	quận 5|q5	hồ chí minh|hcm
+gia phú|gp	phường 13|p1	quận 5|q5	hồ chí minh|hcm
+vạn tượng|vt	phường 13|p1	quận 5|q5	hồ chí minh|hcm
+lê quang định|lqđ	phường 13|p1	quận 5|q5	hồ chí minh|hcm
+phùng hưng	phường 13|p1	quận 5|q5	hồ chí minh|hcm
+mạc cửu|mc	phường 13|p1	quận 5|q5	hồ chí minh|hcm
+mạc thiên tích|mtt	phường 11|p1	quận 5|q5	hồ chí minh|hcm
+lương nhữ học|lnh	phường 11|p1	quận 5|q5	hồ chí minh|hcm
+châu văn liêm|cvl	phường 11|p1	quận 5|q5	hồ chí minh|hcm
+trần hưng đạo b|thđb	phường 11|p1	quận 5|q5	hồ chí minh|hcm
+tản đà|tđ	phường 11|p1	quận 5|q5	hồ chí minh|hcm
+ký hoà|kh	phường 11|p1	quận 5|q5	hồ chí minh|hcm
+hồng bàng|hb	phường 11|p1	quận 5|q5	hồ chí minh|hcm
+triệu quang phục|tqp	phường 11|p1	quận 5|q5	hồ chí minh|hcm
+nguyễn trãi|nt	phường 11|p1	quận 5|q5	hồ chí minh|hcm
+trần hưng đạo|thđ	phường 11|p1	quận 5|q5	hồ chí minh|hcm
+nguyễn án|ná	phường 11|p1	quận 5|q5	hồ chí minh|hcm
+phù đổng thiên vương|pđtv	phường 11|p1	quận 5|q5	hồ chí minh|hcm
+nguyễn văn cừ|nvc	phường 1|p1	quận 5|q5	hồ chí minh|hcm
+hàm tử|ht	phường 1|p1	quận 5|q5	hồ chí minh|hcm
+cao đạt|cđ	phường 1|p1	quận 5|q5	hồ chí minh|hcm
+nguyễn biểu|nb	phường 1|p1	quận 5|q5	hồ chí minh|hcm
+huỳnh mẫn đạt|hmđ	phường 1|p1	quận 5|q5	hồ chí minh|hcm
+võ văn kiệt|vvk	phường 1|p1	quận 5|q5	hồ chí minh|hcm
+trần hưng đạo|thđ	phường 1|p1	quận 5|q5	hồ chí minh|hcm
+trần bình trọng|tbt	phường 1|p1	quận 5|q5	hồ chí minh|hcm
+phan huy chú|phc	phường 10|p1	quận 5|q5	hồ chí minh|hcm
+châu văn liêm|cvl	phường 10|p1	quận 5|q5	hồ chí minh|hcm
+lương nhữ học|lnh	phường 10|p1	quận 5|q5	hồ chí minh|hcm
+hàm tử|ht	phường 10|p1	quận 5|q5	hồ chí minh|hcm
+lưu xuân tín|lxt	phường 10|p1	quận 5|q5	hồ chí minh|hcm
+tản đà|tđ	phường 10|p1	quận 5|q5	hồ chí minh|hcm
+hải thượng lãn ông|htlô	phường 10|p1	quận 5|q5	hồ chí minh|hcm
+trần tướng công|ttc	phường 10|p1	quận 5|q5	hồ chí minh|hcm
+triệu quang phục|tqp	phường 10|p1	quận 5|q5	hồ chí minh|hcm
+võ văn kiệt|vvk	phường 10|p1	quận 5|q5	hồ chí minh|hcm
+phan phú tiên|ppt	phường 10|p1	quận 5|q5	hồ chí minh|hcm
+tân hàng|th	phường 10|p1	quận 5|q5	hồ chí minh|hcm
+xóm chỉ|xc	phường 10|p1	quận 5|q5	hồ chí minh|hcm
+đỗ văn sửu|đvs	phường 10|p1	quận 5|q5	hồ chí minh|hcm
+trần hoà|th	phường 10|p1	quận 5|q5	hồ chí minh|hcm
+trần hưng đạo|thđ	phường 10|p1	quận 5|q5	hồ chí minh|hcm
+trần điện|tđ	phường 10|p1	quận 5|q5	hồ chí minh|hcm
+an điềm|ađ	phường 10|p1	quận 5|q5	hồ chí minh|hcm
+phạm đôn|pđ	phường 10|p1	quận 5|q5	hồ chí minh|hcm
+lương nhữ học|lnh	phường 12|p1	quận 5|q5	hồ chí minh|hcm
+tân hưng|th	phường 12|p1	quận 5|q5	hồ chí minh|hcm
+lý thường kiệt|ltk	phường 12|p1	quận 5|q5	hồ chí minh|hcm
+tăng bạt hổ|tbh	phường 12|p1	quận 5|q5	hồ chí minh|hcm
+bà triệu|bt	phường 12|p1	quận 5|q5	hồ chí minh|hcm
+hồng bàng|hb	phường 12|p1	quận 5|q5	hồ chí minh|hcm
+hùng vương|hv	phường 12|p1	quận 5|q5	hồ chí minh|hcm
+nguyễn chí thanh|nct	phường 12|p1	quận 5|q5	hồ chí minh|hcm
+thuận kiều|tk	phường 12|p1	quận 5|q5	hồ chí minh|hcm
+phó cơ điều|pcđ	phường 12|p1	quận 5|q5	hồ chí minh|hcm
+tân thành|tt	phường 12|p1	quận 5|q5	hồ chí minh|hcm
+đỗ ngọc thạnh|đnt	phường 12|p1	quận 5|q5	hồ chí minh|hcm
+phạm hữu chí|phc	phường 12|p1	quận 5|q5	hồ chí minh|hcm
+đỗ ngọc thạnh|đnt	phường 14|p1	quận 5|q5	hồ chí minh|hcm
+châu văn liêm|cvl	phường 14|p1	quận 5|q5	hồ chí minh|hcm
+hồng bàng|hb	phường 14|p1	quận 5|q5	hồ chí minh|hcm
+trang tử|tt	phường 14|p1	quận 5|q5	hồ chí minh|hcm
+tống duy tân|tdt	phường 14|p1	quận 5|q5	hồ chí minh|hcm
+lão tử|lt	phường 14|p1	quận 5|q5	hồ chí minh|hcm
+nguyễn thị nhỏ|ntn	phường 14|p1	quận 5|q5	hồ chí minh|hcm
+trần hưng đạo|thđ	phường 14|p1	quận 5|q5	hồ chí minh|hcm
+trần chánh chiếu|tcc	phường 14|p1	quận 5|q5	hồ chí minh|hcm
+phùng hưng	phường 14|p1	quận 5|q5	hồ chí minh|hcm
+nguyễn trãi|nt	phường 14|p1	quận 5|q5	hồ chí minh|hcm
+tân hưng|th	phường 15|p1	quận 5|q5	hồ chí minh|hcm
+dương tử giang|dtg	phường 15|p1	quận 5|q5	hồ chí minh|hcm
+hồng bàng|hb	phường 15|p1	quận 5|q5	hồ chí minh|hcm
+nguyễn thị nhỏ|ntn	phường 15|p1	quận 5|q5	hồ chí minh|hcm
+nguyễn chí thanh|nct	phường 15|p1	quận 5|q5	hồ chí minh|hcm
+tân thành|tt	phường 15|p1	quận 5|q5	hồ chí minh|hcm
+phạm hữu chí|phc	phường 15|p1	quận 5|q5	hồ chí minh|hcm
+nguyễn văn cừ|nvc	phường 2|p2	quận 5|q5	hồ chí minh|hcm
+nguyễn biểu|nb	phường 2|p2	quận 5|q5	hồ chí minh|hcm
+huỳnh mẫn đạt|hmđ	phường 2|p2	quận 5|q5	hồ chí minh|hcm
+trần hưng đạo|thđ	phường 2|p2	quận 5|q5	hồ chí minh|hcm
+trần bình trọng|tbt	phường 2|p2	quận 5|q5	hồ chí minh|hcm
+nguyễn trãi|nt	phường 2|p2	quận 5|q5	hồ chí minh|hcm
+trần bình trọng|tbt	phường 3|p3	quận 5|q5	hồ chí minh|hcm
+nguyễn văn cừ|nvc	phường 3|p3	quận 5|q5	hồ chí minh|hcm
+huỳnh mẫn đạt|hmđ	phường 3|p3	quận 5|q5	hồ chí minh|hcm
+lê hồng phong|lhp	phường 3|p3	quận 5|q5	hồ chí minh|hcm
+an dương vương|adv	phường 3|p3	quận 5|q5	hồ chí minh|hcm
+nguyễn trãi|nt	phường 3|p3	quận 5|q5	hồ chí minh|hcm
+nguyễn văn cừ|nvc	phường 4|p4	quận 5|q5	hồ chí minh|hcm
+trần phú|tp	phường 4|p4	quận 5|q5	hồ chí minh|hcm
+hùng vương|hv	phường 4|p4	quận 5|q5	hồ chí minh|hcm
+an dương vương|adv	phường 4|p4	quận 5|q5	hồ chí minh|hcm
+lê hồng phong|lhp	phường 4|p4	quận 5|q5	hồ chí minh|hcm
+trần bình trọng|tbt	phường 4|p4	quận 5|q5	hồ chí minh|hcm
+nguyễn thời trung|ntt	phường 6|p6	quận 5|q5	hồ chí minh|hcm
+nguyễn tri phương|ntp	phường 6|p6	quận 5|q5	hồ chí minh|hcm
+võ văn kiệt|vvk	phường 6|p6	quận 5|q5	hồ chí minh|hcm
+trần hưng đạo|thđ	phường 6|p6	quận 5|q5	hồ chí minh|hcm
+nguyễn văn đừng|nvđ	phường 6|p6	quận 5|q5	hồ chí minh|hcm
+ngô quyền|nq	phường 7|p7	quận 5|q5	hồ chí minh|hcm
+trần tuấn khải|ttk	phường 7|p7	quận 5|q5	hồ chí minh|hcm
+trần phú|tp	phường 7|p7	quận 5|q5	hồ chí minh|hcm
+nguyễn tri phương|ntp	phường 7|p7	quận 5|q5	hồ chí minh|hcm
+an bình|ab	phường 7|p7	quận 5|q5	hồ chí minh|hcm
+huỳnh mẫn đạt|hmđ	phường 7|p7	quận 5|q5	hồ chí minh|hcm
+trần hưng đạo|thđ	phường 7|p7	quận 5|q5	hồ chí minh|hcm
+trần xuân hoà|txh	phường 7|p7	quận 5|q5	hồ chí minh|hcm
+nguyễn trãi|nt	phường 7|p7	quận 5|q5	hồ chí minh|hcm
+bùi hữu nghĩa|bhn	phường 7|p7	quận 5|q5	hồ chí minh|hcm
+nguyễn duy dương|ndd	phường 8|p8	quận 5|q5	hồ chí minh|hcm
+trần phú|tp	phường 8|p8	quận 5|q5	hồ chí minh|hcm
+nguyễn tri phương|ntp	phường 8|p8	quận 5|q5	hồ chí minh|hcm
+an dương vương|adv	phường 8|p8	quận 5|q5	hồ chí minh|hcm
+nguyễn trãi|nt	phường 8|p8	quận 5|q5	hồ chí minh|hcm
+nguyễn duy dương|ndd	phường 9|p9	quận 5|q5	hồ chí minh|hcm
+ngô quyền|nq	phường 9|p9	quận 5|q5	hồ chí minh|hcm
+trần nhân tôn|tnt	phường 9|p9	quận 5|q5	hồ chí minh|hcm
+trần phú|tp	phường 9|p9	quận 5|q5	hồ chí minh|hcm
+nguyễn tri phương|ntp	phường 9|p9	quận 5|q5	hồ chí minh|hcm
+hùng vương|hv	phường 9|p9	quận 5|q5	hồ chí minh|hcm
+sư vạn hạnh|svh	phường 9|p9	quận 5|q5	hồ chí minh|hcm
+nguyễn chí thanh|nct	phường 9|p9	quận 5|q5	hồ chí minh|hcm
+an dương vương|adv	phường 9|p9	quận 5|q5	hồ chí minh|hcm
+dương quảng hàm|dqh	phường 5|p5	gò vấp	hồ chí minh|hcm
+trần phú cường|tpc	phường 5|p5	gò vấp	hồ chí minh|hcm
+trần bá giao|tbg	phường 5|p5	gò vấp	hồ chí minh|hcm
+lương ngọc quyến|lnq	phường 5|p5	gò vấp	hồ chí minh|hcm
+nguyễn văn nghi|nvn	phường 5|p5	gò vấp	hồ chí minh|hcm
+phan văn trị|pvt	phường 5|p5	gò vấp	hồ chí minh|hcm
+huỳnh khương an|hka	phường 5|p5	gò vấp	hồ chí minh|hcm
+nguyễn thái sơn|nts	phường 5|p5	gò vấp	hồ chí minh|hcm
+thích bửu đăng|tbđ	phường 1|p1	gò vấp	hồ chí minh|hcm
+trần quốc tuấn|tqt	phường 1|p1	gò vấp	hồ chí minh|hcm
+phạm văn đồng|pvđ	phường 1|p1	gò vấp	hồ chí minh|hcm
+nguyên hồng|nh	phường 1|p1	gò vấp	hồ chí minh|hcm
+nguyễn thượng hiền|nth	phường 1|p1	gò vấp	hồ chí minh|hcm
+trương đăng quế|tđq	phường 1|p1	gò vấp	hồ chí minh|hcm
+lê quang định|lqđ	phường 1|p1	gò vấp	hồ chí minh|hcm
+thống nhất|tn	phường 10|p1	gò vấp	hồ chí minh|hcm
+quang trung|qt	phường 10|p1	gò vấp	hồ chí minh|hcm
+thông tây hội|tth	phường 10|p1	gò vấp	hồ chí minh|hcm
+nguyễn văn lượng|nvl	phường 10|p1	gò vấp	hồ chí minh|hcm
+phan văn trị|pvt	phường 10|p1	gò vấp	hồ chí minh|hcm
+nguyễn oanh|no	phường 10|p1	gò vấp	hồ chí minh|hcm
+huỳnh văn nghệ|hvn	phường 12|p1	gò vấp	hồ chí minh|hcm
+phạm văn bạch|pvb	phường 12|p1	gò vấp	hồ chí minh|hcm
+phạm văn chiêu|pvc	phường 12|p1	gò vấp	hồ chí minh|hcm
+quang trung|qt	phường 12|p1	gò vấp	hồ chí minh|hcm
+nguyễn tư giản|ntg	phường 12|p1	gò vấp	hồ chí minh|hcm
+bùi quang là|bql	phường 12|p1	gò vấp	hồ chí minh|hcm
+tân sơn|ts	phường 12|p1	gò vấp	hồ chí minh|hcm
+nguyễn duy cung|ndc	phường 12|p1	gò vấp	hồ chí minh|hcm
+phan huy ích|phí	phường 12|p1	gò vấp	hồ chí minh|hcm
+đỗ thúc tịnh|đtt	phường 12|p1	gò vấp	hồ chí minh|hcm
+thống nhất|tn	phường 11|p1	gò vấp	hồ chí minh|hcm
+quang trung|qt	phường 11|p1	gò vấp	hồ chí minh|hcm
+thống nhất|tn	phường 13|p1	gò vấp	hồ chí minh|hcm
+phạm văn chiêu|pvc	phường 13|p1	gò vấp	hồ chí minh|hcm
+an hội|ah	phường 13|p1	gò vấp	hồ chí minh|hcm
+lê văn thọ|lvt	phường 13|p1	gò vấp	hồ chí minh|hcm
+lê đức thọ|lđt	phường 13|p1	gò vấp	hồ chí minh|hcm
+quang trung|qt	phường 14|p1	gò vấp	hồ chí minh|hcm
+phan huy ích|phí	phường 14|p1	gò vấp	hồ chí minh|hcm
+lê văn thọ|lvt	phường 14|p1	gò vấp	hồ chí minh|hcm
+lê đức thọ|lđt	phường 14|p1	gò vấp	hồ chí minh|hcm
+trương minh giảng|tmg	phường 17|p1	gò vấp	hồ chí minh|hcm
+lê đức thọ|lđt	phường 17|p1	gò vấp	hồ chí minh|hcm
+an nhơn	phường 17|p1	gò vấp	hồ chí minh|hcm
+nguyễn văn lượng|nvl	phường 17|p1	gò vấp	hồ chí minh|hcm
+lê thị hồng|lth	phường 17|p1	gò vấp	hồ chí minh|hcm
+lê hoàng phái|lhp	phường 17|p1	gò vấp	hồ chí minh|hcm
+nguyễn oanh|no	phường 17|p1	gò vấp	hồ chí minh|hcm
+thống nhất|tn	phường 16|p1	gò vấp	hồ chí minh|hcm
+phạm văn chiêu|pvc	phường 16|p1	gò vấp	hồ chí minh|hcm
+nguyễn văn lượng|nvl	phường 16|p1	gò vấp	hồ chí minh|hcm
+lê văn thọ|lvt	phường 16|p1	gò vấp	hồ chí minh|hcm
+lê đức thọ|lđt	phường 16|p1	gò vấp	hồ chí minh|hcm
+tú mỡ|tm	phường 7|p7	gò vấp	hồ chí minh|hcm
+lý thường kiệt|ltk	phường 7|p7	gò vấp	hồ chí minh|hcm
+dương quảng hàm|dqh	phường 7|p7	gò vấp	hồ chí minh|hcm
+nguyễn huy điển|nhđ	phường 7|p7	gò vấp	hồ chí minh|hcm
+phạm huy thông|pht	phường 7|p7	gò vấp	hồ chí minh|hcm
+nguyễn văn nghi|nvn	phường 7|p7	gò vấp	hồ chí minh|hcm
+phan văn trị|pvt	phường 7|p7	gò vấp	hồ chí minh|hcm
+phạm ngũ lão|pnl	phường 7|p7	gò vấp	hồ chí minh|hcm
+nguyễn thái sơn|nts	phường 7|p7	gò vấp	hồ chí minh|hcm
+trần thị nghỉ|ttn	phường 7|p7	gò vấp	hồ chí minh|hcm
+hạnh thông|ht	phường 3|p3	gò vấp	hồ chí minh|hcm
+phạm văn đồng|pvđ	phường 3|p3	gò vấp	hồ chí minh|hcm
+bạch đằng|bđ	phường 3|p3	gò vấp	hồ chí minh|hcm
+nguyễn tuân|nt	phường 3|p3	gò vấp	hồ chí minh|hcm
+nguyễn kiệm|nk	phường 3|p3	gò vấp	hồ chí minh|hcm
+nguyễn thái sơn|nts	phường 3|p3	gò vấp	hồ chí minh|hcm
+lê lai|ll	phường 3|p3	gò vấp	hồ chí minh|hcm
+nguyễn thái sơn|nts	phường 4|p4	gò vấp	hồ chí minh|hcm
+lê lợi|ll	phường 4|p4	gò vấp	hồ chí minh|hcm
+nguyễn văn nghi|nvn	phường 4|p4	gò vấp	hồ chí minh|hcm
+dương quảng hàm|dqh	phường 6|p6	gò vấp	hồ chí minh|hcm
+lê đức thọ|lđt	phường 6|p6	gò vấp	hồ chí minh|hcm
+nguyễn văn lượng|nvl	phường 6|p6	gò vấp	hồ chí minh|hcm
+phạm huy thông|pht	phường 6|p6	gò vấp	hồ chí minh|hcm
+nguyễn oanh|no	phường 6|p6	gò vấp	hồ chí minh|hcm
+phạm văn chiêu|pvc	phường 8|p8	gò vấp	hồ chí minh|hcm
+quang trung|qt	phường 8|p8	gò vấp	hồ chí minh|hcm
+lê văn thọ|lvt	phường 8|p8	gò vấp	hồ chí minh|hcm
+phạm văn chiêu|pvc	phường 9|p9	gò vấp	hồ chí minh|hcm
+nguyễn văn khối|nvk	phường 9|p9	gò vấp	hồ chí minh|hcm
+lê văn thọ|lvt	phường 9|p9	gò vấp	hồ chí minh|hcm
+nguyễn văn tạo|nvt	hiệp phước|hp	nhà bè	hồ chí minh|hcm
+phan văn bảy|pvb	hiệp phước|hp	nhà bè	hồ chí minh|hcm
+thanh niên xung phong|tnxp	hiệp phước|hp	nhà bè	hồ chí minh|hcm
+long thới nhơn đức|ltnđ	long thới|lt	nhà bè	hồ chí minh|hcm
+nguyễn văn tạo|nvt	long thới|lt	nhà bè	hồ chí minh|hcm
+đặng nhữ lâm|đnl	nhà bè|nb	nhà bè	hồ chí minh|hcm
+dương cát lợi|dcl	nhà bè|nb	nhà bè	hồ chí minh|hcm
+huỳnh tấn phát|htp	nhà bè|nb	nhà bè	hồ chí minh|hcm
+nguyễn bình|nb	nhơn đức|nđ	nhà bè	hồ chí minh|hcm
+đào sư tích|đst	phước kiển|pk	nhà bè	hồ chí minh|hcm
+nguyễn hữu thọ|nht	phước kiển|pk	nhà bè	hồ chí minh|hcm
+lê văn lương|lvl	phước kiển|pk	nhà bè	hồ chí minh|hcm
+thái thị giữ|ttg	bà điểm|bđ	hóc môn	hồ chí minh|hcm
+phan văn hớn|pvh	bà điểm|bđ	hóc môn	hồ chí minh|hcm
+ấp hậu lân|ấhl	bà điểm|bđ	hóc môn	hồ chí minh|hcm
+nd ấp tiền lân|nấtl	bà điểm|bđ	hóc môn	hồ chí minh|hcm
+nguyễn ảnh thủ|nảt	bà điểm|bđ	hóc môn	hồ chí minh|hcm
+trung lân|tl	bà điểm|bđ	hóc môn	hồ chí minh|hcm
+ấp hưng lân|ấhl	bà điểm|bđ	hóc môn	hồ chí minh|hcm
+ấp tiền lân|ấtl	bà điểm|bđ	hóc môn	hồ chí minh|hcm
+nguyễn thị sóc|nts	bà điểm|bđ	hóc môn	hồ chí minh|hcm
+võ thị đầy|vtđ	nhị bình|nb	hóc môn	hồ chí minh|hcm
+bùi công trừng|bct	nhị bình|nb	hóc môn	hồ chí minh|hcm
+đặng thúc vịnh|đtv	thới tam thôn|ttt	hóc môn	hồ chí minh|hcm
+nguyễn ảnh thủ|nảt	thới tam thôn|ttt	hóc môn	hồ chí minh|hcm
+trịnh thị miếng|ttm	thới tam thôn|ttt	hóc môn	hồ chí minh|hcm
+tô ký|tk	thới tam thôn|ttt	hóc môn	hồ chí minh|hcm
+bùi văn ngữ|bvn	thới tam thôn|ttt	hóc môn	hồ chí minh|hcm
+phạm thị giây|ptg	thới tam thôn|ttt	hóc môn	hồ chí minh|hcm
+nguyễn thị thảnh|ntt	thới tam thôn|ttt	hóc môn	hồ chí minh|hcm
+âp đông|âđ	thới tam thôn|ttt	quận 12|q1	hồ chí minh|hcm
+ấp vạn hạnh|ấvh	tân xuân|tx	quận 12|q1	hồ chí minh|hcm
+huỳnh thị mài|htm	tân hiệp|th	hóc môn	hồ chí minh|hcm
+rỗng bàng|rb	tân hiệp|th	hóc môn	hồ chí minh|hcm
+đỗ văn dậy|đvd	tân hiệp|th	hóc môn	hồ chí minh|hcm
+ấp tân hoà|ấth	tân hiệp|th	hóc môn	hồ chí minh|hcm
+thới tây tân hiệp|ttth	tân hiệp|th	hóc môn	hồ chí minh|hcm
+lê thị lơ|ltl	tân hiệp|th	hóc môn	hồ chí minh|hcm
+lê lợi|ll	tân hiệp|th	hóc môn	hồ chí minh|hcm
+dương công khi|dck	tân thới nhì|ttn	hóc môn	hồ chí minh|hcm
+lê lợi|ll	tân thới nhì|ttn	hóc môn	hồ chí minh|hcm
+nguyễn thị thử|ntt	xuân thới sơn|xts	hóc môn	hồ chí minh|hcm
+nguyễn thị đành|ntđ	xuân thới sơn|xts	hóc môn	hồ chí minh|hcm
+nguyễn văn bứa|nvb	xuân thới thượng|xtt	hóc môn	hồ chí minh|hcm
+phan văn hớn|pvh	xuân thới thượng|xtt	hóc môn	hồ chí minh|hcm
+dương công khi|dck	xuân thới thượng|xtt	hóc môn	hồ chí minh|hcm
+phạm văn sáng|pvs	xuân thới thượng|xtt	hóc môn	hồ chí minh|hcm
+đặng công bỉnh|đcb	xuân thới thượng|xtt	hóc môn	hồ chí minh|hcm
+huỳnh thị na|htn	đông thạnh|đt	hóc môn	hồ chí minh|hcm
+lê văn khương|lvk	đông thạnh|đt	hóc môn	hồ chí minh|hcm
+đặng thúc vịnh|đtv	đông thạnh|đt	hóc môn	hồ chí minh|hcm
+dương nguyễn thị pha|dntp	đông thạnh|đt	hóc môn	hồ chí minh|hcm
+bùi công trừng|bct	đông thạnh|đt	hóc môn	hồ chí minh|hcm
+trần quang đạo|tqđ	bình khánh|bk	cần giờ	hồ chí minh|hcm
+đào cử|đc	cần thạnh|ct	cần giờ	hồ chí minh|hcm
+giồng ao|ga	cần thạnh|ct	cần giờ	hồ chí minh|hcm
+lương văn nho|lvn	cần thạnh|ct	cần giờ	hồ chí minh|hcm
+tắc xuất|tx	cần thạnh|ct	cần giờ	hồ chí minh|hcm
+thạnh thới|tt	long hoà|lh	cần giờ	hồ chí minh|hcm
+nguyễn công bao|ncb	tam thôn hiệp|tth	cần giờ	hồ chí minh|hcm
+thạnh bình|tb	thạnh an|ta	cần giờ	hồ chí minh|hcm
