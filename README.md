@@ -28,15 +28,17 @@ With background images, we use the fonts which is available in the repository ab
 ### 1.2 Download data
 
 After that, we generated 5 synthtic data for training and fine-tuning:
-    -   images_style ([link](https://drive.google.com/file/d/1AOlXamwoEeFx5PxqJTBAgSV4sMP_BtvE/view?usp=sharing))
+
+- images_style ([link](https://drive.google.com/file/d/1AOlXamwoEeFx5PxqJTBAgSV4sMP_BtvE/view?usp=sharing))
     
-    -   images_no_style([link](https://drive.google.com/file/d/1_MzAYl_8pPqhOE1WSUO68Wl1d8vrzFep/view?usp=sharing))
+- images_no_style([link](https://drive.google.com/file/d/1_MzAYl_8pPqhOE1WSUO68Wl1d8vrzFep/view?usp=sharing))
     
-    -   images_kalapa+cinamon ([link](https://drive.google.com/file/d/1Is1-Ao12F-uqK1l9DwBKRWNRHMxWyCYJ/view?usp=sharing))
+- images_kalapa+cinamon ([link](https://drive.google.com/file/d/1Is1-Ao12F-uqK1l9DwBKRWNRHMxWyCYJ/view?usp=sharing))
     
-    -   images_2k ([link](https://drive.google.com/file/d/1WsKy7dg71AwyRRJGqiNFTm-DF0DTwRDu/view?usp=sharing))
+- images_2k ([link](https://drive.google.com/file/d/1WsKy7dg71AwyRRJGqiNFTm-DF0DTwRDu/view?usp=sharing))
     
-    -   images_3k ([link](https://drive.google.com/file/d/18JzsuYjMGm_IuUGhfWlKnL1E_XwcDFbT/view?usp=sharing))
+- images_3k ([link](https://drive.google.com/file/d/18JzsuYjMGm_IuUGhfWlKnL1E_XwcDFbT/view?usp=sharing))
+
 ## 2. Train model
 ### 2.1 Setup environment
 ```bash
