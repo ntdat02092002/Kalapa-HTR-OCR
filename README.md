@@ -1,5 +1,6 @@
 # Kalapa - Vietnamese Handwritten Text Recognition
 Building a lightweight OCR model to solve the problem of recognizing handwritten address in Vietnam
+link competition: https://challenge.kalapa.vn/portal/handwritten-vietnamese-text-recognition/overview
 
 ## 0. Pipeline (optional)
 ### Stage1
