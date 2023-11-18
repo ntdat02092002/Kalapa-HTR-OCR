@@ -14,7 +14,9 @@ Generate data with selected handwritten fonts and finetune model from this + dat
 Generate more data (little data each finetune stage) and finetune model from previous data + this
 
 ## 1. Download data
+All our generated data here: ...updating...
 
+We use tool <place_holder> to generate all this data
 
 ## 2. Train model
 ### 2.1 Setup environment
