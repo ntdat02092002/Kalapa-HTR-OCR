@@ -29,9 +29,9 @@ With background images, we use the background images which are available in the 
 
 After that, we generated 5 synthtic data for training and fine-tuning:
 
-- images_style ([link](https://drive.google.com/file/d/1AOlXamwoEeFx5PxqJTBAgSV4sMP_BtvE/view?usp=sharing))
-    
 - images_no_style([link](https://drive.google.com/file/d/1_MzAYl_8pPqhOE1WSUO68Wl1d8vrzFep/view?usp=sharing))
+
+- images_style ([link](https://drive.google.com/file/d/1AOlXamwoEeFx5PxqJTBAgSV4sMP_BtvE/view?usp=sharing))
     
 - images_kalapa+cinamon ([link](https://drive.google.com/file/d/1Is1-Ao12F-uqK1l9DwBKRWNRHMxWyCYJ/view?usp=sharing))
     
