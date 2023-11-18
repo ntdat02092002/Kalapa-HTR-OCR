@@ -23,7 +23,7 @@ For preparing labels, we use labels from the training set and test set of the [C
     
 For preparing fonts, we choose some fonts from Google for Vietnamese at [here](https://fonts.google.com/?subset=vietnamese&noto.script=Latn).
     
-With background images, we use the fonts which is available in the repository above.
+With background images, we use the background images which are available in the repository above.
     
 ### 1.2 Download data
 
