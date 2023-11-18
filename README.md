@@ -14,7 +14,7 @@ Generate data with selected handwritten fonts and finetune model from this + dat
 Generate more data (little data each finetune stage) and finetune model from previous data + this
 
 ## 1. Datasets
-1.1 Prepare data
+### 1.1 Prepare data
 
 We use tool [VietNamese-OCR-DataGenerator](https://github.com/docongminh/VietNamese-OCR-DataGenerator) to generate synthetic data for training and fine-tuning. 
 
@@ -25,7 +25,7 @@ For preparing fonts, we will choose some fonts from Google for Vietnamese at [he
     
 With background images, we will use the fonts which is available in the repository above.
     
-1.2 Download data
+### 1.2 Download data
 
 After that, we generated 5 synthtic data for training and fine-tuning:
 
