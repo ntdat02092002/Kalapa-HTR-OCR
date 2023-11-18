@@ -14,9 +14,17 @@ Generate data with selected handwritten fonts and finetune model from this + dat
 Generate more data (little data each finetune stage) and finetune model from previous data + this
 
 ## 1. Download data
-All our generated data here: ...updating...
-
-We use tool <place_holder> to generate all this data
+We use tool [VietNamese-OCR-DataGenerator](https://github.com/docongminh/VietNamese-OCR-DataGenerator) to generate synthetic data for training and fine-tuning. 
+To use this tool, you need the labels, fonts, and background images. 
+    - For preparing labels, we use labels from the training set and test set of the [Cinamon](https://github.com/pbcquoc/vietnamese_ocr/blob/master/README.md) set published in the CINAMON AI MARATHON competition along with labels from the training set of the organizers of this task.
+    - For preparing fonts, we will choose some fonts from Google for Vietnamese at [here](https://fonts.google.com/?subset=vietnamese&noto.script=Latn).
+    - With background images, we will use the fonts which is available in the repository above.
+After that, we generated 5 synthtic data for training and fine-tuning:
+    - images_style ([link](https://drive.google.com/file/d/1AOlXamwoEeFx5PxqJTBAgSV4sMP_BtvE/view?usp=sharing))
+    - images_no_style([link](https://drive.google.com/file/d/1_MzAYl_8pPqhOE1WSUO68Wl1d8vrzFep/view?usp=sharing))
+    - images_kalapa+cinamon ([link](https://drive.google.com/file/d/1Is1-Ao12F-uqK1l9DwBKRWNRHMxWyCYJ/view?usp=sharing))
+    - images_2k ([link](https://drive.google.com/file/d/1WsKy7dg71AwyRRJGqiNFTm-DF0DTwRDu/view?usp=sharing))
+    - images_3k ([link](https://drive.google.com/file/d/18JzsuYjMGm_IuUGhfWlKnL1E_XwcDFbT/view?usp=sharing))
 
 ## 2. Train model
 ### 2.1 Setup environment
