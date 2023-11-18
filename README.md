@@ -21,9 +21,9 @@ We use tool [VietNamese-OCR-DataGenerator](https://github.com/docongminh/VietNam
 To use this tool, you need the labels, fonts, and background images. 
 For preparing labels, we use labels from the training set and test set of the [Cinamon](https://github.com/pbcquoc/vietnamese_ocr/blob/master/README.md) set published in the CINAMON AI MARATHON competition along with labels from the training set of the organizers of this task.
     
-For preparing fonts, we will choose some fonts from Google for Vietnamese at [here](https://fonts.google.com/?subset=vietnamese&noto.script=Latn).
+For preparing fonts, we choose some fonts from Google for Vietnamese at [here](https://fonts.google.com/?subset=vietnamese&noto.script=Latn).
     
-With background images, we will use the fonts which is available in the repository above.
+With background images, we use the fonts which is available in the repository above.
     
 ### 1.2 Download data
 
