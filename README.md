@@ -5,9 +5,9 @@ https://challenge.kalapa.vn/portal/handwritten-vietnamese-text-recognition/overv
 
 ## 0. Pipeline (optional)
 ### Stage1
-Generate easy data with printed fonts and train model from this 
+Generate easy data with printed fonts and train model from this (this data use only once)
 ### Stage2
-Generate harder data with hard fonts and finetune model from this
+Generate harder data with hard fonts and finetune model from this (this data use only once)
 ### Stage3
 Generate data with selected handwritten fonts and finetune model from this + training data from competition
 ### Finetune, finetune and continuously finetune
