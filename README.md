@@ -9,9 +9,9 @@ Generate easy data with printed fonts and train model from this (this data use o
 ### Stage2
 Generate harder data with hard fonts and finetune model from this (this data use only once)
 ### Stage3
-Generate data with selected handwritten fonts and finetune model from this generated data + training data from competition
+Generate data with selected handwritten fonts and finetune model from this generated data + training data from competition (this data use only once)
 ### Finetune, finetune and continuously finetune
-Generate more data (little data each finetune stage) and finetune model from previous data + this generated data (concatenate)
+Generate more data (just a little at each finetune stage) and finetune model from the previous data + this generated data (we combine new generated data with data from the previous finetune stage, including training data from competition)
 
 ## 1. Datasets
 ### 1.1 Prepare data
