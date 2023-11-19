@@ -6,13 +6,11 @@ address_correction = AddressCorrection()
 def correct(answer):
     if not answer:
         return ""
-    if len(answer) > 80:
-        return ""
 
     answer_tokens = answer.split()
     answer = answer.lower()
 
-    result, diff = address_correction.address_correction(answer, correct_th=35)
+    result, diff = address_correction.address_correction(answer, correct_th=40)
     result = result.replace(",", "")
 
     result_tokens = result.split()
@@ -27,9 +25,9 @@ def correct(answer):
             if  'ắk' in answer_tokens[i] and 'ăk' in result_tokens[i]:
                 result_tokens[i] = result_tokens[i].replace('ăk', 'ắk')
 
-            if 'quý' in answer_tokens[i] and 'quí' in result_tokens[i]:
+            if 'quý' in answer_tokens[i].lower() and 'quí' in result_tokens[i].lower():
                 result_tokens[i] = result_tokens[i].replace('quí', 'quý')
-            if 'quí' in answer_tokens[i] and 'quý' in result_tokens[i]:
+            if 'quí' in answer_tokens[i].lower() and 'quý' in result_tokens[i].lower():
                 result_tokens[i] = result_tokens[i].replace('quý', 'quí')
 
             if answer_tokens[i][0].isupper():

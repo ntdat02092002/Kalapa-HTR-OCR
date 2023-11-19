@@ -246,6 +246,10 @@ class AddressCorrection:
                             prefix_district = 'tx'
                             new_district_index = district_index - 1
                             return new_district_index, prefix_district, distance
+                        if tokens[district_index - 1] == 'h':
+                            prefix_district = 'h'
+                            new_district_index = district_index - 1
+                            return new_district_index, prefix_district, distance
                         d = self.string_distance.distance(tokens[district_index - 1], 'thành phố')
                         if d < 30:
                             prefix_district = 'thành phố'
@@ -337,6 +341,20 @@ class AddressCorrection:
                         if result_distance_candidate < result_distance:
                             result_distance = result_distance_candidate
                             result = result_candidate
+
+                    elif tokens[index_province-1] == 't':
+                        if index_province <= 1:
+                            result = 't ' + province
+                            result_distance = distance_province
+                            continue
+                        result_candidate, result_distance_candidate = self._district_correction(
+                            tokens, 't', province, index_province - 1,
+                            distance_province, result_distance
+                        )
+                        if result_distance_candidate < result_distance:
+                            result_distance = result_distance_candidate
+                            result = result_candidate
+
                     elif index_province > 1 and self.string_distance.distance(' '.join(tokens[index_province-2:index_province]), 'thành phố') < 20:
                         if index_province <= 1:
                             result = 'thành phố ' + province

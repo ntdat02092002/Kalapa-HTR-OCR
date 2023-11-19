@@ -32,7 +32,7 @@ an phú	an giang
 tuyên hoá	quảng bình
 phú bình	thái nguyên
 xuân trường	nam định
-bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu
+bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
 bắc sơn	lạng sơn
 tuy hoà	phú yên
 đông giang	quảng nam
@@ -49,7 +49,7 @@ hoà bình	hoà bình
 thuận châu	sơn la
 cao lộc	lạng sơn
 yên thành	nghệ an
-tân thành	bà rịa vũng tàu|bà rịa|vũng tàu
+tân thành	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
 mai sơn	sơn la
 can lộc	hà tĩnh
 yên bái	yên bái
@@ -111,7 +111,7 @@ chư păh	gia lai
 gò công	tiền giang
 trà ôn	vĩnh long
 long mỹ	hậu giang
-vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu
+vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
 đồng phú	bình phước
 thái thuỵ	thái bình
 cư m'gar	đắk lắk
@@ -272,7 +272,7 @@ dương kinh	hải phòng|hp
 thủ thừa	long an
 sông cầu	phú yên
 hạ long	quảng ninh
-long điền	bà rịa vũng tàu|bà rịa|vũng tàu
+long điền	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
 duy tiên	hà nam
 thanh khê	đà nẵng|đn
 quỳnh lưu	nghệ an
@@ -361,7 +361,7 @@ tân bình	hồ chí minh|hcm
 kông chro	gia lai
 cần giuộc	long an
 trần văn thời	cà mau
-xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu
+xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
 ba đình	hà nội|hn
 u minh thượng	kiên giang
 châu thành	an giang
@@ -371,7 +371,7 @@ tam đảo	vĩnh phúc
 si ma cai	lào cai
 mộ đức	quảng ngãi
 phong điền	cần thơ
-châu đức	bà rịa vũng tàu|bà rịa|vũng tàu
+châu đức	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
 tủa chùa	điện biên
 yên phong	bắc ninh
 quảng điền	thừa thiên huế
@@ -425,6 +425,7 @@ sơn động	bắc giang
 pleiku	gia lai
 chi lăng	lạng sơn
 nga sơn	thanh hoá
+nghi sơn	thanh hoá
 kon plông	kon tum
 hoa lư	ninh bình
 dương minh châu	tây ninh
@@ -688,7 +689,7 @@ biên hoà	đồng nai
 tam dương	vĩnh phúc
 cầu giấy	hà nội|hn
 điện biên đông	điện biên
-đất đỏ	bà rịa vũng tàu|bà rịa|vũng tàu
+đất đỏ	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
 lào cai	lào cai
 cà mau	cà mau
 kinh môn	hải dương

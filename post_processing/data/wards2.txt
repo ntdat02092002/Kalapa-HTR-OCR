@@ -526,14 +526,14 @@ hoàng tây	kim bảng	hà nam
 thuỵ lôi	kim bảng	hà nam
 liên sơn	kim bảng	hà nam
 đồng hoá	kim bảng	hà nam
-lộc an	đất đỏ	bà rịa vũng tàu|bà rịa|vũng tàu
-long mỹ	đất đỏ	bà rịa vũng tàu|bà rịa|vũng tàu
-phước hội	đất đỏ	bà rịa vũng tàu|bà rịa|vũng tàu
-phước long thọ	đất đỏ	bà rịa vũng tàu|bà rịa|vũng tàu
-phước hải	đất đỏ	bà rịa vũng tàu|bà rịa|vũng tàu
-đất đỏ	đất đỏ	bà rịa vũng tàu|bà rịa|vũng tàu
-láng dài	đất đỏ	bà rịa vũng tàu|bà rịa|vũng tàu
-long tân	đất đỏ	bà rịa vũng tàu|bà rịa|vũng tàu
+lộc an	đất đỏ	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+long mỹ	đất đỏ	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+phước hội	đất đỏ	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+phước long thọ	đất đỏ	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+phước hải	đất đỏ	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+đất đỏ	đất đỏ	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+láng dài	đất đỏ	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+long tân	đất đỏ	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
 hương sơn	tân kỳ	nghệ an
 đồng văn	tân kỳ	nghệ an
 nghĩa thái	tân kỳ	nghệ an
@@ -1012,7 +1012,6 @@ tăng nhơn phú a|tnpa	quận 9|9|q9	hồ chí minh|hcm
 long bình|lb	quận 9|9|q9	hồ chí minh|hcm
 liên trạch	bố trạch	quảng bình
 đồng trạch	bố trạch	quảng bình
-hải trạch	bố trạch	quảng bình
 hoà trạch	bố trạch	quảng bình
 sơn trạch	bố trạch	quảng bình
 nhân trạch	bố trạch	quảng bình
@@ -3819,22 +3818,22 @@ nguyệt ấn	ngọc lặc	thanh hoá
 lộc thịnh	ngọc lặc	thanh hoá
 ngọc trung	ngọc lặc	thanh hoá
 kiên thọ	ngọc lặc	thanh hoá
-quảng thành	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu
-đá bạc	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu
-bình ba	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu
-kim long	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu
-ngãi giao	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu
-sơn bình	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu
-bàu chinh	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu
-bình trung	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu
-suối rao	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu
-láng lớn	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu
-cù bị	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu
-xuân sơn	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu
-bình giã	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu
-suối nghệ	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu
-xà bang	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu
-nghĩa thành	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu
+quảng thành	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+đá bạc	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+bình ba	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+kim long	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+ngãi giao	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+sơn bình	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+bàu chinh	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+bình trung	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+suối rao	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+láng lớn	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+cù bị	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+xuân sơn	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+bình giã	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+suối nghệ	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+xà bang	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+nghĩa thành	châu đức	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
 ia rsai	krông pa	gia lai
 krông năng	krông pa	gia lai
 chư gu	krông pa	gia lai
@@ -4081,19 +4080,19 @@ vân mộng	văn quan	lạng sơn
 chu túc	văn quan	lạng sơn
 tràng sơn	văn quan	lạng sơn
 đại an	văn quan	lạng sơn
-hoà hiệp	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu
-bưng riềng	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu
-hoà hội	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu
-tân lâm	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu
-phước thuận	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu
-hoà bình	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu
-bông trang	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu
-phước bửu	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu
-xuyên mộc	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu
-bình châu	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu
-phước tân	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu
-bàu lâm	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu
-hoà hưng	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu
+hoà hiệp	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+bưng riềng	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+hoà hội	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+tân lâm	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+phước thuận	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+hoà bình	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+bông trang	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+phước bửu	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+xuyên mộc	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+bình châu	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+phước tân	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+bàu lâm	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+hoà hưng	xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
 lam sơn|ls	phú nhuận	hồ chí minh|hcm
 phường 15|P15|phường 15|p1	phú nhuận	hồ chí minh|hcm
 phường 2|p2	phú nhuận	hồ chí minh|hcm
@@ -7682,6 +7681,7 @@ bình minh	tĩnh gia	thanh hoá
 tùng lâm	tĩnh gia	thanh hoá
 hải bình	tĩnh gia	thanh hoá
 hải hoà	tĩnh gia	thanh hoá
+hải hoà	nghi sơn	thanh hoá
 hải châu	tĩnh gia	thanh hoá
 tân trường	tĩnh gia	thanh hoá
 hải an	tĩnh gia	thanh hoá
@@ -7700,6 +7700,37 @@ hải nhân	tĩnh gia	thanh hoá
 anh sơn	tĩnh gia	thanh hoá
 các sơn	tĩnh gia	thanh hoá
 thanh thuỷ	tĩnh gia	thanh hoá
+tân dân	nghi sơn	thanh hoá
+xuân lâm	nghi sơn	thanh hoá
+định hải	nghi sơn	thanh hoá
+thanh sơn	nghi sơn	thanh hoá
+phú lâm	nghi sơn	thanh hoá
+trúc lâm	nghi sơn	thanh hoá
+tĩnh hải	nghi sơn	thanh hoá
+ninh hải	nghi sơn	thanh hoá
+hải hà	nghi sơn	thanh hoá
+hải thanh	nghi sơn	thanh hoá
+nguyên bình	nghi sơn	thanh hoá
+ngọc lĩnh	nghi sơn	thanh hoá
+bình minh	nghi sơn	thanh hoá
+tùng lâm	nghi sơn	thanh hoá
+hải bình	nghi sơn	thanh hoá
+hải hoà	nghi sơn	thanh hoá
+hải châu	nghi sơn	thanh hoá
+tân trường	nghi sơn	thanh hoá
+hải an	nghi sơn	thanh hoá
+nghi sơn	nghi sơn	thanh hoá
+hải ninh	nghi sơn	thanh hoá
+hải lĩnh	nghi sơn	thanh hoá
+hải yến	nghi sơn	thanh hoá
+phú sơn	nghi sơn	thanh hoá
+hải thượng	nghi sơn	thanh hoá
+trường lâm	nghi sơn	thanh hoá
+mai lâm	nghi sơn	thanh hoá
+hải nhân	nghi sơn	thanh hoá
+anh sơn	nghi sơn	thanh hoá
+các sơn	nghi sơn	thanh hoá
+thanh thuỷ	nghi sơn	thanh hoá
 thanh quang	nam sách	hải dương
 minh tân	nam sách	hải dương
 nam trung	nam sách	hải dương
@@ -10377,13 +10408,13 @@ sủ ngòi	hoà bình	hoà bình
 yên mông	hoà bình	hoà bình
 chăm mát	hoà bình	hoà bình
 thái bình	hoà bình	hoà bình
-phước hưng	long điền	bà rịa vũng tàu|bà rịa|vũng tàu
-tam phước	long điền	bà rịa vũng tàu|bà rịa|vũng tàu
-an nhứt	long điền	bà rịa vũng tàu|bà rịa|vũng tàu
-long hải	long điền	bà rịa vũng tàu|bà rịa|vũng tàu
-phước tỉnh	long điền	bà rịa vũng tàu|bà rịa|vũng tàu
-long điền	long điền	bà rịa vũng tàu|bà rịa|vũng tàu
-an ngãi	long điền	bà rịa vũng tàu|bà rịa|vũng tàu
+phước hưng	long điền	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+tam phước	long điền	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+an nhứt	long điền	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+long hải	long điền	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+phước tỉnh	long điền	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+long điền	long điền	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+an ngãi	long điền	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
 ia đal	ia h' drai	kon tum
 ia dom	ia h' drai	kon tum
 ia tơi	ia h' drai	kon tum
@@ -10647,27 +10678,27 @@ châu khánh	long phú	sóc trăng
 phú hữu	long phú	sóc trăng
 long đức	long phú	sóc trăng
 song phụng	long phú	sóc trăng
-phước hiệp	bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu
-phước hưng	bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu
-tân hưng	bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu
-hoà long	bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu
-kim dinh	bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu
-phước nguyên	bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu
-long tâm	bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu
-long phước	bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu
-phước trung	bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu
-long hương	bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu
-long toàn	bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu
-sông xoài	tân thành	bà rịa vũng tàu|bà rịa|vũng tàu
-phú mỹ	tân thành	bà rịa vũng tàu|bà rịa|vũng tàu
-tóc tiên	tân thành	bà rịa vũng tàu|bà rịa|vũng tàu
-tân hoà	tân thành	bà rịa vũng tàu|bà rịa|vũng tàu
-mỹ xuân	tân thành	bà rịa vũng tàu|bà rịa|vũng tàu
-tân phước	tân thành	bà rịa vũng tàu|bà rịa|vũng tàu
-phước hoà	tân thành	bà rịa vũng tàu|bà rịa|vũng tàu
-hắc dịch	tân thành	bà rịa vũng tàu|bà rịa|vũng tàu
-tân hải	tân thành	bà rịa vũng tàu|bà rịa|vũng tàu
-châu pha	tân thành	bà rịa vũng tàu|bà rịa|vũng tàu
+phước hiệp	bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+phước hưng	bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+tân hưng	bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+hoà long	bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+kim dinh	bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+phước nguyên	bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+long tâm	bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+long phước	bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+phước trung	bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+long hương	bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+long toàn	bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+sông xoài	tân thành	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+phú mỹ	tân thành	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+tóc tiên	tân thành	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+tân hoà	tân thành	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+mỹ xuân	tân thành	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+tân phước	tân thành	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+phước hoà	tân thành	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+hắc dịch	tân thành	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+tân hải	tân thành	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+châu pha	tân thành	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
 lạc đạo	phan thiết	bình thuận
 thiện nghiệp	phan thiết	bình thuận
 phong nẫm	phan thiết	bình thuận
@@ -11319,23 +11350,23 @@ mỹ hương	mỹ tú	sóc trăng
 hưng phú	mỹ tú	sóc trăng
 long hưng	mỹ tú	sóc trăng
 mỹ thuận	mỹ tú	sóc trăng
-phường 12|P12|phường 12	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu
-phường 11|P11|phường 11	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu
-phường 8|P8|phường 8	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu
-phường 7|P7|phường 7	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu
-phường 5|P5|phường 5	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu
-thắng tam	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu
-phường 9|P9|phường 9	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu
-nguyễn an ninh	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu
-phường 2|P2|phường 2	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu
-thắng nhất	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu
-rạch dừa	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu
-phường 1|P1|phường 1	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu
-phường 3|P3|phường 3	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu
-thắng nhì	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu
-phường 4|P4|phường 4	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu
-phường 10|P10|phường 10	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu
-long sơn	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu
+phường 12|P12|phường 12	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+phường 11|P11|phường 11	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+phường 8|P8|phường 8	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+phường 7|P7|phường 7	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+phường 5|P5|phường 5	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+thắng tam	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+phường 9|P9|phường 9	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+nguyễn an ninh	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+phường 2|P2|phường 2	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+thắng nhất	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+rạch dừa	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+phường 1|P1|phường 1	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+phường 3|P3|phường 3	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+thắng nhì	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+phường 4|P4|phường 4	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+phường 10|P10|phường 10	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
+long sơn	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu|br vũng tàu
 chiềng khay	quỳnh nhai	sơn la
 mường chiên	quỳnh nhai	sơn la
 cà nàng	quỳnh nhai	sơn la
