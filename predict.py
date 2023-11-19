@@ -85,7 +85,7 @@ def main():
             image = Image.open(image_path).convert('RGB')
             pred = detector.predict(image, return_prob=False)
             pred = pred.strip()
-            if len(pred) > 75:
+            if len(pred) > 80:
                 pred = ""
 
             pred = post_process.correct(pred)
