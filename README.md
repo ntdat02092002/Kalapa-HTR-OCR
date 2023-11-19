@@ -41,6 +41,10 @@ After that, we generated 5 synthtic data for training and fine-tuning (arrange i
     
 <!-- - images_3k ([link](https://drive.google.com/file/d/18JzsuYjMGm_IuUGhfWlKnL1E_XwcDFbT/view?usp=sharing)) -->
 
+### 1.3 Split data for training
+To train the model, we need to divide the data into two sets: train set and valid set. Regarding the division principle, we will use `10%` of the data to make the valid set, the rest is the training set. To ensure consistency, we will set `random.seed(0)` and use `random` to randomly select the valid set without repetition.
+
+To divide data, we have provided code to divide data in `split_data.py`.
 ## 2. Train model
 ### 2.1 Setup environment
 ```bash
