@@ -24,11 +24,11 @@ def custom_init(self, config):
     self.vocab = vocab
     self.device = device
 
-config = Cfg.load_config_from_file("config.yml")
-config['weights'] = 'vgg_seq2seq.pth'
+config = Cfg.load_config_from_file("config.yml") # path to config file (file config in the same folder as model file)
+config['weights'] = 'vgg_seq2seq.pth'  # path to model file
 config['device'] = 'cpu'
 
 Predictor.__init__ = custom_init
 detector = Predictor(config)
 
-torch.save(detector.model, "my-model.pth")
+torch.save(detector.model, "my-model.pth") # path to save
