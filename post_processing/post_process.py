@@ -7,6 +7,13 @@ def correct(answer):
     if not answer:
         return ""
 
+    if len(answer) > 80:
+        return ""
+    # failure case -> return empty string
+    # in experiment, images not contains any word -> model will predict this string -> return ""
+    if answer.startswith("Thôn Hoà Châu Đông"):
+        return ""
+
     answer_tokens = answer.split()
     answer = answer.lower()
 
