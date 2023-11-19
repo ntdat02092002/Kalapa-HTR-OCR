@@ -35,7 +35,7 @@ After that, we generated 5 synthtic data for training and fine-tuning:
     
 - images_kalapa+cinamon ([link](https://drive.google.com/file/d/1Is1-Ao12F-uqK1l9DwBKRWNRHMxWyCYJ/view?usp=sharing))
 
-<! - images_htr ([link](https://drive.google.com/file/d/1jb6dSXOcBzy40bacAF341IXQ87D-RmB1/view?usp=sharing)) -->
+<!-- - images_htr ([link](https://drive.google.com/file/d/1jb6dSXOcBzy40bacAF341IXQ87D-RmB1/view?usp=sharing)) -->
     
 - images_2k ([link](https://drive.google.com/file/d/1WsKy7dg71AwyRRJGqiNFTm-DF0DTwRDu/view?usp=sharing))
     
