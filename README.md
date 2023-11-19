@@ -39,7 +39,7 @@ After that, we generated 5 synthtic data for training and fine-tuning:
     
 - images_2k ([link](https://drive.google.com/file/d/1WsKy7dg71AwyRRJGqiNFTm-DF0DTwRDu/view?usp=sharing))
     
-- images_3k ([link](https://drive.google.com/file/d/18JzsuYjMGm_IuUGhfWlKnL1E_XwcDFbT/view?usp=sharing))
+<!-- - images_3k ([link](https://drive.google.com/file/d/18JzsuYjMGm_IuUGhfWlKnL1E_XwcDFbT/view?usp=sharing)) -->
 
 ## 2. Train model
 ### 2.1 Setup environment
