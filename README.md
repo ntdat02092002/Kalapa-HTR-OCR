@@ -24,7 +24,8 @@ For preparing labels, we use labels from the training set and test set of the [C
 For preparing fonts, we choose some fonts from Google for Vietnamese at [here](https://fonts.google.com/?subset=vietnamese&noto.script=Latn).
     
 With background images, we use the background images which are available in the repository above.
-    
+
+**Note that all the data we use (except the data training of this competition) is generated using the data generation tool mentioned above.**
 ### 1.2 Download data
 
 After that, we generated 5 synthtic data for training and fine-tuning (arrange in order of generation as described in the pipeline section):
