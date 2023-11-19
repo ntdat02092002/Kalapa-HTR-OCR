@@ -1,6 +1,6 @@
 params:
   batch_size: 24
-  epochs: 150
+  epochs: 100
   iters_per_epoch: 375 
   print_every: 100 # show train loss at every n steps 
   valid_every: 100
