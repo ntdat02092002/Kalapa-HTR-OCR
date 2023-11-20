@@ -30,7 +30,7 @@ With background images, we use the background images which are available in the 
 
 After that, we generated 5 synthtic data for training and fine-tuning (arrange in order of generation as described in the pipeline section):
 
-- images_no_style([link](https://drive.google.com/file/d/1_MzAYl_8pPqhOE1WSUO68Wl1d8vrzFep/view?usp=sharing))
+- images_no_style ([link](https://drive.google.com/file/d/1_MzAYl_8pPqhOE1WSUO68Wl1d8vrzFep/view?usp=sharing))
 
 - images_style ([link](https://drive.google.com/file/d/1AOlXamwoEeFx5PxqJTBAgSV4sMP_BtvE/view?usp=sharing))
 
@@ -63,7 +63,7 @@ python train.py --config=./config.yaml
 ```
 #### Finetune model
 ```bash
-python train.py --config=./config.yaml --ckpt_pth="path/to/file/.pth/to/finetune"
+python train.py --config=./config.yaml --ckpt_path="path/to/file/.pth/to/finetune"
 ```
 
 ## 3. Inference
