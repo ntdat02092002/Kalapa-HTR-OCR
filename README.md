@@ -3,6 +3,8 @@ Building a lightweight OCR model to solve the problem of recognizing handwritten
 
 https://challenge.kalapa.vn/portal/handwritten-vietnamese-text-recognition/overview
 
+Our solution achieved the top 3 ranking in the public test and the top 7 ranking in the private test
+
 ## 0. Pipeline (optional)
 ### Stage1
 Generate easy data with printed fonts and train model from this (this data use only once)
